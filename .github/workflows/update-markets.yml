@@ -1,0 +1,105 @@
+name: Update Markets
+
+on:
+  schedule:
+    - cron: "*/30 * * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-markets:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Get repository
+        uses: actions/checkout@v4
+
+      - name: Get market data
+        run: |
+          python - <<'PY'
+          import urllib.request
+          import json
+          import re
+          from datetime import datetime, timezone
+
+          # Stooq provides free delayed market data.
+          # We use it only as a free starting point.
+
+          symbols = {
+              "sp500": "^spx",
+              "nasdaq": "^ndq",
+              "dow": "^dji",
+              "russell2000": "^rut"
+          }
+
+          result = {
+              "updated": datetime.now(timezone.utc).isoformat(),
+              "indices": {},
+              "rates": {},
+              "commodities": {}
+          }
+
+          def get_price(symbol):
+              url = (
+                  "https://stooq.com/q/l/"
+                  "?s=" + urllib.parse.quote(symbol) +
+                  "&f=sd2t2ohlcv&h&e=csv"
+              )
+
+              request = urllib.request.Request(
+                  url,
+                  headers={"User-Agent": "Mozilla/5.0"}
+              )
+
+              data = urllib.request.urlopen(
+                  request,
+                  timeout=20
+              ).read()
+              
+              lines = data.decode("utf-8").strip().splitlines()
+
+              if len(lines) < 2:
+                  return None
+
+              values = lines[1].split(",")
+
+              if len(values) < 7:
+                  return None
+
+              close = values[6]
+
+              if close == "N/D":
+                  return None
+
+              return float(close)
+
+          for name, symbol in symbols.items():
+
+              try:
+                  price = get_price(symbol)
+
+                  result["indices"][name] = {
+                      "value": price
+                  }
+
+                  print(name, price)
+
+              except Exception as e:
+                  print("Failed:", name, e)
+
+          with open("markets.json", "w") as f:
+              json.dump(result, f, indent=2)
+
+          print("Market data update complete.")
+
+          PY
+
+      - name: Save market data
+        run: |
+          git config user.name "Personal Intelligence"
+          git config user.email "actions@github.com"
+          git add markets.json
+          git diff --cached --quiet || git commit -m "Update market data"
+          git push
