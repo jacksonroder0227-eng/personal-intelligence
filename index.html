@@ -234,6 +234,25 @@
 
       <h2>📅 Your Calendar</h2>
 
+  <button
+    class="ai-button"
+    id="connect-calendar"
+    onclick="connectCalendar()">
+    Connect Google Calendar
+  </button>
+
+  <div
+    id="calendar-content"
+    style="margin-top:16px;">
+
+    <p class="placeholder">
+      Connect your Google Calendar to see your schedule.
+    </p>
+
+  </div>
+
+</div>
+
       <p class="placeholder">
         Your calendar will be connected here.
       </p>
@@ -506,10 +525,285 @@
 
 }
 
+const GOOGLE_CLIENT_ID =
+  "216151840518-oai6p09io4ecigf64kqatk3jqq92fqj1.apps.googleusercontent.com";
 
+const CALENDAR_SCOPE =
+  "https://www.googleapis.com/auth/calendar";
+
+let calendarTokenClient;
+let calendarAccessToken = null;
+
+
+function connectCalendar() {
+
+  calendarTokenClient =
+    google.accounts.oauth2.initTokenClient({
+
+      client_id: GOOGLE_CLIENT_ID,
+
+      scope: CALENDAR_SCOPE,
+
+      callback: async (response) => {
+
+        if (response.error) {
+
+          console.error(response);
+
+          document.getElementById(
+            "calendar-content"
+          ).innerHTML =
+            "<p class='placeholder'>" +
+            "Unable to connect Google Calendar." +
+            "</p>";
+
+          return;
+        }
+
+        calendarAccessToken =
+          response.access_token;
+
+        await loadCalendar();
+
+      }
+
+    });
+
+
+  calendarTokenClient.requestAccessToken();
+
+}
+
+
+async function loadCalendar() {
+
+  try {
+
+    const now = new Date();
+
+    const startOfToday =
+      new Date(
+        now.getFullYear(),
+        now.getMonth(),
+        now.getDate()
+      );
+
+    const endOfToday =
+      new Date(
+        now.getFullYear(),
+        now.getMonth(),
+        now.getDate() + 1
+      );
+
+    const weekEnd =
+      new Date(
+        now.getFullYear(),
+        now.getMonth(),
+        now.getDate() + 7
+      );
+
+
+    const url =
+      "https://www.googleapis.com/calendar/v3/" +
+      "calendars/primary/events" +
+      "?singleEvents=true" +
+      "&orderBy=startTime" +
+      "&timeMin=" +
+      encodeURIComponent(
+        startOfToday.toISOString()
+      ) +
+      "&timeMax=" +
+      encodeURIComponent(
+        weekEnd.toISOString()
+      );
+
+
+    const response =
+      await fetch(url, {
+
+        headers: {
+
+          Authorization:
+            "Bearer " +
+            calendarAccessToken
+
+        }
+
+      });
+
+
+    if (!response.ok) {
+
+      throw new Error(
+        "Calendar request failed: " +
+        response.status
+      );
+
+    }
+
+
+    const data =
+      await response.json();
+
+
+    displayCalendar(
+      data.items || []
+    );
+
+
+  } catch (error) {
+
+    console.error(error);
+
+    document.getElementById(
+      "calendar-content"
+    ).innerHTML =
+      "<p class='placeholder'>" +
+      "Unable to load calendar." +
+      "</p>";
+
+  }
+
+}
+
+
+function displayCalendar(events) {
+
+  const container =
+    document.getElementById(
+      "calendar-content"
+    );
+
+
+  let html =
+    "<h3>Today</h3>";
+
+
+  const today =
+    events.filter(event => {
+
+      return (
+        event.start &&
+        event.start.dateTime
+      );
+
+    });
+
+
+  if (today.length === 0) {
+
+    html +=
+      "<p class='placeholder'>" +
+      "No scheduled events today." +
+      "</p>";
+
+  } else {
+
+    today.forEach(event => {
+
+      const start =
+        new Date(
+          event.start.dateTime
+        );
+
+
+      html += `
+        <div class="story">
+
+          <strong>
+            ${start.toLocaleTimeString(
+              [],
+              {
+                hour: "numeric",
+                minute: "2-digit"
+              }
+            )}
+          </strong>
+
+          — ${event.summary || "Untitled event"}
+
+        </div>
+      `;
+
+    });
+
+  }
+
+
+  html +=
+    "<h3 style='margin-top:20px;'>" +
+    "This Week — All Day" +
+    "</h3>";
+
+
+  const allDay =
+    events.filter(event => {
+
+      return (
+        event.start &&
+        event.start.date
+      );
+
+    });
+
+
+  if (allDay.length === 0) {
+
+    html +=
+      "<p class='placeholder'>" +
+      "No all-day events this week." +
+      "</p>";
+
+  } else {
+
+    allDay.forEach(event => {
+
+      const date =
+        new Date(
+          event.start.date +
+          "T00:00:00"
+        );
+
+
+      html += `
+        <div class="story">
+
+          <strong>
+            ${date.toLocaleDateString(
+              [],
+              {
+                weekday: "short",
+                month: "short",
+                day: "numeric"
+              }
+            )}
+          </strong>
+
+          — ${event.summary || "Untitled event"}
+
+        </div>
+      `;
+
+    });
+
+  }
+
+
+  container.innerHTML =
+    html;
+
+
+  document.getElementById(
+    "connect-calendar"
+  ).textContent =
+    "Google Calendar Connected";
+
+}
 loadNews();
 loadMarkets();
 
+<script src="https://accounts.google.com/gsi/client"></script>
+    
 </script>
 
 </body>
