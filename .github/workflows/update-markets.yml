@@ -29,8 +29,8 @@ jobs:
               "nasdaq": "^IXIC",
               "dow": "^DJI",
               "russell2000": "^RUT",
+              "vix": "^VIX",
               "treasury10y": "^TNX",
-              "treasury2y": "^IRX",
               "oil": "CL=F",
               "gold": "GC=F"
           }
@@ -39,7 +39,8 @@ jobs:
               "updated": datetime.now(timezone.utc).isoformat(),
               "indices": {},
               "rates": {},
-              "commodities": {}
+              "commodities": {},
+              "volatility": {}
           }
 
           def get_quote(symbol):
@@ -112,10 +113,7 @@ jobs:
 
                   quote = get_quote(symbol)
 
-                  print(
-                      name,
-                      quote
-                  )
+                  print(name, quote)
 
                   if name in [
                       "sp500",
@@ -126,10 +124,7 @@ jobs:
 
                       result["indices"][name] = quote
 
-                  elif name in [
-                      "treasury10y",
-                      "treasury2y"
-                  ]:
+                  elif name == "treasury10y":
 
                       result["rates"][name] = quote
 
@@ -139,6 +134,10 @@ jobs:
                   ]:
 
                       result["commodities"][name] = quote
+
+                  elif name == "vix":
+
+                      result["volatility"][name] = quote
 
               except Exception as error:
 
