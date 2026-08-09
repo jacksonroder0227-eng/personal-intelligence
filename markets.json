@@ -1,0 +1,49 @@
+{
+  "updated": null,
+  "indices": {
+    "sp500": {
+      "name": "S&P 500",
+      "value": null,
+      "change": null
+    },
+    "nasdaq": {
+      "name": "Nasdaq",
+      "value": null,
+      "change": null
+    },
+    "dow": {
+      "name": "Dow Jones",
+      "value": null,
+      "change": null
+    },
+    "russell2000": {
+      "name": "Russell 2000",
+      "value": null,
+      "change": null
+    }
+  },
+  "rates": {
+    "treasury10y": {
+      "name": "10Y Treasury",
+      "value": null,
+      "change": null
+    },
+    "treasury2y": {
+      "name": "2Y Treasury",
+      "value": null,
+      "change": null
+    }
+  },
+  "commodities": {
+    "oil": {
+      "name": "Oil",
+      "value": null,
+      "change": null
+    },
+    "gold": {
+      "name": "Gold",
+      "value": null,
+      "change": null
+    }
+  }
+}
