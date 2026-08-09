@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color" content="#111827">
+
   <title>Personal Intelligence</title>
 
   <style>
@@ -22,37 +23,65 @@
     .header {
       background: #111827;
       color: white;
-      padding: 28px 20px 24px;
+      padding: 30px 20px 25px;
     }
 
     .header h1 {
       margin: 0;
       font-size: 28px;
+      letter-spacing: -0.5px;
     }
 
     .header p {
-      margin: 6px 0 0;
+      margin: 7px 0 0;
       color: #cbd5e1;
       font-size: 14px;
     }
 
     .container {
-      max-width: 800px;
+      max-width: 850px;
       margin: auto;
       padding: 18px;
     }
 
     .card {
       background: white;
-      border-radius: 16px;
+      border-radius: 18px;
       padding: 20px;
       margin-bottom: 16px;
       box-shadow: 0 2px 10px rgba(0,0,0,0.05);
     }
 
     .card h2 {
-      margin: 0 0 12px;
+      margin: 0 0 15px;
       font-size: 19px;
+    }
+
+    .story {
+      padding: 14px 0;
+      border-bottom: 1px solid #e5e7eb;
+    }
+
+    .story:last-child {
+      border-bottom: none;
+    }
+
+    .story a {
+      color: #111827;
+      text-decoration: none;
+      font-size: 16px;
+      font-weight: 600;
+      line-height: 1.4;
+    }
+
+    .story a:hover {
+      text-decoration: underline;
+    }
+
+    .story-time {
+      margin-top: 5px;
+      font-size: 12px;
+      color: #9ca3af;
     }
 
     .placeholder {
@@ -92,11 +121,12 @@
       color: white;
       font-size: 16px;
       font-weight: 600;
-      cursor: pointer;
     }
 
-    .ai-button:active {
-      transform: scale(0.98);
+    .updated {
+      font-size: 12px;
+      color: #9ca3af;
+      margin-top: 10px;
     }
 
     .footer {
@@ -112,92 +142,262 @@
 
   <div class="header">
     <h1>Personal Intelligence</h1>
-    <p>Your daily market, news & calendar briefing</p>
+    <p id="date"></p>
   </div>
 
   <div class="container">
 
+    <!-- WORLD NEWS -->
+
     <div class="card">
+
       <h2>🌎 Top 5 World News</h2>
-      <p class="placeholder">
-        Your five biggest stories from the last 24 hours will appear here.
-      </p>
+
+      <div id="world-news">
+        <p class="placeholder">Loading latest stories...</p>
+      </div>
+
     </div>
 
-    <div class="card">
-      <h2>💰 Finance</h2>
-      <p class="placeholder">
-        Three major financial stories and why they matter will appear here.
-      </p>
-    </div>
+
+    <!-- FINANCE -->
 
     <div class="card">
+
+      <h2>💰 Major Finance News</h2>
+
+      <div id="finance-news">
+        <p class="placeholder">Loading latest financial stories...</p>
+      </div>
+
+    </div>
+
+
+    <!-- MARKETS -->
+
+    <div class="card">
+
       <h2>📈 Markets</h2>
 
       <div class="market-grid">
 
         <div class="market">
           <div class="market-name">S&P 500</div>
-          <div class="market-value">Loading...</div>
+          <div class="market-value">Coming next</div>
         </div>
 
         <div class="market">
           <div class="market-name">Nasdaq</div>
-          <div class="market-value">Loading...</div>
+          <div class="market-value">Coming next</div>
         </div>
 
         <div class="market">
-          <div class="market-name">Dow</div>
-          <div class="market-value">Loading...</div>
+          <div class="market-name">Dow Jones</div>
+          <div class="market-value">Coming next</div>
         </div>
 
         <div class="market">
           <div class="market-name">10Y Treasury</div>
-          <div class="market-value">Loading...</div>
+          <div class="market-value">Coming next</div>
         </div>
 
       </div>
+
     </div>
 
+
+    <!-- CALENDAR -->
+
     <div class="card">
+
       <h2>📅 Your Calendar</h2>
+
       <p class="placeholder">
-        Today's schedule and important events coming this week will appear here.
+        Your calendar will be connected here.
       </p>
+
     </div>
 
-    <div class="card">
-      <h2>🔭 Tomorrow</h2>
-      <p class="placeholder">
-        Important market events to watch tomorrow will appear here.
-      </p>
-    </div>
+
+    <!-- TOMORROW -->
 
     <div class="card">
+
+      <h2>🔭 What To Watch Tomorrow</h2>
+
+      <p class="placeholder">
+        We'll identify important economic releases, earnings,
+        Fed events and market catalysts here.
+      </p>
+
+    </div>
+
+
+    <!-- WHY IT MATTERS -->
+
+    <div class="card">
+
       <h2>🧠 Why It Matters</h2>
+
       <p class="placeholder">
-        Your daily explanation of what today's biggest developments mean
-        for markets, investors and wealth management.
+        AI analysis will explain what today's biggest developments
+        mean for markets, investors and wealth management.
       </p>
+
     </div>
+
+
+    <!-- AI -->
 
     <div class="card">
-      <h2>🤖 Ask AI</h2>
+
+      <h2>🤖 Ask Personal Intelligence AI</h2>
+
       <p class="placeholder">
-        Ask questions about markets, news, economics or anything happening
-        in the world.
+        Ask questions about markets, economics, news and current events.
       </p>
 
-      <button class="ai-button" onclick="alert('AI assistant coming next!')">
-        Ask Personal Intelligence AI
+      <button class="ai-button"
+        onclick="alert('AI assistant coming soon!')">
+
+        Ask AI
+
       </button>
+
     </div>
+
+
+    <div class="updated" id="updated"></div>
 
     <div class="footer">
-      Personal Intelligence • Private personal dashboard
+      Personal Intelligence
     </div>
 
   </div>
+
+
+<script>
+
+  // Show today's date
+
+  const today = new Date();
+
+  document.getElementById("date").textContent =
+    today.toLocaleDateString(undefined, {
+      weekday: "long",
+      month: "long",
+      day: "numeric",
+      year: "numeric"
+    });
+
+
+  // Create a story element
+
+  function createStory(story) {
+
+    const div = document.createElement("div");
+
+    div.className = "story";
+
+    const link = document.createElement("a");
+
+    link.href = story.link;
+
+    link.target = "_blank";
+
+    link.rel = "noopener noreferrer";
+
+    link.textContent = story.title;
+
+    const time = document.createElement("div");
+
+    time.className = "story-time";
+
+    time.textContent = story.published || "";
+
+    div.appendChild(link);
+
+    div.appendChild(time);
+
+    return div;
+  }
+
+
+  // Load the news
+
+  async function loadNews() {
+
+    try {
+
+      const response = await fetch("news.json?" + Date.now());
+
+      if (!response.ok) {
+        throw new Error("Could not load news.");
+      }
+
+      const data = await response.json();
+
+
+      // World news
+
+      const worldContainer =
+        document.getElementById("world-news");
+
+      worldContainer.innerHTML = "";
+
+
+      data.world.slice(0, 5).forEach(story => {
+
+        worldContainer.appendChild(
+          createStory(story)
+        );
+
+      });
+
+
+      // Finance news
+
+      const financeContainer =
+        document.getElementById("finance-news");
+
+      financeContainer.innerHTML = "";
+
+
+      data.finance.slice(0, 3).forEach(story => {
+
+        financeContainer.appendChild(
+          createStory(story)
+        );
+
+      });
+
+
+      // Updated time
+
+      document.getElementById("updated").textContent =
+        "News data updated: " +
+        new Date(data.updated).toLocaleString();
+
+    }
+
+    catch (error) {
+
+      console.error(error);
+
+      document.getElementById("world-news").innerHTML =
+        "<p class='placeholder'>Unable to load news right now.</p>";
+
+      document.getElementById("finance-news").innerHTML =
+        "<p class='placeholder'>Unable to load financial news right now.</p>";
+
+    }
+
+  }
+
+
+  loadNews();
+
+</script>
 
 </body>
 </html>
