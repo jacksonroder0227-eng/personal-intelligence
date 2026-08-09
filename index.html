@@ -181,29 +181,51 @@
 
       <div class="market-grid">
 
-        <div class="market">
-          <div class="market-name">S&P 500</div>
-          <div class="market-value">Coming next</div>
-        </div>
+  <div class="market">
+    <div class="market-name">S&P 500</div>
+    <div class="market-value" id="sp500">Loading...</div>
+  </div>
 
-        <div class="market">
-          <div class="market-name">Nasdaq</div>
-          <div class="market-value">Coming next</div>
-        </div>
+  <div class="market">
+    <div class="market-name">Nasdaq</div>
+    <div class="market-value" id="nasdaq">Loading...</div>
+  </div>
 
-        <div class="market">
-          <div class="market-name">Dow Jones</div>
-          <div class="market-value">Coming next</div>
-        </div>
+  <div class="market">
+    <div class="market-name">Dow Jones</div>
+    <div class="market-value" id="dow">Loading...</div>
+  </div>
 
-        <div class="market">
-          <div class="market-name">10Y Treasury</div>
-          <div class="market-value">Coming next</div>
-        </div>
+  <div class="market">
+    <div class="market-name">Russell 2000</div>
+    <div class="market-value" id="russell2000">Loading...</div>
+  </div>
 
-      </div>
+  <div class="market">
+    <div class="market-name">10Y Treasury</div>
+    <div class="market-value" id="treasury10y">Loading...</div>
+  </div>
 
-    </div>
+  <div class="market">
+    <div class="market-name">VIX</div>
+    <div class="market-value" id="vix">Loading...</div>
+  </div>
+
+  <div class="market">
+    <div class="market-name">Oil</div>
+    <div class="market-value" id="oil">Loading...</div>
+  </div>
+
+  <div class="market">
+    <div class="market-name">Gold</div>
+    <div class="market-value" id="gold">Loading...</div>
+  </div>
+
+</div>
+
+<div class="updated" id="market-updated">
+  Market data loading...
+</div>
 
 
     <!-- CALENDAR -->
@@ -395,7 +417,98 @@
   }
 
 
-  loadNews();
+  async function loadMarkets() {
+
+  try {
+
+    const response = await fetch(
+      "markets.json?" + Date.now()
+    );
+
+    if (!response.ok) {
+      throw new Error("Could not load markets.");
+    }
+
+    const data = await response.json();
+
+
+    function formatMarket(section, name, decimals = 2) {
+
+      const item = data[section]?.[name];
+
+      if (!item || item.value === null) {
+        return "Unavailable";
+      }
+
+      const value = Number(item.value).toLocaleString(
+        undefined,
+        {
+          minimumFractionDigits: decimals,
+          maximumFractionDigits: decimals
+        }
+      );
+
+      let change = "";
+
+      if (item.changePercent !== null) {
+
+        const sign =
+          item.changePercent >= 0 ? "+" : "";
+
+        change =
+          ` ${sign}${item.changePercent.toFixed(2)}%`;
+
+      }
+
+      return `${value}${change}`;
+    }
+
+
+    document.getElementById("sp500").textContent =
+      formatMarket("indices", "sp500");
+
+    document.getElementById("nasdaq").textContent =
+      formatMarket("indices", "nasdaq");
+
+    document.getElementById("dow").textContent =
+      formatMarket("indices", "dow");
+
+    document.getElementById("russell2000").textContent =
+      formatMarket("indices", "russell2000");
+
+    document.getElementById("treasury10y").textContent =
+      formatMarket("rates", "treasury10y", 2) + "%";
+
+    document.getElementById("vix").textContent =
+      formatMarket("volatility", "vix");
+
+    document.getElementById("oil").textContent =
+      "$" + formatMarket("commodities", "oil");
+
+    document.getElementById("gold").textContent =
+      "$" + formatMarket("commodities", "gold");
+
+
+    document.getElementById("market-updated").textContent =
+      "Market data updated: " +
+      new Date(data.updated).toLocaleString();
+
+  }
+
+  catch (error) {
+
+    console.error(error);
+
+    document.getElementById("market-updated").textContent =
+      "Unable to load market data.";
+
+  }
+
+}
+
+
+loadNews();
+loadMarkets();
 
 </script>
 
