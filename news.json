@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T00:04:10.941025+00:00",
+  "updated": "2026-08-10T06:00:31.408246+00:00",
   "world": [
     {
       "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
@@ -29,7 +29,7 @@
     {
       "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
       "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 09 Aug 2026 22:27:53 GMT"
+      "published": "Mon, 10 Aug 2026 03:33:51 GMT"
     },
     {
       "title": "Ecuador charges ex-minister over presidential candidate assassination case",
@@ -54,9 +54,19 @@
   ],
   "finance": [
     {
+      "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
+      "link": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 10 Aug 2026 05:00:32 GMT"
+    },
+    {
       "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
       "link": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 08 Aug 2026 13:41:32 GMT"
+    },
+    {
+      "title": "You could be missing out on \u00a3150 off your energy bill - here's how to check",
+      "link": "https://www.bbc.co.uk/news/articles/czjlk8wx771o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 09 Aug 2026 23:47:30 GMT"
     },
     {
       "title": "How a 90-second power outage sparked chaos for rail commuters",
@@ -69,14 +79,14 @@
       "published": "Fri, 07 Aug 2026 15:22:51 GMT"
     },
     {
-      "title": "Surprise fall in US jobs last month as slow summer continues",
-      "link": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 07 Aug 2026 14:03:55 GMT"
-    },
-    {
       "title": "Meta fined $567m in largest child safety ruling against social media giant",
       "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 07 Aug 2026 09:22:03 GMT"
+    },
+    {
+      "title": "Surprise fall in US jobs last month as slow summer continues",
+      "link": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 14:03:55 GMT"
     },
     {
       "title": "Raw images, no filters: Why MySpace fans want it back as relaunch hinted",
@@ -92,16 +102,6 @@
       "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
       "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 07 Aug 2026 13:32:41 GMT"
-    },
-    {
-      "title": "Trump imposes 15% tariff on key chip material to counter China",
-      "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 07 Aug 2026 01:03:35 GMT"
-    },
-    {
-      "title": "EasyJet agrees to \u00a35.7bn takeover by US firm",
-      "link": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 16:35:32 GMT"
     }
   ],
   "markets": []
