@@ -4,13 +4,10 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color" content="#111827">
-
   <title>Personal Intelligence</title>
 
   <style>
-    * {
-      box-sizing: border-box;
-    }
+    * { box-sizing: border-box; }
 
     body {
       margin: 0;
@@ -57,14 +54,17 @@
       font-size: 19px;
     }
 
+    .card h3 {
+      font-size: 15px;
+      margin: 0 0 8px;
+    }
+
     .story {
       padding: 14px 0;
       border-bottom: 1px solid #e5e7eb;
     }
 
-    .story:last-child {
-      border-bottom: none;
-    }
+    .story:last-child { border-bottom: none; }
 
     .story a {
       color: #111827;
@@ -74,9 +74,7 @@
       line-height: 1.4;
     }
 
-    .story a:hover {
-      text-decoration: underline;
-    }
+    .story a:hover { text-decoration: underline; }
 
     .story-time {
       margin-top: 5px;
@@ -121,7 +119,10 @@
       color: white;
       font-size: 16px;
       font-weight: 600;
+      cursor: pointer;
     }
+
+    .ai-button:active { opacity: 0.8; }
 
     .updated {
       font-size: 12px;
@@ -135,6 +136,12 @@
       font-size: 12px;
       padding: 10px 0 30px;
     }
+
+    @media (max-width: 520px) {
+      .market-grid { grid-template-columns: 1fr 1fr; }
+      .container { padding: 12px; }
+      .card { padding: 16px; }
+    }
   </style>
 </head>
 
@@ -142,171 +149,127 @@
 
   <div class="header">
     <h1>Personal Intelligence</h1>
-    <p id="date"></p>
+    <p id="date">Loading date...</p>
   </div>
 
   <div class="container">
 
     <!-- WORLD NEWS -->
-
     <div class="card">
-
       <h2>🌎 Top 5 World News</h2>
-
       <div id="world-news">
         <p class="placeholder">Loading latest stories...</p>
       </div>
-
     </div>
 
-
     <!-- FINANCE -->
-
     <div class="card">
-
       <h2>💰 Major Finance News</h2>
-
       <div id="finance-news">
         <p class="placeholder">Loading latest financial stories...</p>
       </div>
-
     </div>
 
-
     <!-- MARKETS -->
-
     <div class="card">
-
       <h2>📈 Markets</h2>
 
       <div class="market-grid">
+        <div class="market">
+          <div class="market-name">S&P 500</div>
+          <div class="market-value" id="sp500">Loading...</div>
+        </div>
 
-  <div class="market">
-    <div class="market-name">S&P 500</div>
-    <div class="market-value" id="sp500">Loading...</div>
-  </div>
+        <div class="market">
+          <div class="market-name">Nasdaq</div>
+          <div class="market-value" id="nasdaq">Loading...</div>
+        </div>
 
-  <div class="market">
-    <div class="market-name">Nasdaq</div>
-    <div class="market-value" id="nasdaq">Loading...</div>
-  </div>
+        <div class="market">
+          <div class="market-name">Dow Jones</div>
+          <div class="market-value" id="dow">Loading...</div>
+        </div>
 
-  <div class="market">
-    <div class="market-name">Dow Jones</div>
-    <div class="market-value" id="dow">Loading...</div>
-  </div>
+        <div class="market">
+          <div class="market-name">Russell 2000</div>
+          <div class="market-value" id="russell2000">Loading...</div>
+        </div>
 
-  <div class="market">
-    <div class="market-name">Russell 2000</div>
-    <div class="market-value" id="russell2000">Loading...</div>
-  </div>
+        <div class="market">
+          <div class="market-name">10Y Treasury</div>
+          <div class="market-value" id="treasury10y">Loading...</div>
+        </div>
 
-  <div class="market">
-    <div class="market-name">10Y Treasury</div>
-    <div class="market-value" id="treasury10y">Loading...</div>
-  </div>
+        <div class="market">
+          <div class="market-name">VIX</div>
+          <div class="market-value" id="vix">Loading...</div>
+        </div>
 
-  <div class="market">
-    <div class="market-name">VIX</div>
-    <div class="market-value" id="vix">Loading...</div>
-  </div>
+        <div class="market">
+          <div class="market-name">Oil</div>
+          <div class="market-value" id="oil">Loading...</div>
+        </div>
 
-  <div class="market">
-    <div class="market-name">Oil</div>
-    <div class="market-value" id="oil">Loading...</div>
-  </div>
+        <div class="market">
+          <div class="market-name">Gold</div>
+          <div class="market-value" id="gold">Loading...</div>
+        </div>
+      </div>
 
-  <div class="market">
-    <div class="market-name">Gold</div>
-    <div class="market-value" id="gold">Loading...</div>
-  </div>
-
-</div>
-
-<div class="updated" id="market-updated">
-  Market data loading...
-</div>
-
-
-    <!-- CALENDAR -->
-
-    <div class="card">
-
-      <h2>📅 Your Calendar</h2>
-
-  <button
-    class="ai-button"
-    id="connect-calendar"
-    onclick="connectCalendar()">
-    Connect Google Calendar
-  </button>
-
-  <div
-    id="calendar-content"
-    style="margin-top:16px;">
-
-    <p class="placeholder">
-      Connect your Google Calendar to see your schedule.
-    </p>
-
-  </div>
-
-</div>
-
-      <p class="placeholder">
-        Your calendar will be connected here.
-      </p>
-
+      <div class="updated" id="market-updated">
+        Market data loading...
+      </div>
     </div>
 
+    <!-- CALENDAR -->
+    <div class="card">
+      <h2>📅 Your Calendar</h2>
+
+      <button
+        class="ai-button"
+        id="connect-calendar"
+        onclick="connectCalendar()">
+        Connect Google Calendar
+      </button>
+
+      <div id="calendar-content" style="margin-top:16px;">
+        <p class="placeholder">
+          Connect your Google Calendar to see today's schedule
+          and this week's all-day events.
+        </p>
+      </div>
+    </div>
 
     <!-- TOMORROW -->
-
     <div class="card">
-
       <h2>🔭 What To Watch Tomorrow</h2>
-
       <p class="placeholder">
         We'll identify important economic releases, earnings,
         Fed events and market catalysts here.
       </p>
-
     </div>
 
-
     <!-- WHY IT MATTERS -->
-
     <div class="card">
-
       <h2>🧠 Why It Matters</h2>
-
       <p class="placeholder">
         AI analysis will explain what today's biggest developments
         mean for markets, investors and wealth management.
       </p>
-
     </div>
 
-
     <!-- AI -->
-
     <div class="card">
-
       <h2>🤖 Ask Personal Intelligence AI</h2>
-
       <p class="placeholder">
         Ask questions about markets, economics, news and current events.
       </p>
 
       <button class="ai-button"
         onclick="alert('AI assistant coming soon!')">
-
         Ask AI
-
       </button>
-
     </div>
-
 
     <div class="updated" id="updated"></div>
 
@@ -316,146 +279,120 @@
 
   </div>
 
+  <!-- Google Identity Services -->
+  <script src="https://accounts.google.com/gsi/client"></script>
 
-<script>
+  <script>
+    // ============================================================
+    // PERSONAL INTELLIGENCE
+    // Arizona / Phoenix timezone
+    // ============================================================
 
-  // Show today's date
+    const APP_TIME_ZONE = "America/Phoenix";
 
-  const today = new Date();
+    function formatArizonaDate(date = new Date()) {
+      return new Intl.DateTimeFormat("en-US", {
+        timeZone: APP_TIME_ZONE,
+        weekday: "long",
+        month: "long",
+        day: "numeric",
+        year: "numeric"
+      }).format(date);
+    }
 
-  document.getElementById("date").textContent =
-    today.toLocaleDateString(undefined, {
-      weekday: "long",
-      month: "long",
-      day: "numeric",
-      year: "numeric"
-    });
+    document.getElementById("date").textContent =
+      formatArizonaDate();
 
+    // ------------------------------------------------------------
+    // NEWS
+    // ------------------------------------------------------------
 
-  // Create a story element
+    function createStory(story) {
+      const div = document.createElement("div");
+      div.className = "story";
 
-  function createStory(story) {
+      const link = document.createElement("a");
+      link.href = story.link || "#";
+      link.target = "_blank";
+      link.rel = "noopener noreferrer";
+      link.textContent = story.title || "Untitled story";
 
-    const div = document.createElement("div");
+      const time = document.createElement("div");
+      time.className = "story-time";
+      time.textContent = story.published || "";
 
-    div.className = "story";
+      div.appendChild(link);
+      div.appendChild(time);
 
-    const link = document.createElement("a");
+      return div;
+    }
 
-    link.href = story.link;
+    async function loadNews() {
+      try {
+        const response =
+          await fetch("news.json?" + Date.now(), {
+            cache: "no-store"
+          });
 
-    link.target = "_blank";
+        if (!response.ok) {
+          throw new Error("Could not load news: " + response.status);
+        }
 
-    link.rel = "noopener noreferrer";
+        const data = await response.json();
 
-    link.textContent = story.title;
+        const worldContainer =
+          document.getElementById("world-news");
 
-    const time = document.createElement("div");
+        worldContainer.innerHTML = "";
 
-    time.className = "story-time";
+        (data.world || []).slice(0, 5).forEach(story => {
+          worldContainer.appendChild(createStory(story));
+        });
 
-    time.textContent = story.published || "";
+        if (!(data.world || []).length) {
+          worldContainer.innerHTML =
+            "<p class='placeholder'>No world news available.</p>";
+        }
 
-    div.appendChild(link);
+        const financeContainer =
+          document.getElementById("finance-news");
 
-    div.appendChild(time);
+        financeContainer.innerHTML = "";
 
-    return div;
-  }
+        (data.finance || []).slice(0, 3).forEach(story => {
+          financeContainer.appendChild(createStory(story));
+        });
 
+        if (!(data.finance || []).length) {
+          financeContainer.innerHTML =
+            "<p class='placeholder'>No financial news available.</p>";
+        }
 
-  // Load the news
+        if (data.updated) {
+          document.getElementById("updated").textContent =
+            "News data updated: " +
+            new Date(data.updated).toLocaleString();
+        }
 
-  async function loadNews() {
+      } catch (error) {
+        console.error("News error:", error);
 
-    try {
+        document.getElementById("world-news").innerHTML =
+          "<p class='placeholder'>Unable to load news right now.</p>";
 
-      const response = await fetch("news.json?" + Date.now());
-
-      if (!response.ok) {
-        throw new Error("Could not load news.");
+        document.getElementById("finance-news").innerHTML =
+          "<p class='placeholder'>Unable to load financial news right now.</p>";
       }
-
-      const data = await response.json();
-
-
-      // World news
-
-      const worldContainer =
-        document.getElementById("world-news");
-
-      worldContainer.innerHTML = "";
-
-
-      data.world.slice(0, 5).forEach(story => {
-
-        worldContainer.appendChild(
-          createStory(story)
-        );
-
-      });
-
-
-      // Finance news
-
-      const financeContainer =
-        document.getElementById("finance-news");
-
-      financeContainer.innerHTML = "";
-
-
-      data.finance.slice(0, 3).forEach(story => {
-
-        financeContainer.appendChild(
-          createStory(story)
-        );
-
-      });
-
-
-      // Updated time
-
-      document.getElementById("updated").textContent =
-        "News data updated: " +
-        new Date(data.updated).toLocaleString();
-
     }
 
-    catch (error) {
-
-      console.error(error);
-
-      document.getElementById("world-news").innerHTML =
-        "<p class='placeholder'>Unable to load news right now.</p>";
-
-      document.getElementById("finance-news").innerHTML =
-        "<p class='placeholder'>Unable to load financial news right now.</p>";
-
-    }
-
-  }
-
-
-  async function loadMarkets() {
-
-  try {
-
-    const response = await fetch(
-      "markets.json?" + Date.now()
-    );
-
-    if (!response.ok) {
-      throw new Error("Could not load markets.");
-    }
-
-    const data = await response.json();
-
+    // ------------------------------------------------------------
+    // MARKETS
+    // ------------------------------------------------------------
 
     function formatMarket(section, name, decimals = 2) {
+      const item = window.marketData?.[section]?.[name];
 
-      const item = data[section]?.[name];
-
-      if (!item || item.value === null) {
+      if (!item || item.value === null || item.value === undefined) {
         return "Unavailable";
       }
 
@@ -467,428 +404,399 @@
         }
       );
 
-      let change = "";
-
-      if (item.changePercent !== null) {
-
-        const sign =
-          item.changePercent >= 0 ? "+" : "";
-
-        change =
-          ` ${sign}${item.changePercent.toFixed(2)}%`;
-
-      }
-
-      return `${value}${change}`;
-    }
-
-
-    document.getElementById("sp500").textContent =
-      formatMarket("indices", "sp500");
-
-    document.getElementById("nasdaq").textContent =
-      formatMarket("indices", "nasdaq");
-
-    document.getElementById("dow").textContent =
-      formatMarket("indices", "dow");
-
-    document.getElementById("russell2000").textContent =
-      formatMarket("indices", "russell2000");
-
-    document.getElementById("treasury10y").textContent =
-      formatMarket("rates", "treasury10y", 2) + "%";
-
-    document.getElementById("vix").textContent =
-      formatMarket("volatility", "vix");
-
-    document.getElementById("oil").textContent =
-      "$" + formatMarket("commodities", "oil");
-
-    document.getElementById("gold").textContent =
-      "$" + formatMarket("commodities", "gold");
-
-
-    document.getElementById("market-updated").textContent =
-      "Market data updated: " +
-      new Date(data.updated).toLocaleString();
-
-  }
-
-  catch (error) {
-
-    console.error(error);
-
-    document.getElementById("market-updated").textContent =
-      "Unable to load market data.";
-
-  }
-
-}
-
-const GOOGLE_CLIENT_ID =
-  "216151840518-oai6p09io4ecigf64kqatk3jqq92fqj1.apps.googleusercontent.com";
-
-const CALENDAR_SCOPE =
-  "https://www.googleapis.com/auth/calendar";
-
-let calendarTokenClient;
-let calendarAccessToken = null;
-
-
-function connectCalendar() {
-
-  calendarTokenClient =
-    google.accounts.oauth2.initTokenClient({
-
-      client_id: GOOGLE_CLIENT_ID,
-
-      scope: CALENDAR_SCOPE,
-
-      callback: async (response) => {
-
-        if (response.error) {
-
-          console.error(response);
-
-          document.getElementById(
-            "calendar-content"
-          ).innerHTML =
-            "<p class='placeholder'>" +
-            "Unable to connect Google Calendar." +
-            "</p>";
-
-          return;
-        }
-
-        calendarAccessToken =
-          response.access_token;
-
-        await loadCalendar();
-
-      }
-
-    });
-
-
-  calendarTokenClient.requestAccessToken();
-
-}
-
-
-async function loadCalendar() {
-
-  try {
-
-    const timeZone = "America/Phoenix";
-    const now = new Date();
-
-    // Get today's date in Arizona
-    const parts =
-      new Intl.DateTimeFormat("en-US", {
-        timeZone: timeZone,
-        year: "numeric",
-        month: "2-digit",
-        day: "2-digit"
-      }).formatToParts(now);
-
-    const year =
-      parts.find(p => p.type === "year").value;
-
-    const month =
-      parts.find(p => p.type === "month").value;
-
-    const day =
-      parts.find(p => p.type === "day").value;
-
-    const today =
-      `${year}-${month}-${day}`;
-
-
-    // Arizona is UTC-7 year-round
-    const startOfToday =
-      new Date(
-        `${today}T00:00:00-07:00`
-      );
-
-
-    const tomorrowDate =
-      new Date(startOfToday);
-
-    tomorrowDate.setUTCDate(
-      tomorrowDate.getUTCDate() + 1
-    );
-
-
-    const nextWeekDate =
-      new Date(startOfToday);
-
-    nextWeekDate.setUTCDate(
-      nextWeekDate.getUTCDate() + 7
-    );
-
-
-    const url =
-      "https://www.googleapis.com/calendar/v3/" +
-      "calendars/primary/events" +
-      "?singleEvents=true" +
-      "&orderBy=startTime" +
-      "&timeMin=" +
-      encodeURIComponent(
-        startOfToday.toISOString()
-      ) +
-      "&timeMax=" +
-      encodeURIComponent(
-        nextWeekDate.toISOString()
-      );
-
-
-    const response =
-      await fetch(url, {
-
-        headers: {
-          Authorization:
-            "Bearer " +
-            calendarAccessToken
-        }
-
-      });
-
-
-    if (!response.ok) {
-
-      throw new Error(
-        "Calendar request failed: " +
-        response.status
-      );
-
-    }
-
-
-    const data =
-      await response.json();
-
-
-    displayCalendar(
-      data.items || [],
-      today
-    );
-
-
-  } catch (error) {
-
-    console.error(error);
-
-    document.getElementById(
-      "calendar-content"
-    ).innerHTML =
-      "<p class='placeholder'>" +
-      "Unable to load calendar." +
-      "</p>";
-
-  }
-
-}
-
-
-function displayCalendar(
-  events,
-  today
-) {
-
-  const container =
-    document.getElementById(
-      "calendar-content"
-    );
-
-
-  const timeZone =
-    "America/Phoenix";
-
-
-  let html =
-    "<h3>Today</h3>";
-
-
-  // -------------------------
-  // TODAY'S TIMED EVENTS
-  // -------------------------
-
-  const todayEvents =
-    events.filter(event => {
-
       if (
-        !event.start ||
-        !event.start.dateTime
+        item.changePercent === null ||
+        item.changePercent === undefined
       ) {
-        return false;
+        return value;
       }
 
-
-      const eventDate =
-        new Intl.DateTimeFormat(
-          "en-CA",
-          {
-            timeZone: timeZone,
-            year: "numeric",
-            month: "2-digit",
-            day: "2-digit"
-          }
-        ).format(
-          new Date(
-            event.start.dateTime
-          )
-        );
-
-
-      return eventDate === today;
-
-    });
-
-
-  if (
-    todayEvents.length === 0
-  ) {
-
-    html +=
-      "<p class='placeholder'>" +
-      "No scheduled events today." +
-      "</p>";
-
-  } else {
-
-    todayEvents.forEach(event => {
-
-      const start =
-        new Date(
-          event.start.dateTime
-        );
-
-
-      const time =
-        start.toLocaleTimeString(
-          "en-US",
-          {
-            timeZone: timeZone,
-            hour: "numeric",
-            minute: "2-digit"
-          }
-        );
-
-
-      html += `
-        <div class="story">
-
-          <strong>
-            ${time}
-          </strong>
-
-          — ${event.summary || "Untitled event"}
-
-        </div>
-      `;
-
-    });
-
-  }
-
-
-  // -------------------------
-  // ALL-DAY EVENTS
-  // -------------------------
-
-  html +=
-    "<h3 style='margin-top:20px;'>" +
-    "This Week — All Day" +
-    "</h3>";
-
-
-  const allDayEvents =
-    events.filter(event => {
+      const sign =
+        Number(item.changePercent) >= 0 ? "+" : "";
 
       return (
-        event.start &&
-        event.start.date
+        value +
+        " " +
+        sign +
+        Number(item.changePercent).toFixed(2) +
+        "%"
       );
+    }
 
-    });
+    async function loadMarkets() {
+      try {
+        const response =
+          await fetch("markets.json?" + Date.now(), {
+            cache: "no-store"
+          });
 
+        if (!response.ok) {
+          throw new Error(
+            "Could not load markets: " + response.status
+          );
+        }
 
-  if (
-    allDayEvents.length === 0
-  ) {
+        const data = await response.json();
 
-    html +=
-      "<p class='placeholder'>" +
-      "No all-day events this week." +
-      "</p>";
+        window.marketData = data;
 
-  } else {
+        document.getElementById("sp500").textContent =
+          formatMarket("indices", "sp500");
 
-    allDayEvents.forEach(event => {
+        document.getElementById("nasdaq").textContent =
+          formatMarket("indices", "nasdaq");
 
-      // Google gives all-day events
-      // as YYYY-MM-DD strings.
-      // Do NOT convert them with
-      // new Date() because that can
-      // shift the date.
+        document.getElementById("dow").textContent =
+          formatMarket("indices", "dow");
 
-      const dateString =
-        event.start.date;
+        document.getElementById("russell2000").textContent =
+          formatMarket("indices", "russell2000");
 
+        document.getElementById("treasury10y").textContent =
+          formatMarket("rates", "treasury10y") + "%";
 
-      const [
-        eventYear,
-        eventMonth,
-        eventDay
-      ] =
-        dateString.split("-");
+        document.getElementById("vix").textContent =
+          formatMarket("volatility", "vix");
 
+        document.getElementById("oil").textContent =
+          "$" + formatMarket("commodities", "oil");
 
-      const displayDate =
+        document.getElementById("gold").textContent =
+          "$" + formatMarket("commodities", "gold");
+
+        document.getElementById("market-updated").textContent =
+          data.updated
+            ? "Market data updated: " +
+              new Date(data.updated).toLocaleString()
+            : "Market data loaded.";
+
+      } catch (error) {
+        console.error("Market error:", error);
+
+        document.getElementById("market-updated").textContent =
+          "Unable to load market data.";
+
+        document.getElementById("sp500").textContent = "Unavailable";
+        document.getElementById("nasdaq").textContent = "Unavailable";
+        document.getElementById("dow").textContent = "Unavailable";
+        document.getElementById("russell2000").textContent = "Unavailable";
+        document.getElementById("treasury10y").textContent = "Unavailable";
+        document.getElementById("vix").textContent = "Unavailable";
+        document.getElementById("oil").textContent = "Unavailable";
+        document.getElementById("gold").textContent = "Unavailable";
+      }
+    }
+
+    // ------------------------------------------------------------
+    // GOOGLE CALENDAR
+    // ------------------------------------------------------------
+
+    const GOOGLE_CLIENT_ID =
+      "216151840518-oai6p09io4ecigf64kqatk3jqq92fqj1.apps.googleusercontent.com";
+
+    const CALENDAR_SCOPE =
+      "https://www.googleapis.com/auth/calendar";
+
+    let calendarTokenClient = null;
+    let calendarAccessToken = null;
+
+    function getArizonaDateKey(date = new Date()) {
+      const parts =
+        new Intl.DateTimeFormat("en-US", {
+          timeZone: APP_TIME_ZONE,
+          year: "numeric",
+          month: "2-digit",
+          day: "2-digit"
+        }).formatToParts(date);
+
+      const year =
+        parts.find(p => p.type === "year").value;
+
+      const month =
+        parts.find(p => p.type === "month").value;
+
+      const day =
+        parts.find(p => p.type === "day").value;
+
+      return `${year}-${month}-${day}`;
+    }
+
+    function addDaysToDateKey(dateKey, days) {
+      const [year, month, day] =
+        dateKey.split("-").map(Number);
+
+      const d =
+        new Date(Date.UTC(year, month - 1, day));
+
+      d.setUTCDate(d.getUTCDate() + days);
+
+      return d.toISOString().slice(0, 10);
+    }
+
+    function connectCalendar() {
+      if (
+        !window.google ||
+        !google.accounts ||
+        !google.accounts.oauth2
+      ) {
+        alert(
+          "Google Calendar is still loading. Please refresh and try again."
+        );
+        return;
+      }
+
+      calendarTokenClient =
+        google.accounts.oauth2.initTokenClient({
+          client_id: GOOGLE_CLIENT_ID,
+          scope: CALENDAR_SCOPE,
+
+          callback: async (response) => {
+            if (response.error) {
+              console.error("Calendar OAuth error:", response);
+
+              document.getElementById(
+                "calendar-content"
+              ).innerHTML =
+                "<p class='placeholder'>" +
+                "Unable to connect Google Calendar." +
+                "</p>";
+
+              return;
+            }
+
+            calendarAccessToken =
+              response.access_token;
+
+            await loadCalendar();
+          }
+        });
+
+      calendarTokenClient.requestAccessToken();
+    }
+
+    async function loadCalendar() {
+      try {
+        if (!calendarAccessToken) {
+          throw new Error("No Google Calendar access token.");
+        }
+
+        const todayKey =
+          getArizonaDateKey();
+
+        const weekEndKey =
+          addDaysToDateKey(todayKey, 7);
+
+        // Calendar API accepts RFC3339 timestamps.
+        // Phoenix is UTC-7 year-round.
+        const timeMin =
+          `${todayKey}T00:00:00-07:00`;
+
+        const timeMax =
+          `${weekEndKey}T00:00:00-07:00`;
+
+        const url =
+          "https://www.googleapis.com/calendar/v3/" +
+          "calendars/primary/events" +
+          "?singleEvents=true" +
+          "&orderBy=startTime" +
+          "&timeMin=" +
+          encodeURIComponent(timeMin) +
+          "&timeMax=" +
+          encodeURIComponent(timeMax);
+
+        const response =
+          await fetch(url, {
+            headers: {
+              Authorization:
+                "Bearer " + calendarAccessToken
+            }
+          });
+
+        if (!response.ok) {
+          const errorText =
+            await response.text();
+
+          throw new Error(
+            "Calendar request failed: " +
+            response.status +
+            " " +
+            errorText
+          );
+        }
+
+        const data =
+          await response.json();
+
+        displayCalendar(
+          data.items || [],
+          todayKey
+        );
+
+      } catch (error) {
+        console.error("Calendar error:", error);
+
+        document.getElementById(
+          "calendar-content"
+        ).innerHTML =
+          "<p class='placeholder'>" +
+          "Unable to load calendar right now." +
+          "</p>";
+      }
+    }
+
+    function displayCalendar(events, todayKey) {
+      const container =
+        document.getElementById(
+          "calendar-content"
+        );
+
+      let html = "";
+
+      // TODAY
+      html += "<h3>Today — " +
+        formatArizonaDate() +
+        "</h3>";
+
+      const todayTimedEvents =
+        events.filter(event => {
+          if (
+            !event.start ||
+            !event.start.dateTime
+          ) {
+            return false;
+          }
+
+          return (
+            getArizonaDateKey(
+              new Date(event.start.dateTime)
+            ) === todayKey
+          );
+        });
+
+      if (todayTimedEvents.length === 0) {
+        html +=
+          "<p class='placeholder'>" +
+          "No scheduled events today." +
+          "</p>";
+      } else {
+        todayTimedEvents.forEach(event => {
+          const start =
+            new Date(event.start.dateTime);
+
+          const end =
+            event.end?.dateTime
+              ? new Date(event.end.dateTime)
+              : null;
+
+          const startTime =
+            start.toLocaleTimeString(
+              "en-US",
+              {
+                timeZone: APP_TIME_ZONE,
+                hour: "numeric",
+                minute: "2-digit"
+              }
+            );
+
+          const endTime =
+            end
+              ? end.toLocaleTimeString(
+                  "en-US",
+                  {
+                    timeZone: APP_TIME_ZONE,
+                    hour: "numeric",
+                    minute: "2-digit"
+                  }
+                )
+              : "";
+
+          html += `
+            <div class="story">
+              <strong>${startTime}${endTime ? "–" + endTime : ""}</strong>
+              — ${escapeHtml(event.summary || "Untitled event")}
+            </div>
+          `;
+        });
+      }
+
+      // THIS WEEK'S ALL-DAY EVENTS
+      html +=
+        "<h3 style='margin-top:20px;'>" +
+        "This Week — All Day</h3>";
+
+      const allDayEvents =
+        events.filter(event =>
+          event.start &&
+          event.start.date
+        );
+
+      if (allDayEvents.length === 0) {
+        html +=
+          "<p class='placeholder'>" +
+          "No all-day events this week." +
+          "</p>";
+      } else {
+        allDayEvents.forEach(event => {
+          const displayDate =
+            formatDateKey(event.start.date);
+
+          html += `
+            <div class="story">
+              <strong>${displayDate}</strong>
+              — ${escapeHtml(event.summary || "Untitled event")}
+            </div>
+          `;
+        });
+      }
+
+      container.innerHTML = html;
+
+      document.getElementById(
+        "connect-calendar"
+      ).textContent =
+        "Google Calendar Connected";
+    }
+
+    function formatDateKey(dateKey) {
+      const [year, month, day] =
+        dateKey.split("-").map(Number);
+
+      const d =
         new Date(
-          Number(eventYear),
-          Number(eventMonth) - 1,
-          Number(eventDay),
+          year,
+          month - 1,
+          day,
           12,
           0,
           0
-        ).toLocaleDateString(
-          "en-US",
-          {
-            weekday: "short",
-            month: "short",
-            day: "numeric"
-          }
         );
 
+      return d.toLocaleDateString(
+        "en-US",
+        {
+          weekday: "short",
+          month: "short",
+          day: "numeric"
+        }
+      );
+    }
 
-      html += `
-        <div class="story">
+    function escapeHtml(value) {
+      return String(value)
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#039;");
+    }
 
-          <strong>
-            ${displayDate}
-          </strong>
+    // ------------------------------------------------------------
+    // START APP
+    // ------------------------------------------------------------
 
-          — ${event.summary || "Untitled event"}
+    loadNews();
+    loadMarkets();
+  </script>
 
-        </div>
-      `;
-
-    });
-
-  }
-
-
-  container.innerHTML =
-    html;
-
-
-  document.getElementById(
-    "connect-calendar"
-  ).textContent =
-    "Google Calendar Connected";
-
-}
-
-loadNews();
-loadMarkets();
+</body>
+</html>
