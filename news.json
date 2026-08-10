@@ -1,10 +1,15 @@
 {
-  "updated": "2026-08-10T10:47:55.941617+00:00",
+  "updated": "2026-08-10T14:41:51.712406+00:00",
   "world": [
     {
-      "title": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
+      "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
       "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 10 Aug 2026 10:03:58 GMT"
+      "published": "Mon, 10 Aug 2026 14:34:25 GMT"
+    },
+    {
+      "title": "Evidence that South African special forces murdered top detective shared with BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 09 Aug 2026 23:05:29 GMT"
     },
     {
       "title": "China evacuates one million from homes as massive storm arrives",
@@ -17,14 +22,24 @@
       "published": "Mon, 10 Aug 2026 09:51:07 GMT"
     },
     {
+      "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
+      "link": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 10 Aug 2026 12:23:21 GMT"
+    },
+    {
+      "title": "World's oceans hit record-high July temperatures",
+      "link": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 10 Aug 2026 10:24:46 GMT"
+    },
+    {
       "title": "'Body in suitcase' found in Australia turns out to be lifelike doll",
       "link": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 10 Aug 2026 05:16:40 GMT"
     },
     {
-      "title": "Suspected crime boss Kinahan spends first night in custody in Ireland",
-      "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 10 Aug 2026 09:33:25 GMT"
+      "title": "Battle for Mali base has killed dozens of militants, army says",
+      "link": "https://www.bbc.co.uk/news/articles/cly8j7ygwvlo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 10 Aug 2026 12:32:26 GMT"
     },
     {
       "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
@@ -32,36 +47,26 @@
       "published": "Sun, 09 Aug 2026 21:25:04 GMT"
     },
     {
-      "title": "Evidence that South African special forces murdered top detective shared with BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 09 Aug 2026 23:05:29 GMT"
-    },
-    {
-      "title": "Drones spotted over German base days after Leipzig bomb incident",
-      "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 09 Aug 2026 16:18:10 GMT"
-    },
-    {
-      "title": "Ancient Roman shipwreck discovered off Sicily coast",
-      "link": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 09 Aug 2026 12:27:26 GMT"
-    },
-    {
-      "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-      "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 10 Aug 2026 03:33:51 GMT"
+      "title": "Suspected crime boss Kinahan spends first night in custody in Ireland",
+      "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 10 Aug 2026 09:33:25 GMT"
     }
   ],
   "finance": [
     {
       "title": "Thames Water gave finance boss a \u00a31m signing-on fee",
       "link": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 10 Aug 2026 10:35:47 GMT"
+      "published": "Mon, 10 Aug 2026 11:48:54 GMT"
     },
     {
       "title": "Ban on 'subscription traps' brought forward by three months",
       "link": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 10 Aug 2026 09:57:54 GMT"
+    },
+    {
+      "title": "Consortium advances talks for stake in Liverpool",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 10 Aug 2026 13:16:51 GMT"
     },
     {
       "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
@@ -74,14 +79,19 @@
       "published": "Sun, 09 Aug 2026 23:47:30 GMT"
     },
     {
-      "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
-      "link": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 08 Aug 2026 13:41:32 GMT"
-    },
-    {
       "title": "'You could smell someone' who worked at Raleigh",
       "link": "https://www.bbc.co.uk/news/articles/cx2kgwrv6gvo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 10 Aug 2026 05:10:15 GMT"
+    },
+    {
+      "title": "Water outage forces Chessington theme park to close",
+      "link": "https://www.bbc.co.uk/news/articles/c3ekx90jww9o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 10 Aug 2026 14:24:53 GMT"
+    },
+    {
+      "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
+      "link": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 08 Aug 2026 13:41:32 GMT"
     },
     {
       "title": "How a 90-second power outage sparked chaos for rail commuters",
@@ -92,16 +102,6 @@
       "title": "Could your tattoo stop you from getting a job?",
       "link": "https://www.bbc.co.uk/news/articles/cpq81y7x1yeo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 10 Aug 2026 00:40:48 GMT"
-    },
-    {
-      "title": "Goodwin considers selling part of defence business",
-      "link": "https://www.bbc.co.uk/news/articles/c20dgpl0z4jo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 07 Aug 2026 15:22:51 GMT"
-    },
-    {
-      "title": "Raw images, no filters: Why MySpace fans want it back as relaunch hinted",
-      "link": "https://www.bbc.co.uk/news/articles/c4g64152v71o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 09 Aug 2026 00:04:20 GMT"
     }
   ],
   "markets": []
