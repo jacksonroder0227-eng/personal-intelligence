@@ -579,28 +579,52 @@ async function loadCalendar() {
 
   try {
 
+    const timeZone = "America/Phoenix";
     const now = new Date();
 
+    // Get today's date in Arizona
+    const parts =
+      new Intl.DateTimeFormat("en-US", {
+        timeZone: timeZone,
+        year: "numeric",
+        month: "2-digit",
+        day: "2-digit"
+      }).formatToParts(now);
+
+    const year =
+      parts.find(p => p.type === "year").value;
+
+    const month =
+      parts.find(p => p.type === "month").value;
+
+    const day =
+      parts.find(p => p.type === "day").value;
+
+    const today =
+      `${year}-${month}-${day}`;
+
+
+    // Arizona is UTC-7 year-round
     const startOfToday =
       new Date(
-        now.getFullYear(),
-        now.getMonth(),
-        now.getDate()
+        `${today}T00:00:00-07:00`
       );
 
-    const endOfToday =
-      new Date(
-        now.getFullYear(),
-        now.getMonth(),
-        now.getDate() + 1
-      );
 
-    const weekEnd =
-      new Date(
-        now.getFullYear(),
-        now.getMonth(),
-        now.getDate() + 7
-      );
+    const tomorrowDate =
+      new Date(startOfToday);
+
+    tomorrowDate.setUTCDate(
+      tomorrowDate.getUTCDate() + 1
+    );
+
+
+    const nextWeekDate =
+      new Date(startOfToday);
+
+    nextWeekDate.setUTCDate(
+      nextWeekDate.getUTCDate() + 7
+    );
 
 
     const url =
@@ -614,7 +638,7 @@ async function loadCalendar() {
       ) +
       "&timeMax=" +
       encodeURIComponent(
-        weekEnd.toISOString()
+        nextWeekDate.toISOString()
       );
 
 
@@ -622,11 +646,9 @@ async function loadCalendar() {
       await fetch(url, {
 
         headers: {
-
           Authorization:
             "Bearer " +
             calendarAccessToken
-
         }
 
       });
@@ -647,7 +669,8 @@ async function loadCalendar() {
 
 
     displayCalendar(
-      data.items || []
+      data.items || [],
+      today
     );
 
 
@@ -667,7 +690,10 @@ async function loadCalendar() {
 }
 
 
-function displayCalendar(events) {
+function displayCalendar(
+  events,
+  today
+) {
 
   const container =
     document.getElementById(
@@ -675,22 +701,53 @@ function displayCalendar(events) {
     );
 
 
+  const timeZone =
+    "America/Phoenix";
+
+
   let html =
     "<h3>Today</h3>";
 
 
-  const today =
+  // -------------------------
+  // TODAY'S TIMED EVENTS
+  // -------------------------
+
+  const todayEvents =
     events.filter(event => {
 
-      return (
-        event.start &&
-        event.start.dateTime
-      );
+      if (
+        !event.start ||
+        !event.start.dateTime
+      ) {
+        return false;
+      }
+
+
+      const eventDate =
+        new Intl.DateTimeFormat(
+          "en-CA",
+          {
+            timeZone: timeZone,
+            year: "numeric",
+            month: "2-digit",
+            day: "2-digit"
+          }
+        ).format(
+          new Date(
+            event.start.dateTime
+          )
+        );
+
+
+      return eventDate === today;
 
     });
 
 
-  if (today.length === 0) {
+  if (
+    todayEvents.length === 0
+  ) {
 
     html +=
       "<p class='placeholder'>" +
@@ -699,7 +756,7 @@ function displayCalendar(events) {
 
   } else {
 
-    today.forEach(event => {
+    todayEvents.forEach(event => {
 
       const start =
         new Date(
@@ -707,17 +764,22 @@ function displayCalendar(events) {
         );
 
 
+      const time =
+        start.toLocaleTimeString(
+          "en-US",
+          {
+            timeZone: timeZone,
+            hour: "numeric",
+            minute: "2-digit"
+          }
+        );
+
+
       html += `
         <div class="story">
 
           <strong>
-            ${start.toLocaleTimeString(
-              [],
-              {
-                hour: "numeric",
-                minute: "2-digit"
-              }
-            )}
+            ${time}
           </strong>
 
           — ${event.summary || "Untitled event"}
@@ -730,13 +792,17 @@ function displayCalendar(events) {
   }
 
 
+  // -------------------------
+  // ALL-DAY EVENTS
+  // -------------------------
+
   html +=
     "<h3 style='margin-top:20px;'>" +
     "This Week — All Day" +
     "</h3>";
 
 
-  const allDay =
+  const allDayEvents =
     events.filter(event => {
 
       return (
@@ -747,7 +813,9 @@ function displayCalendar(events) {
     });
 
 
-  if (allDay.length === 0) {
+  if (
+    allDayEvents.length === 0
+  ) {
 
     html +=
       "<p class='placeholder'>" +
@@ -756,12 +824,41 @@ function displayCalendar(events) {
 
   } else {
 
-    allDay.forEach(event => {
+    allDayEvents.forEach(event => {
 
-      const date =
+      // Google gives all-day events
+      // as YYYY-MM-DD strings.
+      // Do NOT convert them with
+      // new Date() because that can
+      // shift the date.
+
+      const dateString =
+        event.start.date;
+
+
+      const [
+        eventYear,
+        eventMonth,
+        eventDay
+      ] =
+        dateString.split("-");
+
+
+      const displayDate =
         new Date(
-          event.start.date +
-          "T00:00:00"
+          Number(eventYear),
+          Number(eventMonth) - 1,
+          Number(eventDay),
+          12,
+          0,
+          0
+        ).toLocaleDateString(
+          "en-US",
+          {
+            weekday: "short",
+            month: "short",
+            day: "numeric"
+          }
         );
 
 
@@ -769,14 +866,7 @@ function displayCalendar(events) {
         <div class="story">
 
           <strong>
-            ${date.toLocaleDateString(
-              [],
-              {
-                weekday: "short",
-                month: "short",
-                day: "numeric"
-              }
-            )}
+            ${displayDate}
           </strong>
 
           — ${event.summary || "Untitled event"}
@@ -787,7 +877,9 @@ function displayCalendar(events) {
     });
 
   }
-    container.innerHTML =
+
+
+  container.innerHTML =
     html;
 
 
@@ -797,7 +889,6 @@ function displayCalendar(events) {
     "Google Calendar Connected";
 
 }
-
 
 loadNews();
 loadMarkets();
