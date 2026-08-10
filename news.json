@@ -1,15 +1,10 @@
 {
-  "updated": "2026-08-10T21:25:57.751799+00:00",
+  "updated": "2026-08-10T23:53:33.703518+00:00",
   "world": [
     {
       "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
       "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 10 Aug 2026 14:34:25 GMT"
-    },
-    {
-      "title": "World's oceans hit record-high July temperatures",
-      "link": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 10 Aug 2026 10:24:46 GMT"
     },
     {
       "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
@@ -20,6 +15,11 @@
       "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
       "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 10 Aug 2026 19:17:11 GMT"
+    },
+    {
+      "title": "Canada flight cancelled after child refuses to wear seat belt",
+      "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 10 Aug 2026 21:06:27 GMT"
     },
     {
       "title": "30 years later, a former gang member will stand trial for Tupac's murder",
@@ -34,7 +34,12 @@
     {
       "title": "Trump signs order to limit childhood vaccines and split MMR shots",
       "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 10 Aug 2026 21:12:40 GMT"
+      "published": "Mon, 10 Aug 2026 23:03:52 GMT"
+    },
+    {
+      "title": "World's oceans hit record-high July temperatures",
+      "link": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 10 Aug 2026 10:24:46 GMT"
     },
     {
       "title": "New train service connects Finland and Sweden for first time in decades",
@@ -45,14 +50,19 @@
       "title": "Russian court bars only anti-war party from standing in parliamentary elections",
       "link": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 10 Aug 2026 18:19:41 GMT"
-    },
-    {
-      "title": "Evidence that South African special forces murdered top detective shared with BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 09 Aug 2026 23:05:29 GMT"
     }
   ],
   "finance": [
+    {
+      "title": "Nvidia gets $500bn from major investors to develop AI data centres",
+      "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 10 Aug 2026 22:31:42 GMT"
+    },
+    {
+      "title": "Councils to get more powers to stop vape and betting shops, PM announces",
+      "link": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 10 Aug 2026 21:33:51 GMT"
+    },
     {
       "title": "Thames Water gave finance boss a \u00a31m signing-on fee",
       "link": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss",
@@ -69,6 +79,11 @@
       "published": "Mon, 10 Aug 2026 13:16:51 GMT"
     },
     {
+      "title": "'I started in my 20s and made \u00a38,000': Why women are often better investors than men",
+      "link": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 10 Aug 2026 23:32:10 GMT"
+    },
+    {
       "title": "Taylor Farms recalls jalapeno products after salmonella outbreak",
       "link": "https://www.bbc.co.uk/news/articles/cgljd9p6027o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 10 Aug 2026 15:10:33 GMT"
@@ -79,11 +94,6 @@
       "published": "Mon, 10 Aug 2026 05:00:32 GMT"
     },
     {
-      "title": "'You could smell someone' who worked at Raleigh",
-      "link": "https://www.bbc.co.uk/news/articles/cx2kgwrv6gvo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 10 Aug 2026 05:10:15 GMT"
-    },
-    {
       "title": "You could be missing out on \u00a3150 off your energy bill - here's how to check",
       "link": "https://www.bbc.co.uk/news/articles/czjlk8wx771o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 09 Aug 2026 23:47:30 GMT"
@@ -92,16 +102,6 @@
       "title": "Water outage forces Chessington theme park to close",
       "link": "https://www.bbc.co.uk/news/articles/c3ekx90jww9o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 10 Aug 2026 14:24:53 GMT"
-    },
-    {
-      "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
-      "link": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 08 Aug 2026 13:41:32 GMT"
-    },
-    {
-      "title": "How a 90-second power outage sparked chaos for rail commuters",
-      "link": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 07 Aug 2026 16:11:32 GMT"
     }
   ],
   "markets": []
