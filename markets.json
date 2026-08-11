@@ -1,29 +1,29 @@
 {
-  "updated": "2026-08-11T19:46:34.079858+00:00",
+  "updated": "2026-08-11T22:24:06.632133+00:00",
   "indices": {
     "sp500": {
-      "value": 7728.39,
+      "value": 7728.2,
       "previousClose": 7736.52,
-      "change": -8.13000000000011,
-      "changePercent": -0.10508600766236122
+      "change": -8.320000000000618,
+      "changePercent": -0.10754189222028274
     },
     "nasdaq": {
-      "value": 26438.34,
+      "value": 26445.445,
       "previousClose": 26584.99,
-      "change": -146.65000000000146,
-      "changePercent": -0.5516270647459391
+      "change": -139.5450000000019,
+      "changePercent": -0.5249014575518061
     },
     "dow": {
-      "value": 53807.06,
+      "value": 53791.85,
       "previousClose": 54085.88,
-      "change": -278.8199999999997,
-      "changePercent": -0.5155134759756146
+      "change": -294.02999999999884,
+      "changePercent": -0.5436354183383886
     },
     "russell2000": {
-      "value": 3031.541,
+      "value": 3027.115,
       "previousClose": 3036.98,
-      "change": -5.438999999999851,
-      "changePercent": -0.17909238783264464
+      "change": -9.865000000000236,
+      "changePercent": -0.3248292711838813
     }
   },
   "rates": {
@@ -36,24 +36,24 @@
   },
   "commodities": {
     "oil": {
-      "value": 83.44,
+      "value": 83.53,
       "previousClose": 77.29,
-      "change": 6.1499999999999915,
-      "changePercent": 7.957044895846799
+      "change": 6.239999999999995,
+      "changePercent": 8.07348945529822
     },
     "gold": {
-      "value": 4428.0,
+      "value": 4433.2,
       "previousClose": 4242.0,
-      "change": 186.0,
-      "changePercent": 4.384724186704385
+      "change": 191.19999999999982,
+      "changePercent": 4.507307873644503
     }
   },
   "volatility": {
     "vix": {
-      "value": 15.26,
+      "value": 15.28,
       "previousClose": 15.81,
-      "change": -0.5500000000000007,
-      "changePercent": -3.47881087919039
+      "change": -0.5300000000000011,
+      "changePercent": -3.3523086654016514
     }
   }
 }
