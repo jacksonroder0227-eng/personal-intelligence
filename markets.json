@@ -1,29 +1,29 @@
 {
-  "updated": "2026-08-13T16:12:33.227301+00:00",
+  "updated": "2026-08-13T19:47:44.678853+00:00",
   "indices": {
     "sp500": {
-      "value": 7782.74,
+      "value": 7800.21,
       "previousClose": 7709.96,
-      "change": 72.77999999999975,
-      "changePercent": 0.9439737689949071
+      "change": 90.25,
+      "changePercent": 1.1705637902142165
     },
     "nasdaq": {
-      "value": 26747.732,
+      "value": 26817.203,
       "previousClose": 26348.35,
-      "change": 399.3820000000014,
-      "changePercent": 1.5157761301941164
+      "change": 468.8530000000028,
+      "changePercent": 1.7794396992601162
     },
     "dow": {
-      "value": 53677.15,
+      "value": 53827.24,
       "previousClose": 53885.1,
-      "change": -207.9499999999971,
-      "changePercent": -0.38591373125408895
+      "change": -57.86000000000058,
+      "changePercent": -0.10737662173773564
     },
     "russell2000": {
-      "value": 3048.512,
+      "value": 3054.581,
       "previousClose": 3001.55,
-      "change": 46.96199999999999,
-      "changePercent": 1.5645916276590424
+      "change": 53.03099999999995,
+      "changePercent": 1.7667871599673484
     }
   },
   "rates": {
@@ -36,24 +36,24 @@
   },
   "commodities": {
     "oil": {
-      "value": 82.52,
+      "value": 81.27,
       "previousClose": 82.13,
-      "change": 0.39000000000000057,
-      "changePercent": 0.4748569341288209
+      "change": -0.8599999999999994,
+      "changePercent": -1.0471204188481669
     },
     "gold": {
-      "value": 4422.3,
+      "value": 4407.5,
       "previousClose": 4361.8,
-      "change": 60.5,
-      "changePercent": 1.3870420468613875
+      "change": 45.69999999999982,
+      "changePercent": 1.047732587463887
     }
   },
   "volatility": {
     "vix": {
-      "value": 14.66,
+      "value": 14.71,
       "previousClose": 14.9,
-      "change": -0.2400000000000002,
-      "changePercent": -1.6107382550335587
+      "change": -0.1899999999999995,
+      "changePercent": -1.275167785234896
     }
   }
 }
