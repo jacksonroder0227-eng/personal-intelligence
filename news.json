@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-13T19:58:31.591172+00:00",
+  "updated": "2026-08-13T22:24:09.433138+00:00",
   "world": [
     {
       "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
       "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 16:20:41 GMT"
+      "published": "Thu, 13 Aug 2026 20:12:17 GMT"
     },
     {
       "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
@@ -17,19 +17,19 @@
       "published": "Thu, 13 Aug 2026 04:55:58 GMT"
     },
     {
+      "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+      "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 13 Aug 2026 21:43:47 GMT"
+    },
+    {
       "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
       "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 19:07:55 GMT"
+      "published": "Thu, 13 Aug 2026 22:02:54 GMT"
     },
     {
       "title": "Person fined after using foghorn to wake sleeping polar bear",
       "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 13 Aug 2026 15:30:57 GMT"
-    },
-    {
-      "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
-      "link": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 11:10:31 GMT"
     },
     {
       "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
@@ -54,6 +54,11 @@
   ],
   "finance": [
     {
+      "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
+      "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 13 Aug 2026 22:00:10 GMT"
+    },
+    {
       "title": "Water bills set to rise for many after firms permitted extra funding",
       "link": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 13 Aug 2026 13:38:30 GMT"
@@ -74,14 +79,14 @@
       "published": "Thu, 13 Aug 2026 11:12:33 GMT"
     },
     {
-      "title": "UK economy grows but experts warn of challenging months ahead",
-      "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 10:17:56 GMT"
-    },
-    {
       "title": "Why Japanese firms are being so slow to use AI",
       "link": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 12 Aug 2026 23:00:47 GMT"
+    },
+    {
+      "title": "UK economy grows but experts warn of challenging months ahead",
+      "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 13 Aug 2026 10:17:56 GMT"
     },
     {
       "title": "Bumble divides users by ditching its signature 'women-first' chat rule",
@@ -97,11 +102,6 @@
       "title": "Trump sued over Truth Social's $100,000 early access service",
       "link": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 12 Aug 2026 17:48:56 GMT"
-    },
-    {
-      "title": "Discord ordered to suspend livestreams in Brazil",
-      "link": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 12 Aug 2026 17:10:31 GMT"
     }
   ],
   "markets": []
