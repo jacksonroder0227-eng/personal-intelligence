@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T20:17:59.797667+00:00",
+  "updated": "2026-08-14T21:53:12.964926+00:00",
   "world": [
     {
       "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
@@ -32,6 +32,11 @@
       "published": "Fri, 14 Aug 2026 10:55:39 GMT"
     },
     {
+      "title": "Dozens injured and thousands evacuated in Croatia wildfire",
+      "link": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 20:22:56 GMT"
+    },
+    {
       "title": "France's top court blocks social media ban for under-15s",
       "link": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 14 Aug 2026 16:35:06 GMT"
@@ -45,11 +50,6 @@
       "title": "Zambia vote counting resumes after pause over alleged attacks on polling staff",
       "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 14 Aug 2026 16:28:59 GMT"
-    },
-    {
-      "title": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
-      "link": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 14 Aug 2026 17:00:46 GMT"
     }
   ],
   "finance": [
@@ -79,6 +79,11 @@
       "published": "Fri, 14 Aug 2026 08:39:46 GMT"
     },
     {
+      "title": "Protein or pickled garlic? What's new in ice cream",
+      "link": "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 21:20:19 GMT"
+    },
+    {
       "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
       "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 13 Aug 2026 21:43:47 GMT"
@@ -97,11 +102,6 @@
       "title": "Harvey Nichols bought by owner of Sports Direct",
       "link": "https://www.bbc.co.uk/news/articles/cd69p89gl6xo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 13 Aug 2026 14:27:43 GMT"
-    },
-    {
-      "title": "Flock boss admits surveillance firm took too long to act over police abuse",
-      "link": "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 13:02:24 GMT"
     }
   ],
   "markets": []
