@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-16T14:53:18.989097+00:00",
+  "updated": "2026-08-16T15:47:42.075834+00:00",
   "world": [
     {
-      "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
       "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 16 Aug 2026 10:52:08 GMT"
+      "published": "Sun, 16 Aug 2026 15:14:01 GMT"
     },
     {
       "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
@@ -27,6 +27,11 @@
       "published": "Sun, 16 Aug 2026 11:35:25 GMT"
     },
     {
+      "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+      "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 16 Aug 2026 15:25:38 GMT"
+    },
+    {
       "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
       "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 16 Aug 2026 09:27:58 GMT"
@@ -45,18 +50,13 @@
       "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
       "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 15 Aug 2026 19:41:57 GMT"
-    },
-    {
-      "title": "Multiple suspects at large after five shot at Virginia State University, police say",
-      "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 15 Aug 2026 19:34:22 GMT"
     }
   ],
   "finance": [
     {
-      "title": "Electric vehicle sales targets could be cut after pressure from car makers",
-      "link": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 14 Aug 2026 15:58:21 GMT"
+      "title": "Changing pubs into homes to be made harder under new rules",
+      "link": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 16 Aug 2026 15:04:13 GMT"
     },
     {
       "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
@@ -79,14 +79,19 @@
       "published": "Fri, 14 Aug 2026 07:45:51 GMT"
     },
     {
-      "title": "US says dozens of countries helped China dodge Trump's tariffs",
-      "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 14 Aug 2026 08:39:46 GMT"
-    },
-    {
       "title": "Protein or pickled garlic? What's new in ice cream",
       "link": "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 14 Aug 2026 21:20:19 GMT"
+    },
+    {
+      "title": "Electric vehicle sales targets could be cut after pressure from car makers",
+      "link": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 15:58:21 GMT"
+    },
+    {
+      "title": "US says dozens of countries helped China dodge Trump's tariffs",
+      "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 08:39:46 GMT"
     },
     {
       "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
@@ -97,11 +102,6 @@
       "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
       "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 13 Aug 2026 22:00:10 GMT"
-    },
-    {
-      "title": "Water bills set to rise for many after firms permitted extra funding",
-      "link": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 13:38:30 GMT"
     }
   ],
   "markets": []
