@@ -1,29 +1,29 @@
 {
-  "updated": "2026-08-17T19:15:56.374799+00:00",
+  "updated": "2026-08-17T20:48:32.508365+00:00",
   "indices": {
     "sp500": {
-      "value": 7753.32,
+      "value": 7745.06,
       "previousClose": 7753.11,
-      "change": 0.21000000000003638,
-      "changePercent": 0.002708590488204558
+      "change": -8.049999999999272,
+      "changePercent": -0.103829302047814
     },
     "nasdaq": {
-      "value": 26652.186,
+      "value": 26644.91,
       "previousClose": 26605.36,
-      "change": 46.82600000000093,
-      "changePercent": 0.17600212889433156
+      "change": 39.54999999999927,
+      "changePercent": 0.1486542561348513
     },
     "dow": {
-      "value": 53507.52,
+      "value": 53459.78,
       "previousClose": 53975.98,
-      "change": -468.4600000000064,
-      "changePercent": -0.8679045753314834
+      "change": -516.2000000000044,
+      "changePercent": -0.9563513251635345
     },
     "russell2000": {
-      "value": 3055.7651,
+      "value": 3057.5398,
       "previousClose": 3017.4,
-      "change": 38.365099999999984,
-      "changePercent": 1.271462185987936
+      "change": 40.13979999999992,
+      "changePercent": 1.3302777225425837
     }
   },
   "rates": {
@@ -36,24 +36,24 @@
   },
   "commodities": {
     "oil": {
-      "value": 84.39,
+      "value": 84.98,
       "previousClose": 83.27,
-      "change": 1.1200000000000045,
-      "changePercent": 1.345022216884838
+      "change": 1.710000000000008,
+      "changePercent": 2.0535607061366736
     },
     "gold": {
-      "value": 4456.9,
+      "value": 4471.7,
       "previousClose": 4408.9,
-      "change": 48.0,
-      "changePercent": 1.088706933702284
+      "change": 62.80000000000018,
+      "changePercent": 1.4243915715938258
     }
   },
   "volatility": {
     "vix": {
-      "value": 15.18,
+      "value": 15.19,
       "previousClose": 15.28,
-      "change": -0.09999999999999964,
-      "changePercent": -0.6544502617801025
+      "change": -0.08999999999999986,
+      "changePercent": -0.5890052356020933
     }
   }
 }
