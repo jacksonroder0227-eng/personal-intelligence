@@ -1,29 +1,29 @@
 {
-  "updated": "2026-08-18T19:16:29.153829+00:00",
+  "updated": "2026-08-18T20:00:25.986708+00:00",
   "indices": {
     "sp500": {
-      "value": 7697.41,
+      "value": 7691.97,
       "previousClose": 7728.2,
-      "change": -30.789999999999964,
-      "changePercent": -0.39841101420770636
+      "change": -36.22999999999956,
+      "changePercent": -0.46880256722133956
     },
     "nasdaq": {
-      "value": 26294.592,
+      "value": 26289.71,
       "previousClose": 26445.45,
-      "change": -150.85800000000017,
-      "changePercent": -0.5704497371003336
+      "change": -155.7400000000016,
+      "changePercent": -0.5889103796683423
     },
     "dow": {
-      "value": 53375.66,
+      "value": 53343.64,
       "previousClose": 53791.85,
-      "change": -416.18999999999505,
-      "changePercent": -0.7737045667698639
+      "change": -448.2099999999991,
+      "changePercent": -0.8332303127704274
     },
     "russell2000": {
-      "value": 3021.49,
+      "value": 3022.6794,
       "previousClose": 3027.12,
-      "change": -5.630000000000109,
-      "changePercent": -0.1859853590211194
+      "change": -4.440599999999904,
+      "changePercent": -0.14669388725917387
     }
   },
   "rates": {
@@ -36,24 +36,24 @@
   },
   "commodities": {
     "oil": {
-      "value": 84.18,
+      "value": 84.13,
       "previousClose": 81.25,
-      "change": 2.930000000000007,
-      "changePercent": 3.606153846153855
+      "change": 2.8799999999999955,
+      "changePercent": 3.5446153846153785
     },
     "gold": {
-      "value": 4411.0,
+      "value": 4399.7,
       "previousClose": 4363.6,
-      "change": 47.399999999999636,
-      "changePercent": 1.0862590521587596
+      "change": 36.099999999999454,
+      "changePercent": 0.8272985608213277
     }
   },
   "volatility": {
     "vix": {
-      "value": 15.67,
+      "value": 15.71,
       "previousClose": 14.55,
-      "change": 1.1199999999999992,
-      "changePercent": 7.697594501718208
+      "change": 1.1600000000000001,
+      "changePercent": 7.972508591065293
     }
   }
 }
