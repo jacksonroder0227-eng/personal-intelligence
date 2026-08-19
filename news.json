@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-19T11:57:03.945487+00:00",
+  "updated": "2026-08-19T14:07:21.334356+00:00",
   "world": [
+    {
+      "title": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 19 Aug 2026 13:53:51 GMT"
+    },
     {
       "title": "Sacked Ukrainian defence minister calls for presidential election",
       "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
@@ -22,46 +27,41 @@
       "published": "Wed, 19 Aug 2026 05:53:53 GMT"
     },
     {
+      "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
+      "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 19 Aug 2026 12:47:53 GMT"
+    },
+    {
+      "title": "Six tourists and pilot killed in Kenya helicopter crash",
+      "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 19 Aug 2026 13:00:09 GMT"
+    },
+    {
       "title": "Apparent human remains found in US reservoir as water levels hit record low",
       "link": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 19 Aug 2026 10:10:09 GMT"
     },
     {
-      "title": "Meta hooked children on Facebook and Instagram, US court hears",
-      "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 18 Aug 2026 22:11:07 GMT"
+      "title": "Head-on collision between bus and lorry in Brazil kills more than 20",
+      "link": "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 19 Aug 2026 12:25:30 GMT"
     },
     {
       "title": "Liberia agrees to accept 1,200 foreign deportees from the US",
       "link": "https://www.bbc.co.uk/news/articles/cpq8g22715vo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 19 Aug 2026 10:47:22 GMT"
-    },
-    {
-      "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
-      "link": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 19 Aug 2026 00:48:16 GMT"
-    },
-    {
-      "title": "'I don't want to send you to prison', witness tells Tupac accused in combative testimony",
-      "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 19 Aug 2026 03:00:35 GMT"
-    },
-    {
-      "title": "US charges 17 Iranians over 'massive' cyber theft campaign",
-      "link": "https://www.bbc.co.uk/news/articles/c1m14n4llvvo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 19 Aug 2026 09:48:16 GMT"
     }
   ],
   "finance": [
     {
-      "title": "Jump in energy bills drives UK inflation to highest rate for four months",
-      "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 19 Aug 2026 09:02:03 GMT"
-    },
-    {
       "title": "Inflation is heating up but don't expect another crisis",
       "link": "https://www.bbc.co.uk/news/articles/cj63jr5r09zo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 19 Aug 2026 11:27:39 GMT"
+    },
+    {
+      "title": "Jump in energy bills drives UK inflation to highest rate for four months",
+      "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 19 Aug 2026 09:02:03 GMT"
     },
     {
       "title": "Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing'",
@@ -91,7 +91,7 @@
     {
       "title": "Overhaul for Belfast cranes ahead of major contract",
       "link": "https://www.bbc.co.uk/news/articles/cedj7je0zlzo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 19 Aug 2026 05:10:07 GMT"
+      "published": "Wed, 19 Aug 2026 12:09:24 GMT"
     },
     {
       "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
