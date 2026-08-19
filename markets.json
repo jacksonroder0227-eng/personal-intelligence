@@ -1,29 +1,29 @@
 {
-  "updated": "2026-08-19T19:44:10.411969+00:00",
+  "updated": "2026-08-19T21:56:25.696363+00:00",
   "indices": {
     "sp500": {
-      "value": 7710.42,
+      "value": 7707.98,
       "previousClose": 7748.5,
-      "change": -38.07999999999993,
-      "changePercent": -0.49144995805639713
+      "change": -40.52000000000044,
+      "changePercent": -0.5229399238562359
     },
     "nasdaq": {
-      "value": 26334.545,
+      "value": 26331.09,
       "previousClose": 26588.49,
-      "change": -253.94500000000335,
-      "changePercent": -0.9550937266463922
+      "change": -257.40000000000146,
+      "changePercent": -0.9680880711917129
     },
     "dow": {
-      "value": 53452.06,
+      "value": 53463.05,
       "previousClose": 53770.27,
-      "change": -318.2099999999991,
-      "changePercent": -0.591795428961021
+      "change": -307.2199999999939,
+      "changePercent": -0.5713566251387503
     },
     "russell2000": {
-      "value": 3034.46,
+      "value": 3032.942,
       "previousClose": 3045.48,
-      "change": -11.019999999999982,
-      "changePercent": -0.36184772186978675
+      "change": -12.538000000000011,
+      "changePercent": -0.4116920813796187
     }
   },
   "rates": {
@@ -36,24 +36,24 @@
   },
   "commodities": {
     "oil": {
-      "value": 84.09,
+      "value": 84.4,
       "previousClose": 82.4,
-      "change": 1.6899999999999977,
-      "changePercent": 2.050970873786405
+      "change": 2.0,
+      "changePercent": 2.4271844660194173
     },
     "gold": {
-      "value": 4567.6,
+      "value": 4580.7,
       "previousClose": 4380.4,
-      "change": 187.20000000000073,
-      "changePercent": 4.2735823212492186
+      "change": 200.30000000000018,
+      "changePercent": 4.572641767875084
     }
   },
   "volatility": {
     "vix": {
-      "value": 14.94,
+      "value": 14.89,
       "previousClose": 14.63,
-      "change": 0.3099999999999987,
-      "changePercent": 2.1189336978810576
+      "change": 0.2599999999999998,
+      "changePercent": 1.7771701982228283
     }
   }
 }
