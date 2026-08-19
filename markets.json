@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T23:50:30.325913+00:00",
+  "updated": "2026-08-19T03:13:52.295518+00:00",
   "indices": {
     "sp500": {
       "value": 7691.76,
@@ -20,10 +20,10 @@
       "changePercent": -0.8336764770127764
     },
     "russell2000": {
-      "value": 3017.887,
+      "value": 3017.89,
       "previousClose": 3027.12,
-      "change": -9.23299999999972,
-      "changePercent": -0.30500938185469095
+      "change": -9.230000000000018,
+      "changePercent": -0.3049102777557553
     }
   },
   "rates": {
@@ -36,16 +36,16 @@
   },
   "commodities": {
     "oil": {
-      "value": 84.48,
+      "value": 84.75,
       "previousClose": 81.25,
-      "change": 3.230000000000004,
-      "changePercent": 3.97538461538462
+      "change": 3.5,
+      "changePercent": 4.3076923076923075
     },
     "gold": {
-      "value": 4381.3,
+      "value": 4408.2,
       "previousClose": 4363.6,
-      "change": 17.699999999999818,
-      "changePercent": 0.4056283802364977
+      "change": 44.599999999999454,
+      "changePercent": 1.0220918507654104
     }
   },
   "volatility": {
