@@ -1,37 +1,37 @@
 {
-  "updated": "2026-08-20T16:01:46.124164+00:00",
+  "updated": "2026-08-20T17:56:38.946040+00:00",
   "indices": {
     "sp500": {
-      "value": 7675.01,
+      "value": 7666.07,
       "previousClose": 7798.99,
-      "change": -123.97999999999956,
-      "changePercent": -1.589693024353148
+      "change": -132.92000000000007,
+      "changePercent": -1.7043232521134155
     },
     "nasdaq": {
-      "value": 26098.926,
+      "value": 26101.324,
       "previousClose": 26803.03,
-      "change": -704.1039999999994,
-      "changePercent": -2.6269567283997346
+      "change": -701.7059999999983,
+      "changePercent": -2.6180099787225486
     },
     "dow": {
-      "value": 52991.68,
+      "value": 52909.8,
       "previousClose": 53839.99,
-      "change": -848.3099999999977,
-      "changePercent": -1.575613219839004
+      "change": -930.189999999995,
+      "changePercent": -1.7276934858271615
     },
     "russell2000": {
-      "value": 2995.891,
+      "value": 2992.429,
       "previousClose": 3052.85,
-      "change": -56.95899999999983,
-      "changePercent": -1.8657647771754209
+      "change": -60.42099999999982,
+      "changePercent": -1.979167007877879
     }
   },
   "rates": {
     "treasury10y": {
-      "value": 4.71,
+      "value": 4.708,
       "previousClose": 4.696,
-      "change": 0.014000000000000234,
-      "changePercent": 0.2981260647359505
+      "change": 0.012000000000000455,
+      "changePercent": 0.2555366269165344
     }
   },
   "commodities": {
@@ -42,18 +42,18 @@
       "changePercent": 2.556213017751475
     },
     "gold": {
-      "value": 4573.8,
+      "value": 4575.7,
       "previousClose": 4417.8,
-      "change": 156.0,
-      "changePercent": 3.5311693603150887
+      "change": 157.89999999999964,
+      "changePercent": 3.5741771922676366
     }
   },
   "volatility": {
     "vix": {
-      "value": 15.94,
+      "value": 15.89,
       "previousClose": 14.25,
-      "change": 1.6899999999999995,
-      "changePercent": 11.859649122807014
+      "change": 1.6400000000000006,
+      "changePercent": 11.508771929824565
     }
   }
 }
