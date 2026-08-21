@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T16:33:39.938560+00:00",
+  "updated": "2026-08-21T17:28:21.374771+00:00",
   "world": [
     {
       "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
@@ -27,9 +27,14 @@
       "published": "Fri, 21 Aug 2026 13:44:43 GMT"
     },
     {
-      "title": "Five missing after fire in Swiss Alpine town",
-      "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 13:10:39 GMT"
+      "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 15:58:57 GMT"
+    },
+    {
+      "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 16:26:53 GMT"
     },
     {
       "title": "Peru earthquake damages buildings and causes power cuts",
@@ -37,19 +42,14 @@
       "published": "Fri, 21 Aug 2026 11:14:38 GMT"
     },
     {
+      "title": "Five missing after fire in Swiss Alpine town",
+      "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 13:10:39 GMT"
+    },
+    {
       "title": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears",
       "link": "https://www.bbc.co.uk/news/articles/c24me64n31qo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 21 Aug 2026 16:20:55 GMT"
-    },
-    {
-      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
-      "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 10:46:09 GMT"
-    },
-    {
-      "title": "Two Mexicans arrested as police uncover big meth lab on South African farm",
-      "link": "https://www.bbc.co.uk/news/articles/c80n8d4xz1eo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 11:57:37 GMT"
     }
   ],
   "finance": [
@@ -64,9 +64,9 @@
       "published": "Fri, 21 Aug 2026 15:34:06 GMT"
     },
     {
-      "title": "Why the US economy is ringing alarm bells",
-      "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 08:38:18 GMT"
+      "title": "US borrowing costs rise as attempts to ease rates prove short-lived",
+      "link": "https://www.bbc.co.uk/news/articles/cvg92p3ez17o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 16:45:09 GMT"
     },
     {
       "title": "Millennials have found it hard to buy homes \u2013 but things may be turning a corner",
@@ -89,6 +89,11 @@
       "published": "Fri, 21 Aug 2026 09:45:11 GMT"
     },
     {
+      "title": "Why the US economy is ringing alarm bells",
+      "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 08:38:18 GMT"
+    },
+    {
       "title": "Panama Canal to cut number of ships passing through due to El Ni\u00f1o",
       "link": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 21 Aug 2026 06:46:08 GMT"
@@ -97,11 +102,6 @@
       "title": "The teen entrepreneur transforming farm management",
       "link": "https://www.bbc.co.uk/news/articles/cx2r9gxp3xgo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 20 Aug 2026 23:01:01 GMT"
-    },
-    {
-      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
-      "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 23:16:45 GMT"
     }
   ],
   "markets": []
