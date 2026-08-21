@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T11:25:24.789320+00:00",
+  "updated": "2026-08-21T12:46:12.787371+00:00",
   "world": [
     {
       "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
@@ -7,9 +7,9 @@
       "published": "Fri, 21 Aug 2026 05:00:57 GMT"
     },
     {
-      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
-      "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 23:16:45 GMT"
+      "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+      "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 11:31:51 GMT"
     },
     {
       "title": "Hong Kong's Tiananmen activists guilty in national security trial",
@@ -22,11 +22,6 @@
       "published": "Fri, 21 Aug 2026 09:53:47 GMT"
     },
     {
-      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
-      "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 10:46:09 GMT"
-    },
-    {
       "title": "Panama Canal to cut number of ships passing through due to El Ni\u00f1o",
       "link": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 21 Aug 2026 06:46:08 GMT"
@@ -37,6 +32,16 @@
       "published": "Fri, 21 Aug 2026 10:03:17 GMT"
     },
     {
+      "title": "Two Mexicans arrested as police uncover big meth lab on South African farm",
+      "link": "https://www.bbc.co.uk/news/articles/c80n8d4xz1eo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 11:57:37 GMT"
+    },
+    {
+      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
+      "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 10:46:09 GMT"
+    },
+    {
       "title": "Gandhi's handwritten notes on life sold for $1.69m at Indian auction",
       "link": "https://www.bbc.co.uk/news/articles/c4gdn2vmgvwo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 21 Aug 2026 06:33:32 GMT"
@@ -45,14 +50,14 @@
       "title": "Five missing after fire in Swiss Alpine town",
       "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 21 Aug 2026 07:06:16 GMT"
-    },
-    {
-      "title": "Bali jails Swiss tourist for insulting sacred Day of Silence",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 02:33:27 GMT"
     }
   ],
   "finance": [
+    {
+      "title": "Royal Mail misses delivery targets again but hails 'encouraging' signs",
+      "link": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 11:20:57 GMT"
+    },
     {
       "title": "UK borrows more than expected in July as Healey prepares for first Budget",
       "link": "https://www.bbc.co.uk/news/articles/cly8kzkyvwgo?at_medium=RSS&at_campaign=rss",
@@ -74,14 +79,14 @@
       "published": "Fri, 21 Aug 2026 06:46:08 GMT"
     },
     {
-      "title": "Why the US economy is ringing alarm bells",
-      "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 08:38:18 GMT"
-    },
-    {
       "title": "How landscape gardening is being electrified",
       "link": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 20 Aug 2026 23:12:38 GMT"
+    },
+    {
+      "title": "Why the US economy is ringing alarm bells",
+      "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 08:38:18 GMT"
     },
     {
       "title": "The teen entrepreneur transforming farm management",
@@ -97,11 +102,6 @@
       "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
       "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 20 Aug 2026 10:05:24 GMT"
-    },
-    {
-      "title": "Walmart sales under strain as US shoppers pull back",
-      "link": "https://www.bbc.co.uk/news/articles/cpq8rjy7vxlo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 17:59:59 GMT"
     }
   ],
   "markets": []
