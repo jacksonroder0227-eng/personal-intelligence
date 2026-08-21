@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T03:51:02.240382+00:00",
+  "updated": "2026-08-21T04:38:57.351852+00:00",
   "indices": {
     "sp500": {
       "value": 7641.16,
@@ -42,10 +42,10 @@
       "changePercent": 2.366863905325444
     },
     "gold": {
-      "value": 4584.5,
+      "value": 4603.3,
       "previousClose": 4417.8,
-      "change": 166.69999999999982,
-      "changePercent": 3.7733713613110558
+      "change": 185.5,
+      "changePercent": 4.198922540631083
     }
   },
   "volatility": {
