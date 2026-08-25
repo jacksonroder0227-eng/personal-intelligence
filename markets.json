@@ -1,45 +1,45 @@
 {
-  "updated": "2026-08-25T16:37:56.801532+00:00",
+  "updated": "2026-08-25T17:32:15.227677+00:00",
   "indices": {
     "sp500": {
-      "value": 7675.3,
+      "value": 7666.77,
       "previousClose": 7691.76,
-      "change": -16.460000000000036,
-      "changePercent": -0.21399523646083649
+      "change": -24.98999999999978,
+      "changePercent": -0.32489313239102335
     },
     "nasdaq": {
-      "value": 26137.666,
+      "value": 26103.97,
       "previousClose": 26289.71,
-      "change": -152.04399999999805,
-      "changePercent": -0.5783403468505285
+      "change": -185.73999999999796,
+      "changePercent": -0.7065121676884148
     },
     "dow": {
-      "value": 53498.17,
+      "value": 53486.58,
       "previousClose": 53343.4,
-      "change": 154.7699999999968,
-      "changePercent": 0.2901389862663362
+      "change": 143.1800000000003,
+      "changePercent": 0.26841183726571666
     },
     "russell2000": {
-      "value": 3004.171,
+      "value": 3004.088,
       "previousClose": 3017.89,
-      "change": -13.719000000000051,
-      "changePercent": -0.4545891334674243
+      "change": -13.80199999999968,
+      "changePercent": -0.4573393993816766
     }
   },
   "rates": {
     "treasury10y": {
-      "value": 4.645,
+      "value": 4.643,
       "previousClose": 4.653,
-      "change": -0.008000000000000007,
-      "changePercent": -0.17193208682570402
+      "change": -0.009999999999999787,
+      "changePercent": -0.21491510853212525
     }
   },
   "commodities": {
     "oil": {
-      "value": 82.21,
+      "value": 82.3,
       "previousClose": 87.83,
-      "change": -5.6200000000000045,
-      "changePercent": -6.39872480929068
+      "change": -5.530000000000001,
+      "changePercent": -6.296254127291359
     },
     "gold": {
       "value": 4698.9,
@@ -50,10 +50,10 @@
   },
   "volatility": {
     "vix": {
-      "value": 15.5,
+      "value": 15.51,
       "previousClose": 14.89,
-      "change": 0.6099999999999994,
-      "changePercent": 4.096709200805906
+      "change": 0.6199999999999992,
+      "changePercent": 4.163868368032231
     }
   }
 }
