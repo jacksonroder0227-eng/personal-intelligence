@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T22:26:33.898387+00:00",
+  "updated": "2026-08-25T23:24:45.719211+00:00",
   "world": [
     {
       "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
@@ -54,6 +54,21 @@
   ],
   "finance": [
     {
+      "title": "Winter energy prices expected to rise to three-year high",
+      "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 25 Aug 2026 23:07:29 GMT"
+    },
+    {
+      "title": "Back to school: How to save on uniform costs",
+      "link": "https://www.bbc.co.uk/news/articles/cedjqx6zdl0o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 25 Aug 2026 23:08:31 GMT"
+    },
+    {
+      "title": "AI gold rush draws crypto firms away from Bitcoin",
+      "link": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 25 Aug 2026 23:11:02 GMT"
+    },
+    {
       "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
       "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 25 Aug 2026 08:08:26 GMT"
@@ -62,6 +77,11 @@
       "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
       "link": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 25 Aug 2026 15:04:52 GMT"
+    },
+    {
+      "title": "Firms scramble for battery power in Spain and Portugal",
+      "link": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 25 Aug 2026 23:09:31 GMT"
     },
     {
       "title": "Burnham refuses to rule out tax rises in autumn Budget",
@@ -74,11 +94,6 @@
       "published": "Mon, 24 Aug 2026 23:03:42 GMT"
     },
     {
-      "title": "'What you see is what you pay' - why some US restaurants are banning tips",
-      "link": "https://www.bbc.co.uk/news/articles/c4g36yze692o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 24 Aug 2026 23:04:17 GMT"
-    },
-    {
       "title": "OnlyFans owner was paid over $700m before his death",
       "link": "https://www.bbc.co.uk/news/articles/c8d3p2g2p05o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 25 Aug 2026 10:09:00 GMT"
@@ -87,21 +102,6 @@
       "title": "How Canada could hit back to hurt the US economy - and Trump",
       "link": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 25 Aug 2026 02:49:22 GMT"
-    },
-    {
-      "title": "More than 70,000 social and affordable homes to be built across England over 10 years",
-      "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 25 Aug 2026 12:10:13 GMT"
-    },
-    {
-      "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
-      "link": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 25 Aug 2026 02:51:53 GMT"
-    },
-    {
-      "title": "Songs created by AI banned from Australia's music charts",
-      "link": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 25 Aug 2026 04:54:01 GMT"
     }
   ],
   "markets": []
