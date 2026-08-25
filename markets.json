@@ -1,29 +1,29 @@
 {
-  "updated": "2026-08-25T19:32:17.367462+00:00",
+  "updated": "2026-08-25T20:29:32.502127+00:00",
   "indices": {
     "sp500": {
-      "value": 7669.49,
+      "value": 7677.28,
       "previousClose": 7691.76,
-      "change": -22.270000000000437,
-      "changePercent": -0.2895306145797637
+      "change": -14.480000000000473,
+      "changePercent": -0.18825340364234547
     },
     "nasdaq": {
-      "value": 26097.252,
+      "value": 26151.299,
       "previousClose": 26289.71,
-      "change": -192.45799999999872,
-      "changePercent": -0.7320658919402258
+      "change": -138.41100000000006,
+      "changePercent": -0.5264835557334031
     },
     "dow": {
-      "value": 53561.84,
+      "value": 53577.4,
       "previousClose": 53343.4,
-      "change": 218.43999999999505,
-      "changePercent": 0.40949770730773644
+      "change": 234.0,
+      "changePercent": 0.43866720156570443
     },
     "russell2000": {
-      "value": 3003.616,
+      "value": 3010.022,
       "previousClose": 3017.89,
-      "change": -14.273999999999887,
-      "changePercent": -0.4729794657856942
+      "change": -7.867999999999938,
+      "changePercent": -0.2607119543787195
     }
   },
   "rates": {
@@ -36,24 +36,24 @@
   },
   "commodities": {
     "oil": {
-      "value": 82.23,
+      "value": 80.43,
       "previousClose": 87.83,
-      "change": -5.599999999999994,
-      "changePercent": -6.375953546624154
+      "change": -7.3999999999999915,
+      "changePercent": -8.425367186610488
     },
     "gold": {
-      "value": 4722.3,
+      "value": 4723.2,
       "previousClose": 4516.3,
-      "change": 206.0,
-      "changePercent": 4.561255895312534
+      "change": 206.89999999999964,
+      "changePercent": 4.5811837123308825
     }
   },
   "volatility": {
     "vix": {
-      "value": 15.48,
+      "value": 15.46,
       "previousClose": 14.89,
-      "change": 0.5899999999999999,
-      "changePercent": 3.9623908663532563
+      "change": 0.5700000000000003,
+      "changePercent": 3.828072531900606
     }
   }
 }
