@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T03:04:15.910326+00:00",
+  "updated": "2026-08-26T04:38:37.186370+00:00",
   "world": [
     {
       "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
@@ -69,19 +69,24 @@
       "published": "Wed, 26 Aug 2026 01:32:07 GMT"
     },
     {
+      "title": "Why Tesla has been caught up in a massive car recall in China",
+      "link": "https://www.bbc.co.uk/news/articles/c9w4jx2rvgro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 26 Aug 2026 03:33:59 GMT"
+    },
+    {
       "title": "AI gold rush draws crypto firms away from Bitcoin",
       "link": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 25 Aug 2026 23:11:02 GMT"
     },
     {
-      "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 25 Aug 2026 08:08:26 GMT"
-    },
-    {
       "title": "Firms scramble for battery power in Spain and Portugal",
       "link": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 25 Aug 2026 23:09:31 GMT"
+    },
+    {
+      "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
+      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 25 Aug 2026 08:08:26 GMT"
     },
     {
       "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
@@ -97,11 +102,6 @@
       "title": "New 10p coin enters circulation - will you spot one?",
       "link": "https://www.bbc.co.uk/news/articles/cn74lxrv110o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 24 Aug 2026 23:03:42 GMT"
-    },
-    {
-      "title": "OnlyFans owner was paid over $700m before his death",
-      "link": "https://www.bbc.co.uk/news/articles/c8d3p2g2p05o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 25 Aug 2026 10:09:00 GMT"
     }
   ],
   "markets": []
