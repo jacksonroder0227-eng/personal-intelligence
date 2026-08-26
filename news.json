@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T19:02:16.141876+00:00",
+  "updated": "2026-08-26T22:45:58.506999+00:00",
   "world": [
     {
       "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
@@ -17,19 +17,24 @@
       "published": "Wed, 26 Aug 2026 15:42:45 GMT"
     },
     {
+      "title": "US drug agency approves breakthrough treatment for pancreatic cancer",
+      "link": "https://www.bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 26 Aug 2026 22:02:18 GMT"
+    },
+    {
       "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
       "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 25 Aug 2026 19:50:57 GMT"
     },
     {
-      "title": "Radiation link in flight attendant's breast cancer, French court finds",
-      "link": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 26 Aug 2026 10:29:36 GMT"
-    },
-    {
       "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
       "link": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 26 Aug 2026 08:17:45 GMT"
+    },
+    {
+      "title": "Parrot eggs hatch after suspected Thai smuggler arrested at South African airport",
+      "link": "https://www.bbc.co.uk/news/articles/ceq8n04q0gxo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 26 Aug 2026 19:19:46 GMT"
     },
     {
       "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
@@ -42,17 +47,22 @@
       "published": "Wed, 26 Aug 2026 18:22:41 GMT"
     },
     {
-      "title": "Indian jewellery ad pulled after backlash over actor's outfit",
-      "link": "https://www.bbc.co.uk/news/articles/cy9z4dwx172o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 26 Aug 2026 07:26:03 GMT"
-    },
-    {
-      "title": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
-      "link": "https://www.bbc.co.uk/news/articles/c3rel9rgnx5o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 26 Aug 2026 12:17:12 GMT"
+      "title": "Radiation link in flight attendant's breast cancer, French court finds",
+      "link": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 26 Aug 2026 10:29:36 GMT"
     }
   ],
   "finance": [
+    {
+      "title": "Unexpected chat between OpenAI agents led to Hugging Face hack",
+      "link": "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 26 Aug 2026 22:03:45 GMT"
+    },
+    {
+      "title": "Nvidia revenue doubles on continued AI demand",
+      "link": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 26 Aug 2026 21:49:26 GMT"
+    },
     {
       "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
       "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
@@ -66,22 +76,17 @@
     {
       "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
       "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 26 Aug 2026 17:44:39 GMT"
-    },
-    {
-      "title": "Reform proposes \u00a330 tax rebate for HMRC phone delays",
-      "link": "https://www.bbc.co.uk/news/articles/c804rd7leppo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 26 Aug 2026 14:41:02 GMT"
-    },
-    {
-      "title": "Back to school: How parents can save on uniform costs",
-      "link": "https://www.bbc.co.uk/news/articles/cedjqx6zdl0o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 25 Aug 2026 23:08:31 GMT"
+      "published": "Wed, 26 Aug 2026 21:27:23 GMT"
     },
     {
       "title": "Firms scramble for battery power in Spain and Portugal",
       "link": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 25 Aug 2026 23:09:31 GMT"
+    },
+    {
+      "title": "Reform proposes \u00a330 tax rebate for HMRC phone delays",
+      "link": "https://www.bbc.co.uk/news/articles/c804rd7leppo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 26 Aug 2026 14:41:02 GMT"
     },
     {
       "title": "Why Tesla has been caught up in a massive car recall in China",
@@ -94,14 +99,9 @@
       "published": "Wed, 26 Aug 2026 01:32:07 GMT"
     },
     {
-      "title": "'Ironing board' seats to be replaced on Thameslink",
-      "link": "https://www.bbc.co.uk/news/articles/c0e31qdqrlyo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 26 Aug 2026 16:56:34 GMT"
-    },
-    {
-      "title": "AI gold rush draws crypto firms away from Bitcoin",
-      "link": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 25 Aug 2026 23:11:02 GMT"
+      "title": "Back to school: How parents can save on uniform costs",
+      "link": "https://www.bbc.co.uk/news/articles/cedjqx6zdl0o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 25 Aug 2026 23:08:31 GMT"
     }
   ],
   "markets": []
