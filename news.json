@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T22:33:14.224939+00:00",
+  "updated": "2026-09-01T01:41:11.523649+00:00",
   "world": [
     {
       "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
@@ -17,6 +17,11 @@
       "published": "Mon, 31 Aug 2026 13:11:35 GMT"
     },
     {
+      "title": "US army secretary resigns after months of tension",
+      "link": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 01:01:03 GMT"
+    },
+    {
       "title": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
       "link": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 31 Aug 2026 14:50:36 GMT"
@@ -29,7 +34,7 @@
     {
       "title": "US Supreme Court clears way for Trump to keep building White House ballroom",
       "link": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 21:38:42 GMT"
+      "published": "Mon, 31 Aug 2026 22:38:24 GMT"
     },
     {
       "title": "Festival honouring Dolly Parton set for Nashville and London",
@@ -45,11 +50,6 @@
       "title": "Messi retires from international football with 'nothing left to give'",
       "link": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 31 Aug 2026 15:18:39 GMT"
-    },
-    {
-      "title": "John Galliano exhibition at New York Met cancelled after backlash",
-      "link": "https://www.bbc.co.uk/news/articles/c4gkp6pgy03o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 15:30:05 GMT"
     }
   ],
   "finance": [
@@ -59,9 +59,19 @@
       "published": "Mon, 31 Aug 2026 16:49:11 GMT"
     },
     {
+      "title": "Shein shares slide in long-awaited stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 01:39:32 GMT"
+    },
+    {
       "title": "Amazon rigged billions in ad pricing, lawsuit from states and US watchdog alleges",
       "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 31 Aug 2026 21:28:49 GMT"
+    },
+    {
+      "title": "Japan Inc is betting big on India as China risks deepen",
+      "link": "https://www.bbc.co.uk/news/articles/cz64955d56po?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 22:07:19 GMT"
     },
     {
       "title": "Kushner states regret over World Cup sell-off plan",
@@ -92,16 +102,6 @@
       "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
       "link": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 28 Aug 2026 15:15:26 GMT"
-    },
-    {
-      "title": "I was spending \u00a3700 a month: How I beat my late-night shopping addiction",
-      "link": "https://www.bbc.co.uk/news/articles/czxqk1gwxn7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 27 Aug 2026 23:04:21 GMT"
-    },
-    {
-      "title": "Selena Gomez pushes back against 'frivolous' fraud claims",
-      "link": "https://www.bbc.co.uk/news/articles/cz0z4k28804o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 05:53:05 GMT"
     }
   ],
   "markets": []
