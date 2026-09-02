@@ -1,15 +1,15 @@
 {
-  "updated": "2026-09-02T20:35:01.392620+00:00",
+  "updated": "2026-09-02T23:00:11.526681+00:00",
   "world": [
-    {
-      "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
-      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 15:33:19 GMT"
-    },
     {
       "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
       "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 02 Sep 2026 17:33:45 GMT"
+    },
+    {
+      "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
+      "link": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 21:34:27 GMT"
     },
     {
       "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
@@ -22,14 +22,14 @@
       "published": "Wed, 02 Sep 2026 11:47:11 GMT"
     },
     {
+      "title": "Watch: Jury still unable to reach unanimous decision in Lindsay Clancy case",
+      "link": "https://www.bbc.co.uk/news/videos/cy8z32v7130o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 20:12:32 GMT"
+    },
+    {
       "title": "Maltese tycoon acquitted of orchestrating murder of renowned journalist",
       "link": "https://www.bbc.co.uk/news/articles/c5ye295pxgxo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 02 Sep 2026 19:05:31 GMT"
-    },
-    {
-      "title": "US sailors arrive in Thailand's Pattaya after record 250 days at sea",
-      "link": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 10:04:28 GMT"
     },
     {
       "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
@@ -37,19 +37,19 @@
       "published": "Wed, 02 Sep 2026 17:21:00 GMT"
     },
     {
+      "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
+      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 15:33:19 GMT"
+    },
+    {
+      "title": "US sailors arrive in Thailand's Pattaya after record 250 days at sea",
+      "link": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 10:04:28 GMT"
+    },
+    {
       "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
       "link": "https://www.bbc.co.uk/news/articles/c86xpv8l9y9o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 02 Sep 2026 20:21:04 GMT"
-    },
-    {
-      "title": "Woman charged with juror intimidation in Lindsay Clancy trial",
-      "link": "https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 17:05:09 GMT"
-    },
-    {
-      "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-      "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 16:12:43 GMT"
     }
   ],
   "finance": [
@@ -62,6 +62,11 @@
       "title": "Why are UK borrowing costs rising and what does it mean for me?",
       "link": "https://www.bbc.co.uk/news/articles/cwyxydr7gv9o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 02 Sep 2026 11:05:22 GMT"
+    },
+    {
+      "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 17:21:00 GMT"
     },
     {
       "title": "Lords call for AI 'kill switch' powers in UK",
@@ -97,11 +102,6 @@
       "title": "Range Rover launches first fully electric model",
       "link": "https://www.bbc.co.uk/news/articles/clyk5016mpyo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 02 Sep 2026 14:23:01 GMT"
-    },
-    {
-      "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
-      "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 01:23:00 GMT"
     }
   ],
   "markets": []
