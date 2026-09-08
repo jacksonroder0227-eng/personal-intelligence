@@ -1,10 +1,15 @@
 {
-  "updated": "2026-09-08T18:21:00.889493+00:00",
+  "updated": "2026-09-08T21:36:05.871744+00:00",
   "world": [
     {
       "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
       "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 17:59:07 GMT"
+      "published": "Tue, 08 Sep 2026 19:11:39 GMT"
+    },
+    {
+      "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 20:45:56 GMT"
     },
     {
       "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
@@ -44,15 +49,15 @@
     {
       "title": "New Yorkers were 'lied' to about toxic air after 9/11 attacks, says Mamdani",
       "link": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 14:03:39 GMT"
-    },
-    {
-      "title": "Highest paid world leader to get salary increase of $1 million",
-      "link": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 09:20:05 GMT"
+      "published": "Tue, 08 Sep 2026 18:21:40 GMT"
     }
   ],
   "finance": [
+    {
+      "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
+      "link": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 20:57:09 GMT"
+    },
     {
       "title": "Sapporo to move some beer production from Canada to US after tariffs",
       "link": "https://www.bbc.co.uk/news/articles/c87ve09pgqzo?at_medium=RSS&at_campaign=rss",
@@ -64,19 +69,19 @@
       "published": "Tue, 08 Sep 2026 15:19:43 GMT"
     },
     {
-      "title": "Heathrow and Gatwick among airports hit by air traffic control problems",
+      "title": "Major UK airports hit by air traffic control problems",
       "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 17:56:46 GMT"
-    },
-    {
-      "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
-      "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 09:17:48 GMT"
+      "published": "Tue, 08 Sep 2026 20:34:36 GMT"
     },
     {
       "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
       "link": "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 08 Sep 2026 09:00:28 GMT"
+    },
+    {
+      "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
+      "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 09:17:48 GMT"
     },
     {
       "title": "UK's third-biggest taxpayer to leave for Greece",
@@ -97,11 +102,6 @@
       "title": "The firms turning recruitment into X Factor-style competitions",
       "link": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 08 Sep 2026 07:43:15 GMT"
-    },
-    {
-      "title": "Scammers demand ransoms from Instagram users over fake copyright claims",
-      "link": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 06:49:56 GMT"
     }
   ],
   "markets": []
