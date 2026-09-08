@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T22:32:32.835087+00:00",
+  "updated": "2026-09-08T00:55:50.440560+00:00",
   "world": [
     {
       "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
@@ -15,6 +15,16 @@
       "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
       "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 07 Sep 2026 14:04:01 GMT"
+    },
+    {
+      "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
+      "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 23:46:44 GMT"
+    },
+    {
+      "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+      "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 00:48:43 GMT"
     },
     {
       "title": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladi\u0107",
@@ -40,19 +50,24 @@
       "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
       "link": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 07 Sep 2026 07:03:44 GMT"
-    },
-    {
-      "title": "Austria's Islamic headscarf ban in force as under-14s go back to school",
-      "link": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 00:01:32 GMT"
-    },
-    {
-      "title": "Burundians rush to leave Kenya ahead of crackdown on unregistered traders",
-      "link": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 14:57:16 GMT"
     }
   ],
   "finance": [
+    {
+      "title": "'I performed on stage to get my first job' - the firms turning recruitment into competitions",
+      "link": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 23:06:14 GMT"
+    },
+    {
+      "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+      "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 23:05:12 GMT"
+    },
+    {
+      "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+      "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 00:48:43 GMT"
+    },
     {
       "title": "Next wins key appeal to overturn \u00a330m equal pay ruling",
       "link": "https://www.bbc.co.uk/news/articles/c05r61rqe4yo?at_medium=RSS&at_campaign=rss",
@@ -74,34 +89,19 @@
       "published": "Mon, 07 Sep 2026 16:05:37 GMT"
     },
     {
-      "title": "The \u00a370 refund letter that isn't a scam",
-      "link": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 08:50:55 GMT"
-    },
-    {
       "title": "Why are European countries moving their gold out of North America?",
       "link": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 05 Sep 2026 01:42:09 GMT"
     },
     {
+      "title": "The \u00a370 refund letter that isn't a scam",
+      "link": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 08:50:55 GMT"
+    },
+    {
       "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
       "link": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 07 Sep 2026 14:57:30 GMT"
-    },
-    {
-      "title": "China to pump $54bn into state banks and insurers to boost economy",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 02:26:12 GMT"
-    },
-    {
-      "title": "Investigators begin work on why cargo plane overran Miami runway",
-      "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 17:46:25 GMT"
-    },
-    {
-      "title": "Flight price rises due to 'foolish leaders' starting wars, Virgin's Branson says",
-      "link": "https://www.bbc.co.uk/news/articles/cje8wx2qw9vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 01:03:35 GMT"
     }
   ],
   "markets": []
