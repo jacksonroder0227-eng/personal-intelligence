@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T17:36:20.079872+00:00",
+  "updated": "2026-09-09T20:31:03.638225+00:00",
   "world": [
     {
       "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
@@ -17,6 +17,11 @@
       "published": "Wed, 09 Sep 2026 16:46:53 GMT"
     },
     {
+      "title": "Iran referred to UN Security Council for nuclear non-compliance",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 20:22:51 GMT"
+    },
+    {
       "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
       "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 09 Sep 2026 10:20:40 GMT"
@@ -27,11 +32,6 @@
       "published": "Wed, 09 Sep 2026 16:30:28 GMT"
     },
     {
-      "title": "N Korea has built two-storey uranium enrichment facility, says watchdog",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 11:29:59 GMT"
-    },
-    {
       "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
       "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 09 Sep 2026 15:01:58 GMT"
@@ -39,7 +39,7 @@
     {
       "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
       "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 16:01:54 GMT"
+      "published": "Wed, 09 Sep 2026 20:28:04 GMT"
     },
     {
       "title": "Family of killed teen call for death penalty in D4vd trial",
@@ -54,9 +54,14 @@
   ],
   "finance": [
     {
-      "title": "Air traffic failure was avoidable, says Transport Secretary",
+      "title": "Air traffic failure was avoidable, says transport secretary",
       "link": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 16:13:40 GMT"
+      "published": "Wed, 09 Sep 2026 18:21:16 GMT"
+    },
+    {
+      "title": "Apple's new boss starts with big gamble on costly first folding iPhone",
+      "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 20:00:33 GMT"
     },
     {
       "title": "What are my rights if my flight is cancelled or delayed?",
@@ -74,14 +79,14 @@
       "published": "Wed, 09 Sep 2026 12:20:40 GMT"
     },
     {
-      "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-      "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 15:34:09 GMT"
-    },
-    {
       "title": "Should promotion depend on how workers use AI?",
       "link": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 08 Sep 2026 23:05:23 GMT"
+    },
+    {
+      "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 15:34:09 GMT"
     },
     {
       "title": "I'm 27 and I've already written my will - here's why",
@@ -97,11 +102,6 @@
       "title": "Singaporean man pleads guilty in US to massive crypto heist",
       "link": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 09 Sep 2026 05:49:30 GMT"
-    },
-    {
-      "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
-      "link": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 20:57:09 GMT"
     }
   ],
   "markets": []
