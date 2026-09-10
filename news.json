@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-10T10:44:41.987754+00:00",
+  "updated": "2026-09-10T14:52:01.799602+00:00",
   "world": [
     {
       "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
       "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 10:07:19 GMT"
+      "published": "Thu, 10 Sep 2026 13:23:37 GMT"
     },
     {
       "title": "Watch: Is Trump's $5,000 election pledge legal?",
@@ -24,12 +24,12 @@
     {
       "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
       "link": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 09:52:47 GMT"
+      "published": "Thu, 10 Sep 2026 13:12:40 GMT"
     },
     {
-      "title": "'Heavy casualties' after fire on cargo ship in eastern China",
+      "title": "Twenty-five dead after fire on cargo ship in eastern China",
       "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 10:30:30 GMT"
+      "published": "Thu, 10 Sep 2026 12:24:54 GMT"
     },
     {
       "title": "Apple's new boss starts with big gamble on \u00a31,999 first folding iPhone",
@@ -54,6 +54,11 @@
   ],
   "finance": [
     {
+      "title": "Air traffic chaos and compensation: 'Shutdown cost us more than \u00a31,000'",
+      "link": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 13:34:17 GMT"
+    },
+    {
       "title": "Primark finally set to launch home deliveries",
       "link": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 10 Sep 2026 10:02:26 GMT"
@@ -64,24 +69,24 @@
       "published": "Wed, 09 Sep 2026 23:02:20 GMT"
     },
     {
-      "title": "Air traffic failure was avoidable, says transport secretary",
-      "link": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 18:21:16 GMT"
-    },
-    {
       "title": "Apple's new boss starts with big gamble on \u00a31,999 first folding iPhone",
       "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 10 Sep 2026 09:32:34 GMT"
     },
     {
-      "title": "England's mayors to be given power to introduce tourist tax",
+      "title": "England's mayors to get power to impose tourist tax",
       "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 10:17:36 GMT"
+      "published": "Thu, 10 Sep 2026 14:46:09 GMT"
     },
     {
       "title": "Why some experts increasingly fear AI will take over",
       "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 09 Sep 2026 23:17:33 GMT"
+    },
+    {
+      "title": "Air traffic failure was avoidable, says transport secretary",
+      "link": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 18:21:16 GMT"
     },
     {
       "title": "Tax banks to cut energy bills, unions tell Burnham",
@@ -94,14 +99,9 @@
       "published": "Wed, 09 Sep 2026 08:04:14 GMT"
     },
     {
-      "title": "Learner drivers still forced to wait months to book tests",
+      "title": "Learner drivers still forced to wait months for tests",
       "link": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 09 Sep 2026 11:57:34 GMT"
-    },
-    {
-      "title": "Petrol prices rise by 5p over a week as Iran war sends oil higher",
-      "link": "https://www.bbc.co.uk/news/articles/cj4jwlx77lro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 12:20:40 GMT"
     }
   ],
   "markets": []
