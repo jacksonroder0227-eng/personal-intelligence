@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-10T18:08:33.289556+00:00",
+  "updated": "2026-09-10T21:25:59.697065+00:00",
   "world": [
     {
       "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
       "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 15:38:56 GMT"
+      "published": "Thu, 10 Sep 2026 18:15:47 GMT"
     },
     {
       "title": "Can Trump really pay $5,000 to every American adult?",
@@ -22,14 +22,19 @@
       "published": "Thu, 10 Sep 2026 15:54:17 GMT"
     },
     {
-      "title": "Twenty-five dead after fire on cargo ship in eastern China",
-      "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 12:24:54 GMT"
+      "title": "More than 20 children killed in DR Congo school fire",
+      "link": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 19:16:24 GMT"
     },
     {
-      "title": "More than 20 children feared dead in DR Congo school fire",
-      "link": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 16:21:50 GMT"
+      "title": "Man jailed after threatening to kill son's teacher in French village",
+      "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 20:10:51 GMT"
+    },
+    {
+      "title": "Coach crash kills several people in Swiss Alps",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 20:44:51 GMT"
     },
     {
       "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
@@ -42,14 +47,9 @@
       "published": "Thu, 10 Sep 2026 09:32:34 GMT"
     },
     {
-      "title": "Iran war won't end until after crucial November elections, says Trump",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 10:43:53 GMT"
-    },
-    {
-      "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
-      "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 21:23:45 GMT"
+      "title": "Twenty-five dead after fire on cargo ship in eastern China",
+      "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 12:24:54 GMT"
     }
   ],
   "finance": [
@@ -57,6 +57,11 @@
       "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
       "link": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 10 Sep 2026 17:38:31 GMT"
+    },
+    {
+      "title": "Alstom to build new battery-electric train fleet",
+      "link": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 21:00:33 GMT"
     },
     {
       "title": "Air traffic chaos and compensation: 'Shutdown cost us more than \u00a31,000'",
@@ -74,19 +79,19 @@
       "published": "Wed, 09 Sep 2026 23:02:20 GMT"
     },
     {
-      "title": "Apple's new boss starts with big gamble on \u00a31,999 first folding iPhone",
-      "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 09:32:34 GMT"
-    },
-    {
       "title": "Why some experts increasingly fear AI will take over",
       "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 09 Sep 2026 23:17:33 GMT"
     },
     {
+      "title": "Apple's new boss starts with big gamble on \u00a31,999 first folding iPhone",
+      "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 09:32:34 GMT"
+    },
+    {
       "title": "Labour mayors in England vow to cap tourist tax at 5%",
       "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 16:59:38 GMT"
+      "published": "Thu, 10 Sep 2026 21:22:06 GMT"
     },
     {
       "title": "Air traffic failure was avoidable, says transport secretary",
@@ -97,11 +102,6 @@
       "title": "Tax banks to cut energy bills, unions tell Burnham",
       "link": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 10 Sep 2026 00:06:33 GMT"
-    },
-    {
-      "title": "What are my rights if my flight is cancelled or delayed?",
-      "link": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 08:04:14 GMT"
     }
   ],
   "markets": []
