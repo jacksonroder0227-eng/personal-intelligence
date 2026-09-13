@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T20:26:48.579951+00:00",
+  "updated": "2026-09-13T22:54:51.189787+00:00",
   "world": [
     {
       "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
@@ -15,6 +15,11 @@
       "title": "Questions mount over what an AI 'slowdown' would look like",
       "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 13 Sep 2026 18:20:22 GMT"
+    },
+    {
+      "title": "Swedish party blocs tied after Sunday vote, projections say",
+      "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 22:27:54 GMT"
     },
     {
       "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
@@ -45,14 +50,14 @@
       "title": "US congressman swims to safety after his plane is forced to land on a lake",
       "link": "https://www.bbc.co.uk/news/articles/c5y5d87x72zo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 13 Sep 2026 15:30:43 GMT"
-    },
-    {
-      "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
-      "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 00:49:08 GMT"
     }
   ],
   "finance": [
+    {
+      "title": "'Culture shift' needed in how UK does business, PM urges",
+      "link": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 21:30:21 GMT"
+    },
     {
       "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
@@ -69,6 +74,26 @@
       "published": "Sat, 12 Sep 2026 21:16:47 GMT"
     },
     {
+      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 19:34:36 GMT"
+    },
+    {
+      "title": "Iceland to open first store in the Falklands",
+      "link": "https://www.bbc.co.uk/news/articles/cd94kze0y9qo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 20:50:54 GMT"
+    },
+    {
+      "title": "Interest rates could rise again across the world \u2013 here's why",
+      "link": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 13:35:29 GMT"
+    },
+    {
+      "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
+      "link": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 20:37:29 GMT"
+    },
+    {
       "title": "US prices remain high as fuel costs squeeze household budgets",
       "link": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 11 Sep 2026 14:22:42 GMT"
@@ -77,31 +102,6 @@
       "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
       "link": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 11 Sep 2026 15:37:25 GMT"
-    },
-    {
-      "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
-      "link": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 20:37:29 GMT"
-    },
-    {
-      "title": "Interest rates could rise again across the world \u2013 here's why",
-      "link": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 13:35:29 GMT"
-    },
-    {
-      "title": "AI boom helps drive surprise UK growth in July",
-      "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 10:17:28 GMT"
-    },
-    {
-      "title": "Alstom to build new battery-electric train fleet",
-      "link": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 14:43:33 GMT"
-    },
-    {
-      "title": "Air traffic chaos and compensation: 'Shutdown cost us more than \u00a31,000'",
-      "link": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 13:34:17 GMT"
     }
   ],
   "markets": []
