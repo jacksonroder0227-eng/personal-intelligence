@@ -1,15 +1,20 @@
 {
-  "updated": "2026-09-13T17:55:33.796327+00:00",
+  "updated": "2026-09-13T20:26:48.579951+00:00",
   "world": [
     {
       "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
       "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 17:38:29 GMT"
+      "published": "Sun, 13 Sep 2026 19:14:21 GMT"
     },
     {
-      "title": "Trump downplays AI risks after dire expert warnings and calls to slow development down",
+      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
       "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 16:29:27 GMT"
+      "published": "Sun, 13 Sep 2026 18:49:37 GMT"
+    },
+    {
+      "title": "Questions mount over what an AI 'slowdown' would look like",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 18:20:22 GMT"
     },
     {
       "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
@@ -27,9 +32,9 @@
       "published": "Sun, 13 Sep 2026 11:23:42 GMT"
     },
     {
-      "title": "Trump doubles down on united Ireland comments on day two of visit",
+      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
       "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 16:57:58 GMT"
+      "published": "Sun, 13 Sep 2026 19:34:36 GMT"
     },
     {
       "title": "Legendary Canadian boxer George Chuvalo dies aged 89",
@@ -45,11 +50,6 @@
       "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
       "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 13 Sep 2026 00:49:08 GMT"
-    },
-    {
-      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-      "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 09:05:10 GMT"
     }
   ],
   "finance": [
