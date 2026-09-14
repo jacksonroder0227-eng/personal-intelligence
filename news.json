@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T22:54:51.189787+00:00",
+  "updated": "2026-09-14T00:46:43.793411+00:00",
   "world": [
     {
       "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
@@ -54,9 +54,24 @@
   ],
   "finance": [
     {
+      "title": "Gloomy forecast for tenants as rent rises set to speed up",
+      "link": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 23:05:45 GMT"
+    },
+    {
       "title": "'Culture shift' needed in how UK does business, PM urges",
       "link": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 13 Sep 2026 21:30:21 GMT"
+    },
+    {
+      "title": "How to protect your laptop, phone and bike from thieves at uni",
+      "link": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 23:39:32 GMT"
+    },
+    {
+      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 18:49:37 GMT"
     },
     {
       "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
@@ -69,14 +84,14 @@
       "published": "Sun, 13 Sep 2026 09:05:10 GMT"
     },
     {
-      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 21:16:47 GMT"
-    },
-    {
       "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
       "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 13 Sep 2026 19:34:36 GMT"
+    },
+    {
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 21:16:47 GMT"
     },
     {
       "title": "Iceland to open first store in the Falklands",
@@ -84,24 +99,9 @@
       "published": "Sat, 12 Sep 2026 20:50:54 GMT"
     },
     {
-      "title": "Interest rates could rise again across the world \u2013 here's why",
-      "link": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 13:35:29 GMT"
-    },
-    {
       "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
       "link": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 12 Sep 2026 20:37:29 GMT"
-    },
-    {
-      "title": "US prices remain high as fuel costs squeeze household budgets",
-      "link": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 14:22:42 GMT"
-    },
-    {
-      "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
-      "link": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 15:37:25 GMT"
     }
   ],
   "markets": []
