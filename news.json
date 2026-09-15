@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T21:44:38.371845+00:00",
+  "updated": "2026-09-15T00:20:27.290480+00:00",
   "world": [
     {
       "title": "China criticises idea it is in 'malicious competition' over AI",
@@ -54,9 +54,19 @@
   ],
   "finance": [
     {
-      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
+      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 21:10:15 GMT"
+      "published": "Mon, 14 Sep 2026 22:10:10 GMT"
+    },
+    {
+      "title": "I got paid $5,000 to move to a place I'd never heard of",
+      "link": "https://www.bbc.co.uk/news/articles/c3eq7485kewo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 23:08:28 GMT"
+    },
+    {
+      "title": "Pubs in England and Wales to allow digital ID apps to prove age",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 23:07:56 GMT"
     },
     {
       "title": "Government set to nationalise troubled steel firm",
@@ -69,14 +79,14 @@
       "published": "Mon, 14 Sep 2026 11:42:52 GMT"
     },
     {
+      "title": "Pubs, hotels and gyms in Wales to get 30% business rates cut",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 22:01:39 GMT"
+    },
+    {
       "title": "Rent rises set to speed up in gloomy forecast for tenants",
       "link": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 13 Sep 2026 23:05:45 GMT"
-    },
-    {
-      "title": "Heading off to uni? Here's what to insure against theft",
-      "link": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 08:13:56 GMT"
     },
     {
       "title": "'Culture shift' needed in how UK does business, PM urges",
@@ -89,19 +99,9 @@
       "published": "Mon, 14 Sep 2026 08:07:08 GMT"
     },
     {
-      "title": "Carney gambles on the world's biggest investors betting on Canada",
-      "link": "https://www.bbc.co.uk/news/articles/c0m3neyyzm7o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 19:29:12 GMT"
-    },
-    {
-      "title": "Amazon pauses work with cargo firm after fatal crash",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zg554w9ko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 02:40:06 GMT"
-    },
-    {
-      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 18:49:37 GMT"
+      "title": "Heading off to uni? Here's what to insure against theft",
+      "link": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 08:13:56 GMT"
     }
   ],
   "markets": []
