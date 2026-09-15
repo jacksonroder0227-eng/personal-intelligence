@@ -1,6 +1,11 @@
 {
-  "updated": "2026-09-15T20:02:03.777845+00:00",
+  "updated": "2026-09-15T23:25:52.016665+00:00",
   "world": [
+    {
+      "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 21:07:13 GMT"
+    },
     {
       "title": "Denmark says Russian warship fired flares at military helicopter",
       "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
@@ -10,11 +15,6 @@
       "title": "What weapon could the US have put into space?",
       "link": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 15 Sep 2026 14:23:14 GMT"
-    },
-    {
-      "title": "Suspected sabotage causes major Netherlands rail disruption",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 16:55:04 GMT"
     },
     {
       "title": "South African president vows justice as more women's bodies found near Johannesburg",
@@ -29,22 +29,22 @@
     {
       "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
       "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 19:13:44 GMT"
+      "published": "Tue, 15 Sep 2026 20:34:12 GMT"
     },
     {
-      "title": "Canada is a 'safe harbour' for global finance, Carney says",
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 16:55:04 GMT"
+    },
+    {
+      "title": "Data centres and pipelines up for grabs as Carney pitches Canada to investment giants",
       "link": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 17:54:46 GMT"
+      "published": "Tue, 15 Sep 2026 22:46:20 GMT"
     },
     {
       "title": "Nigeria arrests alleged Mexican drug kingpin at international airport",
       "link": "https://www.bbc.co.uk/news/articles/crq8j4k99w39o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 15 Sep 2026 18:49:45 GMT"
-    },
-    {
-      "title": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 16:01:54 GMT"
     },
     {
       "title": "Ash from Mount Etna grounds flights at Sicily airport",
@@ -53,6 +53,21 @@
     }
   ],
   "finance": [
+    {
+      "title": "Complaints to watchdog about water firms jump 84%",
+      "link": "https://www.bbc.co.uk/news/articles/cjy5z9l0395ro?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 23:14:08 GMT"
+    },
+    {
+      "title": "Nvidia boss says AI 'doesn't need new laws' as safety concerns grow",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 22:13:10 GMT"
+    },
+    {
+      "title": "We are all new job starters - here's how we got through the first few days",
+      "link": "https://www.bbc.co.uk/news/articles/cm2qn163053o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 23:14:26 GMT"
+    },
     {
       "title": "US borrowing costs hit highest level since 2007",
       "link": "https://www.bbc.co.uk/news/articles/cw804154z90ko?at_medium=RSS&at_campaign=rss",
@@ -64,14 +79,14 @@
       "published": "Tue, 15 Sep 2026 11:05:42 GMT"
     },
     {
+      "title": "The extreme engineering of aircraft windows",
+      "link": "https://www.bbc.co.uk/news/articles/c0lr69zeyrwo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 23:19:38 GMT"
+    },
+    {
       "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
       "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 15 Sep 2026 08:49:31 GMT"
-    },
-    {
-      "title": "I got paid $5,000 to move to a place I'd never heard of",
-      "link": "https://www.bbc.co.uk/news/articles/c3eq7485kewo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 23:08:28 GMT"
     },
     {
       "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
@@ -79,29 +94,14 @@
       "published": "Tue, 15 Sep 2026 00:32:21 GMT"
     },
     {
-      "title": "Pubs in England and Wales to allow digital ID apps to prove age",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 23:07:56 GMT"
-    },
-    {
       "title": "AI regulation faces political deadlock as calls grow for Congress to act",
       "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 15 Sep 2026 02:50:36 GMT"
     },
     {
-      "title": "Government set to nationalise troubled steel firm",
-      "link": "https://www.bbc.co.uk/news/articles/cm9w47ngje9no?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 19:06:46 GMT"
-    },
-    {
-      "title": "Pubs, hotels and gyms in Wales to get 30% business rates cut",
-      "link": "https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 05:13:08 GMT"
-    },
-    {
-      "title": "Petrol and diesel prices hit highest since 2022",
-      "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 11:42:52 GMT"
+      "title": "I got paid $5,000 to move to a place I'd never heard of",
+      "link": "https://www.bbc.co.uk/news/articles/c3eq7485kewo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 23:08:28 GMT"
     }
   ],
   "markets": []
