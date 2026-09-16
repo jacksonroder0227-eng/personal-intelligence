@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-16T18:41:06.825796+00:00",
+  "updated": "2026-09-16T21:54:43.754736+00:00",
   "world": [
     {
-      "title": "EU chief backs plan for Canada to become 'associate member'",
-      "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 12:36:51 GMT"
+      "title": "US interest rates raised for first time in three years",
+      "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 21:02:11 GMT"
     },
     {
       "title": "Photos show widespread damage at US sites from Iranian attacks",
@@ -12,14 +12,19 @@
       "published": "Wed, 16 Sep 2026 18:36:16 GMT"
     },
     {
+      "title": "EU chief backs plan for Canada to become 'associate member'",
+      "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 12:36:51 GMT"
+    },
+    {
       "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
       "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 16 Sep 2026 17:16:47 GMT"
     },
     {
-      "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
-      "link": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 12:26:00 GMT"
+      "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
+      "link": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 19:59:57 GMT"
     },
     {
       "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
@@ -37,22 +42,22 @@
       "published": "Wed, 16 Sep 2026 08:36:17 GMT"
     },
     {
-      "title": "Charlie Kirk's family alleges 'stunning failures' by Utah officials led to his shooting",
-      "link": "https://www.bbc.co.uk/news/articles/cwzrz4xmknjgo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 15:33:19 GMT"
+      "title": "Trump chief of staff Susie Wiles announces she's cancer-free",
+      "link": "https://www.bbc.co.uk/news/articles/c6j9xrx80ekro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 19:12:48 GMT"
     },
     {
-      "title": "Journalist and pilot among three killed after news helicopter crashes in LA",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 09:49:48 GMT"
-    },
-    {
-      "title": "Colombia and Brazil deadliest countries for environmental activists, report says",
-      "link": "https://www.bbc.co.uk/news/articles/c6kgxjl35822o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 11:02:54 GMT"
+      "title": "Michelin-starred Seoul restaurant fined for using ants as garnish",
+      "link": "https://www.bbc.co.uk/news/articles/c639m42y43v4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 15:48:50 GMT"
     }
   ],
   "finance": [
+    {
+      "title": "US interest rates raised for first time in three years",
+      "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 21:02:11 GMT"
+    },
     {
       "title": "Petrol and diesel price rises push UK inflation higher",
       "link": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss",
@@ -74,14 +79,14 @@
       "published": "Wed, 16 Sep 2026 08:36:37 GMT"
     },
     {
-      "title": "UK in talks about joining global defence bank led by Canada",
-      "link": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 23:50:55 GMT"
-    },
-    {
       "title": "The extreme engineering of aircraft windows",
       "link": "https://www.bbc.co.uk/news/articles/c0lr69zeyrwo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 15 Sep 2026 23:19:38 GMT"
+    },
+    {
+      "title": "UK in talks about joining global defence bank led by Canada",
+      "link": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 23:50:55 GMT"
     },
     {
       "title": "Complaints to watchdog about water firms soar",
@@ -97,11 +102,6 @@
       "title": "A backlash over data centres is another threat to the AI juggernaut",
       "link": "https://www.bbc.co.uk/news/articles/cv986j48l66ko?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 15 Sep 2026 23:39:55 GMT"
-    },
-    {
-      "title": "How rising bond yields impact American consumers",
-      "link": "https://www.bbc.co.uk/news/videos/cwz0zpyzrlr1o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 03:58:32 GMT"
     }
   ],
   "markets": []
