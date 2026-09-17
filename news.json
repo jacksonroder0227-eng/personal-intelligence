@@ -1,15 +1,25 @@
 {
-  "updated": "2026-09-17T00:08:44.329684+00:00",
+  "updated": "2026-09-17T05:48:08.917171+00:00",
   "world": [
+    {
+      "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
+      "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 05:00:18 GMT"
+    },
     {
       "title": "US interest rates raised for first time in three years",
       "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 22:16:51 GMT"
+      "published": "Thu, 17 Sep 2026 00:40:17 GMT"
     },
     {
-      "title": "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
+      "title": "Snapchat open to putting time limits on teens, boss tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 16 Sep 2026 23:41:57 GMT"
+    },
+    {
+      "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
+      "link": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 05:00:36 GMT"
     },
     {
       "title": "Photos show widespread damage at US sites from Iranian attacks",
@@ -19,7 +29,12 @@
     {
       "title": "EU chief backs plan for Canada to become 'associate member'",
       "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 12:36:51 GMT"
+      "published": "Thu, 17 Sep 2026 00:32:05 GMT"
+    },
+    {
+      "title": "International students, 'visa hoppers' and backpackers targeted in Australia migration crackdown",
+      "link": "https://www.bbc.co.uk/news/articles/cm986j81ky55o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 05:05:09 GMT"
     },
     {
       "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
@@ -35,21 +50,6 @@
       "title": "Michelin-starred Seoul restaurant fined for using ants as garnish",
       "link": "https://www.bbc.co.uk/news/articles/c639m42y43v4o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 16 Sep 2026 15:48:50 GMT"
-    },
-    {
-      "title": "Eight German state premiers back Merz amid speculation over future",
-      "link": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 14:50:26 GMT"
-    },
-    {
-      "title": "Trump chief of staff Susie Wiles announces she's cancer-free",
-      "link": "https://www.bbc.co.uk/news/articles/c6j9xrx80ekro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 19:12:48 GMT"
-    },
-    {
-      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 10:02:05 GMT"
     }
   ],
   "finance": [
@@ -59,14 +59,19 @@
       "published": "Wed, 16 Sep 2026 23:15:01 GMT"
     },
     {
-      "title": "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 23:41:57 GMT"
+      "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
+      "link": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 03:09:21 GMT"
     },
     {
       "title": "US interest rates raised for first time in three years",
       "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 22:16:51 GMT"
+      "published": "Thu, 17 Sep 2026 00:40:17 GMT"
+    },
+    {
+      "title": "Snapchat open to putting time limits on teens, boss tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 23:41:57 GMT"
     },
     {
       "title": "I sent 200 DMs to companies - it was awkward but I got a job",
@@ -74,14 +79,14 @@
       "published": "Wed, 16 Sep 2026 23:15:53 GMT"
     },
     {
-      "title": "Petrol and diesel price rises push UK inflation higher",
-      "link": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 14:30:51 GMT"
-    },
-    {
       "title": "Would you buy branded clothing from your favourite tech firm?",
       "link": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 16 Sep 2026 23:18:47 GMT"
+    },
+    {
+      "title": "Petrol and diesel price rises push UK inflation higher",
+      "link": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 14:30:51 GMT"
     },
     {
       "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
@@ -97,11 +102,6 @@
       "title": "We managed to get jobs after uni - here's how we're keeping them",
       "link": "https://www.bbc.co.uk/news/articles/cm2qn163053o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 16 Sep 2026 08:36:37 GMT"
-    },
-    {
-      "title": "UK in talks about joining global defence bank led by Canada",
-      "link": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 23:50:55 GMT"
     }
   ],
   "markets": []
