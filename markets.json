@@ -1,29 +1,29 @@
 {
-  "updated": "2026-09-17T18:26:01.475463+00:00",
+  "updated": "2026-09-17T21:37:24.912104+00:00",
   "indices": {
     "sp500": {
-      "value": 7637.4,
+      "value": 7637.76,
       "previousClose": 7591.7,
-      "change": 45.69999999999982,
-      "changePercent": 0.6019732075819622
+      "change": 46.0600000000004,
+      "changePercent": 0.6067152284732062
     },
     "nasdaq": {
-      "value": 26396.168,
+      "value": 26418.299,
       "previousClose": 26081.72,
-      "change": 314.4480000000003,
-      "changePercent": 1.2056260093276068
+      "change": 336.5789999999979,
+      "changePercent": 1.2904785420593348
     },
     "dow": {
-      "value": 51816.99,
+      "value": 51778.04,
       "previousClose": 52064.1,
-      "change": -247.11000000000058,
-      "changePercent": -0.47462647006286596
+      "change": -286.0599999999977,
+      "changePercent": -0.5494380965002712
     },
     "russell2000": {
-      "value": 2885.5527,
+      "value": 2874.6296,
       "previousClose": 2890.95,
-      "change": -5.397299999999632,
-      "changePercent": -0.18669641467336454
+      "change": -16.32039999999961,
+      "changePercent": -0.5645341496739691
     }
   },
   "rates": {
@@ -36,24 +36,24 @@
   },
   "commodities": {
     "oil": {
-      "value": 101.77,
+      "value": 101.09,
       "previousClose": 101.39,
-      "change": 0.37999999999999545,
-      "changePercent": 0.3747904132557407
+      "change": -0.29999999999999716,
+      "changePercent": -0.295887168359796
     },
     "gold": {
-      "value": 4405.4,
+      "value": 4380.6,
       "previousClose": 4351.9,
-      "change": 53.5,
-      "changePercent": 1.2293481008295228
+      "change": 28.700000000000728,
+      "changePercent": 0.6594820653048261
     }
   },
   "volatility": {
     "vix": {
-      "value": 15.57,
+      "value": 15.44,
       "previousClose": 15.84,
-      "change": -0.2699999999999996,
-      "changePercent": -1.704545454545452
+      "change": -0.40000000000000036,
+      "changePercent": -2.5252525252525277
     }
   }
 }
