@@ -1,29 +1,29 @@
 {
-  "updated": "2026-09-18T17:33:05.036685+00:00",
+  "updated": "2026-09-18T20:31:52.282732+00:00",
   "indices": {
     "sp500": {
-      "value": 7623.88,
+      "value": 7650.5,
       "previousClose": 7656.98,
-      "change": -33.099999999999454,
-      "changePercent": -0.432285313530915
+      "change": -6.479999999999563,
+      "changePercent": -0.08462866560967332
     },
     "nasdaq": {
-      "value": 26397.045,
+      "value": 26522.545,
       "previousClose": 26333.04,
-      "change": 64.00499999999738,
-      "changePercent": 0.2430596695254227
+      "change": 189.50499999999738,
+      "changePercent": 0.7196472568301927
     },
     "dow": {
-      "value": 51560.1,
+      "value": 51682.64,
       "previousClose": 52573.29,
-      "change": -1013.1900000000023,
-      "changePercent": -1.927195349577708
+      "change": -890.6500000000015,
+      "changePercent": -1.6941112112253225
     },
     "russell2000": {
-      "value": 2851.7158,
+      "value": 2860.3965,
       "previousClose": 2903.94,
-      "change": -52.22420000000011,
-      "changePercent": -1.7983911513323316
+      "change": -43.54350000000022,
+      "changePercent": -1.499462798818165
     }
   },
   "rates": {
@@ -36,24 +36,24 @@
   },
   "commodities": {
     "oil": {
-      "value": 95.8,
+      "value": 95.44,
       "previousClose": 101.39,
-      "change": -5.590000000000003,
-      "changePercent": -5.513364237104254
+      "change": -5.950000000000003,
+      "changePercent": -5.868428839136012
     },
     "gold": {
-      "value": 4421.9,
+      "value": 4419.9,
       "previousClose": 4351.9,
-      "change": 70.0,
-      "changePercent": 1.6084928422068525
+      "change": 68.0,
+      "changePercent": 1.5625359038580853
     }
   },
   "volatility": {
     "vix": {
-      "value": 15.39,
+      "value": 14.81,
       "previousClose": 17.1,
-      "change": -1.7100000000000009,
-      "changePercent": -10.000000000000005
+      "change": -2.290000000000001,
+      "changePercent": -13.39181286549708
     }
   }
 }
