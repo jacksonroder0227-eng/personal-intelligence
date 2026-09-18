@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T23:23:41.891095+00:00",
+  "updated": "2026-09-18T03:28:10.498088+00:00",
   "world": [
     {
       "title": "Canada welcomes EU proposal to become 'associate member'",
@@ -54,9 +54,19 @@
   ],
   "finance": [
     {
+      "title": "Healey to ask EU finance ministers to let UK into industry scheme",
+      "link": "https://www.bbc.co.uk/news/articles/cr6240ej07ejo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 22:07:01 GMT"
+    },
+    {
       "title": "Why we bought our first home with a 100% mortgage - despite the risks",
       "link": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 17 Sep 2026 23:00:53 GMT"
+    },
+    {
+      "title": "Japan raises interest rate to new 31-year high to curb rising prices",
+      "link": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 02:56:35 GMT"
     },
     {
       "title": "Early Bowie music available to stream for first time",
@@ -69,6 +79,11 @@
       "published": "Thu, 17 Sep 2026 14:05:38 GMT"
     },
     {
+      "title": "The virtual worlds where robots are trained",
+      "link": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 23:00:47 GMT"
+    },
+    {
       "title": "Barclays workers ask for more money to return to the office",
       "link": "https://www.bbc.co.uk/news/articles/cqlym1n9kpyvo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 17 Sep 2026 14:20:27 GMT"
@@ -79,11 +94,6 @@
       "published": "Thu, 17 Sep 2026 10:37:43 GMT"
     },
     {
-      "title": "The virtual worlds where robots are trained",
-      "link": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 23:00:47 GMT"
-    },
-    {
       "title": "Warm words on Canada's EU 'associate membership' but no guarantees",
       "link": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 17 Sep 2026 16:59:43 GMT"
@@ -92,16 +102,6 @@
       "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
       "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 17 Sep 2026 08:22:12 GMT"
-    },
-    {
-      "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
-      "link": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 03:09:21 GMT"
-    },
-    {
-      "title": "US interest rates raised for first time in three years",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 00:40:17 GMT"
     }
   ],
   "markets": []
