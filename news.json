@@ -1,15 +1,15 @@
 {
-  "updated": "2026-09-24T01:07:58.698955+00:00",
+  "updated": "2026-09-24T07:16:30.134514+00:00",
   "world": [
+    {
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 07:10:58 GMT"
+    },
     {
       "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
       "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 23 Sep 2026 22:01:17 GMT"
-    },
-    {
-      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 00:28:46 GMT"
     },
     {
       "title": "Iran's president tells Trump it will never 'bend the knee'",
@@ -19,7 +19,7 @@
     {
       "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
       "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 16:53:37 GMT"
+      "published": "Thu, 24 Sep 2026 04:37:47 GMT"
     },
     {
       "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
@@ -54,7 +54,7 @@
   ],
   "finance": [
     {
-      "title": "'Proteinflation': Meet the people paying up to \u00a3100 for a bag of protein",
+      "title": "The people paying up to \u00a3100 for a bag of protein",
       "link": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 23 Sep 2026 23:12:01 GMT"
     },
@@ -64,14 +64,9 @@
       "published": "Thu, 24 Sep 2026 00:50:24 GMT"
     },
     {
-      "title": "OpenAI and Anthropic bosses push UN for global terms on AI",
-      "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 22:35:14 GMT"
-    },
-    {
-      "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
-      "link": "https://www.bbc.co.uk/news/articles/c6p3kxpp8lezo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 16:42:47 GMT"
+      "title": "Lidl banned from selling copycat Birkenstock sandals, Dutch court rules",
+      "link": "https://www.bbc.co.uk/news/articles/cqrm90m2g1dzo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 21:25:01 GMT"
     },
     {
       "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
@@ -84,14 +79,19 @@
       "published": "Wed, 23 Sep 2026 23:12:22 GMT"
     },
     {
-      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 00:28:46 GMT"
+      "title": "US rejects pleas from OpenAI, Anthropic for global AI standards",
+      "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 22:35:14 GMT"
     },
     {
-      "title": "Lidl banned from selling copycat Birkenstock sandals, Dutch court rules",
-      "link": "https://www.bbc.co.uk/news/articles/cqrm90m2g1dzo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 21:25:01 GMT"
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 07:10:58 GMT"
+    },
+    {
+      "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
+      "link": "https://www.bbc.co.uk/news/articles/c6p3kxpp8lezo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 16:42:47 GMT"
     },
     {
       "title": "Barrecore and Boom Cycle owner suddenly shuts studios",
