@@ -1,10 +1,15 @@
 {
-  "updated": "2026-09-23T22:43:20.781876+00:00",
+  "updated": "2026-09-24T01:07:58.698955+00:00",
   "world": [
     {
       "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
       "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 23 Sep 2026 22:01:17 GMT"
+    },
+    {
+      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 00:28:46 GMT"
     },
     {
       "title": "Iran's president tells Trump it will never 'bend the knee'",
@@ -45,14 +50,19 @@
       "title": "Poland accuses Russian military helicopter of violating its airspace",
       "link": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 23 Sep 2026 15:37:20 GMT"
-    },
-    {
-      "title": "Reports of violence against women in Gaza surge, UN agency finds",
-      "link": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 05:02:26 GMT"
     }
   ],
   "finance": [
+    {
+      "title": "'Proteinflation': Meet the people paying up to \u00a3100 for a bag of protein",
+      "link": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 23:12:01 GMT"
+    },
+    {
+      "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
+      "link": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 00:50:24 GMT"
+    },
     {
       "title": "OpenAI and Anthropic bosses push UN for global terms on AI",
       "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
@@ -69,14 +79,19 @@
       "published": "Wed, 23 Sep 2026 22:01:17 GMT"
     },
     {
-      "title": "Lidl banned from selling copycat Birkenstock sandals, Dutch court rules",
-      "link": "https://www.bbc.co.uk/news/articles/cqrm90m2g1dzo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 21:25:01 GMT"
+      "title": "How the oil capital of the US welcomed a solar power boom",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 23:12:22 GMT"
     },
     {
       "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
       "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 22:23:28 GMT"
+      "published": "Thu, 24 Sep 2026 00:28:46 GMT"
+    },
+    {
+      "title": "Lidl banned from selling copycat Birkenstock sandals, Dutch court rules",
+      "link": "https://www.bbc.co.uk/news/articles/cqrm90m2g1dzo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 21:25:01 GMT"
     },
     {
       "title": "Barrecore and Boom Cycle owner suddenly shuts studios",
@@ -87,21 +102,6 @@
       "title": "Off sick? You need to phone your boss, back-to-work adviser says",
       "link": "https://www.bbc.co.uk/news/articles/cq0lry248y2zo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 23 Sep 2026 10:49:51 GMT"
-    },
-    {
-      "title": "Tories would prevent long-term jobless spending benefits on alcohol and cigarettes",
-      "link": "https://www.bbc.co.uk/news/articles/c920vy2jxle8o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 21:01:55 GMT"
-    },
-    {
-      "title": "Bentley unveils its first fully electric car",
-      "link": "https://www.bbc.co.uk/news/articles/c65ymznkr291o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 19:21:10 GMT"
-    },
-    {
-      "title": "Will a switch to light speed cut power use at data centres?",
-      "link": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 23:03:48 GMT"
     }
   ],
   "markets": []
