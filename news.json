@@ -1,6 +1,11 @@
 {
-  "updated": "2026-09-25T18:14:27.250638+00:00",
+  "updated": "2026-09-25T21:59:09.001618+00:00",
   "world": [
+    {
+      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 20:47:49 GMT"
+    },
     {
       "title": "Special agents' blood and urine test results stolen in FBI hack",
       "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
@@ -12,14 +17,14 @@
       "published": "Fri, 25 Sep 2026 15:06:41 GMT"
     },
     {
-      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
-      "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 03:57:09 GMT"
-    },
-    {
       "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
       "link": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 17:32:15 GMT"
+      "published": "Fri, 25 Sep 2026 19:13:35 GMT"
+    },
+    {
+      "title": "Trump's plans for massive arch move ahead",
+      "link": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 18:27:46 GMT"
     },
     {
       "title": "Students strike across Germany in protest against military service",
@@ -32,6 +37,11 @@
       "published": "Fri, 25 Sep 2026 13:23:33 GMT"
     },
     {
+      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+      "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 03:57:09 GMT"
+    },
+    {
       "title": "Senior Kazakh officials detained after 14 service members swept out to sea",
       "link": "https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 25 Sep 2026 15:29:48 GMT"
@@ -40,16 +50,6 @@
       "title": "Jay-Z rape accuser says her allegation was false",
       "link": "https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 25 Sep 2026 10:51:28 GMT"
-    },
-    {
-      "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
-      "link": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 17:13:55 GMT"
-    },
-    {
-      "title": "US backs Elon Musk's bid to overturn \u20ac120m EU fine against X",
-      "link": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 09:48:33 GMT"
     }
   ],
   "finance": [
@@ -57,6 +57,11 @@
       "title": "Sir David Beckham nets \u00a338.5m after World Cup ad deals",
       "link": "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 25 Sep 2026 16:00:44 GMT"
+    },
+    {
+      "title": "Man City found guilty of breaking financial rules",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 20:11:12 GMT"
     },
     {
       "title": "US backs Elon Musk's bid to overturn \u20ac120m EU fine against X",
@@ -74,14 +79,14 @@
       "published": "Fri, 25 Sep 2026 13:56:16 GMT"
     },
     {
-      "title": "'We're all broke': Would you chase a friend for \u00a35?",
-      "link": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 23:00:45 GMT"
-    },
-    {
       "title": "X-planes: Are they needed in the new era of drones?",
       "link": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 24 Sep 2026 23:03:53 GMT"
+    },
+    {
+      "title": "'We're all broke': Would you chase a friend for \u00a35?",
+      "link": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 23:00:45 GMT"
     },
     {
       "title": "Farmers down 240 million litres of milk after heat",
@@ -97,11 +102,6 @@
       "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
       "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 24 Sep 2026 18:06:40 GMT"
-    },
-    {
-      "title": "Scam hotel booking sent family to Wetherspoon pub",
-      "link": "https://www.bbc.co.uk/news/articles/c3zxzqyj24xeo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 05:02:48 GMT"
     }
   ],
   "markets": []
