@@ -1,15 +1,20 @@
 {
-  "updated": "2026-09-24T22:00:14.884913+00:00",
+  "updated": "2026-09-25T01:09:21.296175+00:00",
   "world": [
     {
       "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
       "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 21:21:47 GMT"
+      "published": "Fri, 25 Sep 2026 00:44:04 GMT"
     },
     {
       "title": "White House restores access to media outlets banned by Trump after judge's order",
       "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 24 Sep 2026 17:49:20 GMT"
+    },
+    {
+      "title": "Hundreds of thousands expected in Paris for Pope's visit",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 23:17:00 GMT"
     },
     {
       "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
@@ -45,23 +50,23 @@
       "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
       "link": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 24 Sep 2026 14:37:34 GMT"
-    },
-    {
-      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-      "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 16:00:29 GMT"
     }
   ],
   "finance": [
+    {
+      "title": "'We're all broke': Would you chase a friend for \u00a35?",
+      "link": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 23:00:45 GMT"
+    },
     {
       "title": "Reported assaults on Britain's rail services rise by more than a third",
       "link": "https://www.bbc.co.uk/news/articles/c6z0z5dz884lo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 24 Sep 2026 15:38:50 GMT"
     },
     {
-      "title": "\u00a3170 a bag? Protein users squeezed as prices soar",
-      "link": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 23:12:01 GMT"
+      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+      "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 18:06:40 GMT"
     },
     {
       "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
@@ -69,14 +74,14 @@
       "published": "Thu, 24 Sep 2026 00:50:24 GMT"
     },
     {
-      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 15:42:07 GMT"
+      "title": "X-planes: Are they needed in the new era of drones?",
+      "link": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 23:03:53 GMT"
     },
     {
-      "title": "How the oil capital of the US welcomed a solar power boom",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 23:12:22 GMT"
+      "title": "\u00a3170 a bag? Protein users squeezed as prices soar",
+      "link": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 23:12:01 GMT"
     },
     {
       "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
@@ -97,11 +102,6 @@
       "title": "US rejects pleas from OpenAI, Anthropic for global AI standards",
       "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 23 Sep 2026 22:35:14 GMT"
-    },
-    {
-      "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
-      "link": "https://www.bbc.co.uk/news/articles/c6p3kxpp8lezo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 16:42:47 GMT"
     }
   ],
   "markets": []
