@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T20:58:06.152980+00:00",
+  "updated": "2026-09-27T23:45:01.317177+00:00",
   "world": [
     {
       "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
@@ -29,7 +29,7 @@
     {
       "title": "One dead as nor'easter storm pummels New York and New Jersey",
       "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 12:34:26 GMT"
+      "published": "Sun, 27 Sep 2026 23:37:26 GMT"
     },
     {
       "title": "Venezuela releases dozens of political prisoners as election calls grow",
@@ -53,6 +53,16 @@
     }
   ],
   "finance": [
+    {
+      "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
+      "link": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 27 Sep 2026 23:01:47 GMT"
+    },
+    {
+      "title": "You need \u00a317,000 for a first home - here's how to do it",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgy09kep21o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 27 Sep 2026 23:20:43 GMT"
+    },
     {
       "title": "Andy Burnham refuses to back third runway at Heathrow",
       "link": "https://www.bbc.co.uk/news/articles/cvrl6y8rx08wo?at_medium=RSS&at_campaign=rss",
@@ -79,11 +89,6 @@
       "published": "Fri, 25 Sep 2026 20:13:53 GMT"
     },
     {
-      "title": "X-planes: Are they needed in the new era of drones?",
-      "link": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 23:03:53 GMT"
-    },
-    {
       "title": "'We're all broke': Would you chase a friend for \u00a35?",
       "link": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 24 Sep 2026 23:00:45 GMT"
@@ -97,11 +102,6 @@
       "title": "Sir David Beckham nets \u00a338.5m after World Cup ad deals",
       "link": "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 25 Sep 2026 16:00:44 GMT"
-    },
-    {
-      "title": "US backs Elon Musk's bid to overturn \u20ac120m EU fine against X",
-      "link": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 09:48:33 GMT"
     }
   ],
   "markets": []
