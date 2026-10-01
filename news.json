@@ -1,25 +1,30 @@
 {
-  "updated": "2026-10-01T14:14:40.321407+00:00",
+  "updated": "2026-10-01T20:09:01.044598+00:00",
   "world": [
     {
-      "title": "US death row inmate survives execution attempt after two lethal injections",
-      "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 09:59:59 GMT"
+      "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
+      "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 19:52:50 GMT"
     },
     {
-      "title": "What happened in failed execution of Christa Pike - and what next?",
+      "title": "What happened in the failed execution of Christa Pike - and what next?",
       "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 12:51:14 GMT"
+      "published": "Thu, 01 Oct 2026 19:25:58 GMT"
     },
     {
-      "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
-      "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 11:26:46 GMT"
+      "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
+      "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 19:59:24 GMT"
     },
     {
-      "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
-      "link": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 00:08:23 GMT"
+      "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 19:38:30 GMT"
+    },
+    {
+      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 11:37:46 GMT"
     },
     {
       "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
@@ -27,56 +32,51 @@
       "published": "Thu, 01 Oct 2026 14:05:55 GMT"
     },
     {
+      "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
+      "link": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 17:32:50 GMT"
+    },
+    {
       "title": "Japan raises permanent residency fee by 20 times",
       "link": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 01 Oct 2026 02:57:43 GMT"
     },
     {
-      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 11:37:46 GMT"
-    },
-    {
-      "title": "Explosions heard in Ethiopia's capital after drone flights banned",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 12:38:55 GMT"
+      "title": "Fires break out at French schools as students protest nationwide",
+      "link": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 19:19:00 GMT"
     },
     {
       "title": "Kanye West's Russia shows officially cancelled after weeks of uncertainty",
       "link": "https://www.bbc.co.uk/news/articles/cm74k417wpjxo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 01 Oct 2026 12:13:28 GMT"
-    },
-    {
-      "title": "K-pop star convicted of violating military service law",
-      "link": "https://www.bbc.co.uk/news/articles/cjn5d52d3lk5o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 05:24:10 GMT"
     }
   ],
   "finance": [
     {
+      "title": "UK in talks with EU partners to release strategic fuel reserves if needed, BBC understands",
+      "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 17:27:37 GMT"
+    },
+    {
+      "title": "HMRC urged to scrutinise tax implications of Man City case",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 18:21:22 GMT"
+    },
+    {
+      "title": "PM warned Rosebank oil field could breach West Bank sanctions",
+      "link": "https://www.bbc.co.uk/news/articles/cmrl6lz454lgo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 18:38:22 GMT"
+    },
+    {
+      "title": "Thames Water apologises after \u00a3145,000 customer billing mistake",
+      "link": "https://www.bbc.co.uk/news/articles/ck24j46424veo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 18:09:16 GMT"
+    },
+    {
       "title": "AI boom could trigger market shocks, Bank of England boss warns",
       "link": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 01 Oct 2026 10:05:25 GMT"
-    },
-    {
-      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 11:37:46 GMT"
-    },
-    {
-      "title": "Travelodge failed sex assault victim 'at every stage'",
-      "link": "https://www.bbc.co.uk/news/articles/c93429dg425o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 11:44:40 GMT"
-    },
-    {
-      "title": "Vape tax comes into effect - but prices won't rise yet",
-      "link": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 23:02:11 GMT"
-    },
-    {
-      "title": "Employers should teach primary-age children about work, says Milburn",
-      "link": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 07:07:08 GMT"
     },
     {
       "title": "The AI telling farmers when to harvest",
@@ -84,24 +84,24 @@
       "published": "Wed, 30 Sep 2026 23:02:21 GMT"
     },
     {
-      "title": "Energy bills are rising by \u00a360 a year - here's how you can bring that down",
-      "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 07:08:22 GMT"
+      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 11:37:46 GMT"
     },
     {
-      "title": "Household energy bills forecast to see biggest rise in four years",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 14:36:45 GMT"
+      "title": "Vape tax comes into effect - but prices won't rise yet",
+      "link": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 23:02:11 GMT"
     },
     {
-      "title": "Greggs to shut four factories and cut 740 jobs",
-      "link": "https://www.bbc.co.uk/news/articles/cm7802ylq973o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 15:03:22 GMT"
+      "title": "Travelodge failed sex assault victim 'at every stage'",
+      "link": "https://www.bbc.co.uk/news/articles/c93429dg425o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 16:40:03 GMT"
     },
     {
-      "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-      "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 04:01:52 GMT"
+      "title": "Employers should teach primary-age children about work, says Milburn",
+      "link": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 07:07:08 GMT"
     }
   ],
   "markets": []
