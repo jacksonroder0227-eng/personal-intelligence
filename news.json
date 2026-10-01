@@ -1,20 +1,25 @@
 {
-  "updated": "2026-10-01T00:23:26.339033+00:00",
+  "updated": "2026-10-01T06:53:55.933774+00:00",
   "world": [
+    {
+      "title": "US death row inmate survives execution attempt after two lethal injections",
+      "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 05:34:41 GMT"
+    },
+    {
+      "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 06:42:43 GMT"
+    },
     {
       "title": "What we know about stabbing on Flydubai flight to Israel",
       "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 21:36:31 GMT"
+      "published": "Thu, 01 Oct 2026 02:31:24 GMT"
     },
     {
-      "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+      "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 30 Sep 2026 23:10:06 GMT"
-    },
-    {
-      "title": "US Supreme Court allows execution of Christa Pike to go ahead",
-      "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 00:19:20 GMT"
     },
     {
       "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
@@ -32,6 +37,11 @@
       "published": "Wed, 30 Sep 2026 23:10:19 GMT"
     },
     {
+      "title": "California bans child marriage, a practice still legal in 32 US states",
+      "link": "https://www.bbc.co.uk/news/articles/c6rm9mnn0w3eo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 00:57:04 GMT"
+    },
+    {
       "title": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
       "link": "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 30 Sep 2026 22:01:16 GMT"
@@ -40,19 +50,14 @@
       "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
       "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 30 Sep 2026 14:53:02 GMT"
-    },
-    {
-      "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
-      "link": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 11:36:23 GMT"
-    },
-    {
-      "title": "Ethiopia fighting escalates in Tigray killing 52 civilians, medic tells the BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c6grveejg1e2o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 15:04:32 GMT"
     }
   ],
   "finance": [
+    {
+      "title": "AI boom could trigger market shocks, Bank of England boss warns",
+      "link": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 04:03:17 GMT"
+    },
     {
       "title": "Vape prices to rise as new tax takes effect",
       "link": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
@@ -64,19 +69,14 @@
       "published": "Wed, 30 Sep 2026 23:01:32 GMT"
     },
     {
+      "title": "Employers should teach primary-age children about work, says Milburn",
+      "link": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 21:40:31 GMT"
+    },
+    {
       "title": "Household energy bills forecast to see biggest rise in four years",
       "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 30 Sep 2026 14:36:45 GMT"
-    },
-    {
-      "title": "Regulating AI 'not the right place to start' says Bailey",
-      "link": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 14:00:33 GMT"
-    },
-    {
-      "title": "Greggs to shut four factories and cut 740 jobs",
-      "link": "https://www.bbc.co.uk/news/articles/cm7802ylq973o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 15:03:22 GMT"
     },
     {
       "title": "The AI telling farmers when to harvest",
@@ -84,24 +84,24 @@
       "published": "Wed, 30 Sep 2026 23:02:21 GMT"
     },
     {
+      "title": "Greggs to shut four factories and cut 740 jobs",
+      "link": "https://www.bbc.co.uk/news/articles/cm7802ylq973o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 15:03:22 GMT"
+    },
+    {
       "title": "Three takeaways from Trump's 'Super Intelligence' summit",
       "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 30 Sep 2026 04:01:52 GMT"
     },
     {
+      "title": "Regulating AI 'not the right place to start' says Bailey",
+      "link": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 14:00:33 GMT"
+    },
+    {
       "title": "Doubters spur me on: why more women are taking up DIY",
       "link": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 30 Sep 2026 07:27:11 GMT"
-    },
-    {
-      "title": "Huel ad banned for suggesting its products could replace all meals",
-      "link": "https://www.bbc.co.uk/news/articles/c920v3y1gjgpo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 29 Sep 2026 23:06:06 GMT"
-    },
-    {
-      "title": "Africa's richest man launches Kenya oil refinery despite land protests",
-      "link": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 11:25:12 GMT"
     }
   ],
   "markets": []
