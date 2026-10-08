@@ -1,51 +1,51 @@
 {
-  "updated": "2026-10-08T13:55:43.512656+00:00",
+  "updated": "2026-10-08T19:42:42.894371+00:00",
   "indices": {
     "sp500": {
-      "value": 7777.89,
+      "value": 7760.81,
       "previousClose": 7666.45,
-      "change": 111.44000000000051,
-      "changePercent": 1.4536062975692858
+      "change": 94.36000000000058,
+      "changePercent": 1.2308173926654524
     },
     "nasdaq": {
-      "value": 27356.975,
+      "value": 27178.691,
       "previousClose": 26871.6,
-      "change": 485.375,
-      "changePercent": 1.8062750264219476
+      "change": 307.09100000000035,
+      "changePercent": 1.1428087646437146
     },
     "dow": {
-      "value": 51168.88,
+      "value": 51198.13,
       "previousClose": 50926.56,
-      "change": 242.3199999999997,
-      "changePercent": 0.475822439214429
+      "change": 271.5699999999997,
+      "changePercent": 0.5332580877247545
     },
     "russell2000": {
-      "value": 2775.307,
+      "value": 2793.852,
       "previousClose": 2806.63,
-      "change": -31.32300000000032,
-      "changePercent": -1.1160359577144234
+      "change": -12.778000000000247,
+      "changePercent": -0.4552791069717151
     }
   },
   "rates": {
     "treasury10y": {
-      "value": 5.29,
+      "value": 5.231,
       "previousClose": 5.277,
-      "change": 0.0129999999999999,
-      "changePercent": 0.24635209399279703
+      "change": -0.04600000000000026,
+      "changePercent": -0.8717074095129859
     }
   },
   "commodities": {
     "oil": {
-      "value": 92.15,
+      "value": 91.35,
       "previousClose": 89.43,
-      "change": 2.719999999999999,
-      "changePercent": 3.041484960304147
+      "change": 1.9199999999999875,
+      "changePercent": 2.146930560214679
     },
     "gold": {
-      "value": 4149.6,
+      "value": 4154.8,
       "previousClose": 4156.8,
-      "change": -7.199999999999818,
-      "changePercent": -0.17321016166281317
+      "change": -2.0,
+      "changePercent": -0.04811393379522709
     }
   },
   "volatility": {
