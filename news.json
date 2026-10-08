@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-08T18:29:18.770002+00:00",
+  "updated": "2026-10-08T23:38:31.566213+00:00",
   "world": [
+    {
+      "title": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 23:11:10 GMT"
+    },
+    {
+      "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 23:35:57 GMT"
+    },
     {
       "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
       "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
@@ -12,19 +22,24 @@
       "published": "Thu, 08 Oct 2026 15:02:32 GMT"
     },
     {
+      "title": "Adidas sues Australian label White Fox over four stripes design",
+      "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 18:17:28 GMT"
+    },
+    {
+      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+      "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 19:10:06 GMT"
+    },
+    {
+      "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 14:33:23 GMT"
+    },
+    {
       "title": "Venezuela's ex-leader Nicol\u00e1s Maduro charged with conspiracy to commit torture",
       "link": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 08 Oct 2026 17:38:59 GMT"
-    },
-    {
-      "title": "Residents airlifted to safety after flooding in central Chile",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 11:31:22 GMT"
-    },
-    {
-      "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
-      "link": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 12:32:12 GMT"
     },
     {
       "title": "US deportations to African countries unlawful and exploit suffering, rights group says",
@@ -32,31 +47,46 @@
       "published": "Thu, 08 Oct 2026 17:16:32 GMT"
     },
     {
-      "title": "Teacher who sexually abused pupil back in Indonesia jail after BBC investigation",
-      "link": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 12:04:25 GMT"
-    },
-    {
-      "title": "Zambia signs US health deal after disputes over data-sharing",
-      "link": "https://www.bbc.co.uk/news/articles/cqd09eyk0g8no?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 16:24:05 GMT"
-    },
-    {
-      "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 05:06:09 GMT"
-    },
-    {
-      "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
-      "link": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 12:11:31 GMT"
+      "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
+      "link": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 20:38:11 GMT"
     }
   ],
   "finance": [
     {
+      "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
+      "link": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 23:14:02 GMT"
+    },
+    {
+      "title": "'Add me to WhatsApp' scam calls to be investigated",
+      "link": "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 23:05:09 GMT"
+    },
+    {
+      "title": "'I don't know what my partner earns': How soon into dating should you reveal your salary?",
+      "link": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 23:01:16 GMT"
+    },
+    {
+      "title": "White House blocks Microsoft from foreign worker hiring program",
+      "link": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 21:37:35 GMT"
+    },
+    {
       "title": "Asos hackers took more personal details than first revealed, BBC finds",
       "link": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 08 Oct 2026 16:29:33 GMT"
+    },
+    {
+      "title": "Why are more roofs not made of solar tiles?",
+      "link": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 23:09:56 GMT"
+    },
+    {
+      "title": "Adidas sues Australian label White Fox over four stripes design",
+      "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 18:17:28 GMT"
     },
     {
       "title": "We spent thousands on a Tui river cruise but ended up on coach trips",
@@ -72,36 +102,6 @@
       "title": "'Come all the way' back to EU, French finance minister tells UK",
       "link": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 08 Oct 2026 04:02:26 GMT"
-    },
-    {
-      "title": "Plans to shut Marston's Brewery in Burton revealed",
-      "link": "https://www.bbc.co.uk/news/articles/ck8dzq095lj3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 17:09:16 GMT"
-    },
-    {
-      "title": "How oil-rich Alberta's economy might fare if it broke away from Canada",
-      "link": "https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 23:10:13 GMT"
-    },
-    {
-      "title": "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
-      "link": "https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 23:00:55 GMT"
-    },
-    {
-      "title": "The wildlife winners set to appear on your banknotes revealed",
-      "link": "https://www.bbc.co.uk/news/articles/cwe8ld517ry3o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 23:01:30 GMT"
-    },
-    {
-      "title": "Bid to run new trains on West Coast Mainline refused",
-      "link": "https://www.bbc.co.uk/news/articles/cm3wve9l057vo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 15:15:14 GMT"
-    },
-    {
-      "title": "Derry firm becomes one of UK's biggest car park operators after buying NCP",
-      "link": "https://www.bbc.co.uk/news/articles/c693z8dz1kq4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 12:20:37 GMT"
     }
   ],
   "markets": []
