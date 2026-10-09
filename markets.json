@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-09T19:37:34.998339+00:00",
+  "updated": "2026-10-09T23:50:43.614725+00:00",
   "indices": {
     "sp500": {
-      "value": 7815.02,
+      "value": 7811.54,
       "previousClose": 7722.72,
-      "change": 92.30000000000018,
-      "changePercent": 1.1951747570804092
+      "change": 88.81999999999971,
+      "changePercent": 1.1501129135848471
     },
     "nasdaq": {
-      "value": 27364.877,
+      "value": 27366.17,
       "previousClose": 27190.86,
-      "change": 174.01699999999983,
-      "changePercent": 0.6399834356103479
+      "change": 175.30999999999767,
+      "changePercent": 0.6447387099929817
     },
     "dow": {
-      "value": 51726.5,
+      "value": 51654.95,
       "previousClose": 51176.96,
-      "change": 549.5400000000009,
-      "changePercent": 1.0738035240858403
+      "change": 477.98999999999796,
+      "changePercent": 0.9339945162823231
     },
     "russell2000": {
-      "value": 2810.807,
+      "value": 2806.9814,
       "previousClose": 2832.9,
-      "change": -22.093000000000302,
-      "changePercent": -0.7798722157506549
+      "change": -25.91859999999997,
+      "changePercent": -0.9149140456775732
     }
   },
   "rates": {
@@ -36,24 +36,24 @@
   },
   "commodities": {
     "oil": {
-      "value": 91.31,
+      "value": 91.66,
       "previousClose": 89.43,
-      "change": 1.8799999999999955,
-      "changePercent": 2.1022028402102153
+      "change": 2.2299999999999898,
+      "changePercent": 2.4935703902493453
     },
     "gold": {
-      "value": 4220.1,
+      "value": 4220.3,
       "previousClose": 4156.8,
-      "change": 63.30000000000018,
-      "changePercent": 1.522806004618942
+      "change": 63.5,
+      "changePercent": 1.5276173979984602
     }
   },
   "volatility": {
     "vix": {
-      "value": 14.83,
+      "value": 14.84,
       "previousClose": 15.52,
-      "change": -0.6899999999999995,
-      "changePercent": -4.4458762886597905
+      "change": -0.6799999999999997,
+      "changePercent": -4.381443298969071
     }
   }
 }
