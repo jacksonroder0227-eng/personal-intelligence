@@ -1,59 +1,59 @@
 {
-  "updated": "2026-10-13T17:43:21.624254+00:00",
+  "updated": "2026-10-13T22:22:01.139929+00:00",
   "indices": {
     "sp500": {
-      "value": 7802.01,
+      "value": 7805.45,
       "previousClose": 7818.93,
-      "change": -16.920000000000073,
-      "changePercent": -0.21639789587577932
+      "change": -13.480000000000473,
+      "changePercent": -0.17240210617054344
     },
     "nasdaq": {
-      "value": 27198.088,
+      "value": 27204.38,
       "previousClose": 27599.79,
-      "change": -401.70200000000114,
-      "changePercent": -1.4554531030852087
+      "change": -395.40999999999985,
+      "changePercent": -1.4326558281784023
     },
     "dow": {
-      "value": 51646.96,
+      "value": 51670.1,
       "previousClose": 51521.28,
-      "change": 125.68000000000029,
-      "changePercent": 0.24393803880648984
+      "change": 148.8199999999997,
+      "changePercent": 0.2888515192169133
     },
     "russell2000": {
-      "value": 2779.498,
+      "value": 2783.369,
       "previousClose": 2830.3,
-      "change": -50.802000000000135,
-      "changePercent": -1.7949333992862995
+      "change": -46.93100000000004,
+      "changePercent": -1.658163445571142
     }
   },
   "rates": {
     "treasury10y": {
-      "value": 5.2209997,
+      "value": 5.217,
       "previousClose": 5.277,
-      "change": -0.0560003,
-      "changePercent": -1.0612147053249954
+      "change": -0.0600000000000005,
+      "changePercent": -1.1370096645821584
     }
   },
   "commodities": {
     "oil": {
-      "value": 94.06,
+      "value": 94.77,
       "previousClose": 91.49,
-      "change": 2.5700000000000074,
-      "changePercent": 2.809050169417431
+      "change": 3.280000000000001,
+      "changePercent": 3.585091266805117
     },
     "gold": {
-      "value": 4178.2,
+      "value": 4183.8,
       "previousClose": 4157.0,
-      "change": 21.199999999999818,
-      "changePercent": 0.509983160933361
+      "change": 26.800000000000182,
+      "changePercent": 0.6446956940101078
     }
   },
   "volatility": {
     "vix": {
-      "value": 15.49,
+      "value": 15.27,
       "previousClose": 15.08,
-      "change": 0.41000000000000014,
-      "changePercent": 2.7188328912466853
+      "change": 0.1899999999999995,
+      "changePercent": 1.2599469496021187
     }
   }
 }
