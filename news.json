@@ -1,10 +1,20 @@
 {
-  "updated": "2026-10-14T01:36:52.482539+00:00",
+  "updated": "2026-10-14T07:09:11.402546+00:00",
   "world": [
     {
       "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
       "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 14 Oct 2026 00:17:00 GMT"
+    },
+    {
+      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 04:36:06 GMT"
+    },
+    {
+      "title": "Turkey police raid opposition TV station, halting live broadcasts",
+      "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 06:32:02 GMT"
     },
     {
       "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
@@ -24,12 +34,12 @@
     {
       "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
       "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 22:29:55 GMT"
+      "published": "Wed, 14 Oct 2026 04:20:17 GMT"
     },
     {
-      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-      "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 19:51:14 GMT"
+      "title": "Bank of America hit with $1.2bn fine for money laundering failings",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 02:05:32 GMT"
     },
     {
       "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
@@ -37,36 +47,31 @@
       "published": "Tue, 13 Oct 2026 19:23:28 GMT"
     },
     {
-      "title": "Zimbabwean author denies using AI to write award-winning story",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 23:31:10 GMT"
-    },
-    {
-      "title": "Cornell bans all fraternity parties over gang sex assault allegations",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 18:25:28 GMT"
-    },
-    {
-      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-      "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 22:14:33 GMT"
+      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+      "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 19:51:14 GMT"
     }
   ],
   "finance": [
     {
-      "title": "Royal Mail losing 400 postal workers a week, says union",
+      "title": "Not building third runway would be 'huge missed opportunity', warns Heathrow boss",
+      "link": "https://www.bbc.co.uk/news/articles/ckdd8egder5ro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 04:59:06 GMT"
+    },
+    {
+      "title": "Hundreds of Royal Mail staff quitting each week amid efficiency drive",
       "link": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 13 Oct 2026 23:03:59 GMT"
     },
     {
-      "title": "Is it OK for jobseekers or employers to use AI?",
+      "title": "'Spray and pray': How AI job applications can backfire",
       "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 23:04:39 GMT"
+      "published": "Wed, 14 Oct 2026 06:52:33 GMT"
     },
     {
-      "title": "Three things we've learnt about the UK economy from the IMF",
-      "link": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 11:58:43 GMT"
+      "title": "Bank of America hit with $1.2bn fine for money laundering failings",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 02:05:32 GMT"
     },
     {
       "title": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
@@ -74,14 +79,19 @@
       "published": "Tue, 13 Oct 2026 15:59:07 GMT"
     },
     {
+      "title": "How long will humans be needed for translation?",
+      "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 23:05:29 GMT"
+    },
+    {
       "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
       "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 13 Oct 2026 21:42:49 GMT"
     },
     {
-      "title": "How long will humans be needed for translation?",
-      "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 23:05:29 GMT"
+      "title": "Three things we've learnt about the UK economy from the IMF",
+      "link": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 11:58:43 GMT"
     },
     {
       "title": "Poundland in rescue talks as owners seek buyer",
@@ -92,16 +102,6 @@
       "title": "BA flight forced to turn back over cracked window",
       "link": "https://www.bbc.co.uk/news/articles/cj1dwrxq1wndo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 13 Oct 2026 11:48:07 GMT"
-    },
-    {
-      "title": "Heating oil customers face tough winter despite shake-up promise",
-      "link": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 12 Oct 2026 23:02:24 GMT"
-    },
-    {
-      "title": "UK growth forecast upgraded but higher energy prices to hit economy next year",
-      "link": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 09:38:54 GMT"
     }
   ],
   "markets": []
