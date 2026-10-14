@@ -1,45 +1,45 @@
 {
-  "updated": "2026-10-14T07:09:11.402546+00:00",
+  "updated": "2026-10-14T13:20:18.733923+00:00",
   "world": [
+    {
+      "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+      "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 13:11:17 GMT"
+    },
     {
       "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
       "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 14 Oct 2026 00:17:00 GMT"
-    },
-    {
-      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-      "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 14 Oct 2026 04:36:06 GMT"
-    },
-    {
-      "title": "Turkey police raid opposition TV station, halting live broadcasts",
-      "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 14 Oct 2026 06:32:02 GMT"
-    },
-    {
-      "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
-      "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 21:42:49 GMT"
+      "published": "Wed, 14 Oct 2026 11:17:51 GMT"
     },
     {
       "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
       "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 23:42:22 GMT"
+      "published": "Wed, 14 Oct 2026 12:27:00 GMT"
     },
     {
-      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-      "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 15:52:15 GMT"
+      "title": "Saudi employee charged with planting recording device in OpenAI office",
+      "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 21:42:49 GMT"
     },
     {
-      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 14 Oct 2026 04:20:17 GMT"
+      "title": "Turkish police raid opposition TV station, halting live broadcasts",
+      "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 10:50:11 GMT"
     },
     {
-      "title": "Bank of America hit with $1.2bn fine for money laundering failings",
-      "link": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 14 Oct 2026 02:05:32 GMT"
+      "title": "Mauritius reels from worst riots in decades after woman shot by police",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 11:24:25 GMT"
+    },
+    {
+      "title": "World's oldest shipwreck found off coast of Turkey",
+      "link": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 05:00:35 GMT"
+    },
+    {
+      "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
+      "link": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 13:09:51 GMT"
     },
     {
       "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
@@ -49,24 +49,49 @@
     {
       "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
       "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 19:51:14 GMT"
+      "published": "Wed, 14 Oct 2026 10:08:26 GMT"
     }
   ],
   "finance": [
     {
+      "title": "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
+      "link": "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 11:04:12 GMT"
+    },
+    {
+      "title": "US inflation rises more than expected ahead of midterm elections",
+      "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 13:14:04 GMT"
+    },
+    {
+      "title": "Civil servant faked illness with make-up to juggle five jobs, court hears",
+      "link": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 11:57:22 GMT"
+    },
+    {
+      "title": "Wayfair among firms fined millions for misleading sales tactics",
+      "link": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 12:09:45 GMT"
+    },
+    {
+      "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
+      "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 08:27:17 GMT"
+    },
+    {
+      "title": "How long will humans be needed for translation?",
+      "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 23:05:29 GMT"
+    },
+    {
+      "title": "Hundreds of Royal Mail staff quitting each week under new efficiency plans",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 07:18:08 GMT"
+    },
+    {
       "title": "Not building third runway would be 'huge missed opportunity', warns Heathrow boss",
       "link": "https://www.bbc.co.uk/news/articles/ckdd8egder5ro?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 14 Oct 2026 04:59:06 GMT"
-    },
-    {
-      "title": "Hundreds of Royal Mail staff quitting each week amid efficiency drive",
-      "link": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 23:03:59 GMT"
-    },
-    {
-      "title": "'Spray and pray': How AI job applications can backfire",
-      "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 14 Oct 2026 06:52:33 GMT"
     },
     {
       "title": "Bank of America hit with $1.2bn fine for money laundering failings",
@@ -77,31 +102,6 @@
       "title": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
       "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 13 Oct 2026 15:59:07 GMT"
-    },
-    {
-      "title": "How long will humans be needed for translation?",
-      "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 23:05:29 GMT"
-    },
-    {
-      "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
-      "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 21:42:49 GMT"
-    },
-    {
-      "title": "Three things we've learnt about the UK economy from the IMF",
-      "link": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 11:58:43 GMT"
-    },
-    {
-      "title": "Poundland in rescue talks as owners seek buyer",
-      "link": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 12:17:17 GMT"
-    },
-    {
-      "title": "BA flight forced to turn back over cracked window",
-      "link": "https://www.bbc.co.uk/news/articles/cj1dwrxq1wndo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 11:48:07 GMT"
     }
   ],
   "markets": []
