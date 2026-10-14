@@ -1,15 +1,20 @@
 {
-  "updated": "2026-10-13T22:29:05.363376+00:00",
+  "updated": "2026-10-14T01:36:52.482539+00:00",
   "world": [
     {
       "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
       "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 20:46:06 GMT"
+      "published": "Wed, 14 Oct 2026 00:17:00 GMT"
     },
     {
       "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
       "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 13 Oct 2026 21:42:49 GMT"
+    },
+    {
+      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 23:42:22 GMT"
     },
     {
       "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
@@ -19,7 +24,7 @@
     {
       "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
       "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 20:02:15 GMT"
+      "published": "Tue, 13 Oct 2026 22:29:55 GMT"
     },
     {
       "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
@@ -27,32 +32,37 @@
       "published": "Tue, 13 Oct 2026 19:51:14 GMT"
     },
     {
-      "title": "Cornell bans all fraternity parties over gang sex assault allegations",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 18:25:28 GMT"
-    },
-    {
       "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
       "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 13 Oct 2026 19:23:28 GMT"
     },
     {
-      "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
-      "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 17:10:50 GMT"
+      "title": "Zimbabwean author denies using AI to write award-winning story",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 23:31:10 GMT"
     },
     {
-      "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 05:02:34 GMT"
+      "title": "Cornell bans all fraternity parties over gang sex assault allegations",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 18:25:28 GMT"
     },
     {
-      "title": "Argentina targets UK in legal claim over Falklands oil exploration",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 17:36:43 GMT"
+      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 22:14:33 GMT"
     }
   ],
   "finance": [
+    {
+      "title": "Royal Mail losing 400 postal workers a week, says union",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 23:03:59 GMT"
+    },
+    {
+      "title": "Is it OK for jobseekers or employers to use AI?",
+      "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 23:04:39 GMT"
+    },
     {
       "title": "Three things we've learnt about the UK economy from the IMF",
       "link": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
@@ -67,6 +77,11 @@
       "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
       "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 13 Oct 2026 21:42:49 GMT"
+    },
+    {
+      "title": "How long will humans be needed for translation?",
+      "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 23:05:29 GMT"
     },
     {
       "title": "Poundland in rescue talks as owners seek buyer",
@@ -87,21 +102,6 @@
       "title": "UK growth forecast upgraded but higher energy prices to hit economy next year",
       "link": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 13 Oct 2026 09:38:54 GMT"
-    },
-    {
-      "title": "The Sabrina Carpenter clip which helped a 22-year-old make \u00a3120,000 a year",
-      "link": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 15:12:38 GMT"
-    },
-    {
-      "title": "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim",
-      "link": "https://www.bbc.co.uk/news/articles/cwly38gjkejko?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 09:34:43 GMT"
-    },
-    {
-      "title": "Publicly owned rail is popular. But is it making the trains run on time?",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yn0n14r8do?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 12 Oct 2026 23:37:00 GMT"
     }
   ],
   "markets": []
