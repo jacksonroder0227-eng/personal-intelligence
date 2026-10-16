@@ -1,11 +1,6 @@
 {
-  "updated": "2026-10-15T21:57:17.109970+00:00",
+  "updated": "2026-10-16T00:10:46.043337+00:00",
   "world": [
-    {
-      "title": "Bus hits train stopped on French side of  Channel Tunnel, with 19 injured",
-      "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 21:12:14 GMT"
-    },
     {
       "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
       "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
@@ -15,6 +10,11 @@
       "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
       "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 15 Oct 2026 16:50:18 GMT"
+    },
+    {
+      "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 15 Oct 2026 22:37:21 GMT"
     },
     {
       "title": "Maduro pleads not guilty to new torture-related charges in New York",
@@ -27,14 +27,19 @@
       "published": "Thu, 15 Oct 2026 15:26:16 GMT"
     },
     {
-      "title": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
-      "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 17:18:49 GMT"
-    },
-    {
       "title": "Was Neanderthal life violent? This wound suggests lethal fighting was more common",
       "link": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 15 Oct 2026 15:00:05 GMT"
+    },
+    {
+      "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
+      "link": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 15 Oct 2026 23:27:21 GMT"
+    },
+    {
+      "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+      "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 15 Oct 2026 23:38:46 GMT"
     },
     {
       "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
@@ -45,11 +50,6 @@
       "title": "White House defends new press secretary over her legal credentials",
       "link": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 15 Oct 2026 08:41:04 GMT"
-    },
-    {
-      "title": "School headscarf ban sparks rare protests in Azerbaijan and row with Turkey",
-      "link": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 16:15:06 GMT"
     }
   ],
   "finance": [
@@ -57,6 +57,11 @@
       "title": "Banks say Healey is planning Budget tax raid on their profits",
       "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 15 Oct 2026 17:14:36 GMT"
+    },
+    {
+      "title": "I find it quite demoralising in store - why I do all my shopping online",
+      "link": "https://www.bbc.co.uk/news/articles/c36lk280kd1o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 15 Oct 2026 23:16:12 GMT"
     },
     {
       "title": "Nandy 'minded to intervene' in Sky's \u00a31.6bn takeover of ITV entertainment arm",
@@ -74,14 +79,14 @@
       "published": "Thu, 15 Oct 2026 17:19:49 GMT"
     },
     {
+      "title": "Living with a stink? Technology might help",
+      "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 15 Oct 2026 23:18:21 GMT"
+    },
+    {
       "title": "How backlash against data centres could shape the US midterm elections",
       "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 14 Oct 2026 23:02:57 GMT"
-    },
-    {
-      "title": "As Christmas rush looms, how do China-made toys find their way to the US?",
-      "link": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 14 Oct 2026 23:01:28 GMT"
     },
     {
       "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
@@ -97,11 +102,6 @@
       "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
       "link": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 14 Oct 2026 17:46:30 GMT"
-    },
-    {
-      "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
-      "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 14 Oct 2026 16:47:32 GMT"
     }
   ],
   "markets": []
