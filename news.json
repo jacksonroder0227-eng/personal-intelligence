@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-16T05:30:07.036871+00:00",
+  "updated": "2026-10-16T10:49:04.417465+00:00",
   "world": [
     {
-      "title": "Three children and teacher killed in US primary school shooting",
+      "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
       "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Oct 2026 03:45:09 GMT"
+      "published": "Fri, 16 Oct 2026 10:36:50 GMT"
     },
     {
       "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
       "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Oct 2026 01:36:45 GMT"
+      "published": "Fri, 16 Oct 2026 08:27:16 GMT"
     },
     {
       "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
@@ -17,14 +17,19 @@
       "published": "Fri, 16 Oct 2026 05:00:17 GMT"
     },
     {
-      "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-      "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 17:47:22 GMT"
+      "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+      "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 16 Oct 2026 10:37:47 GMT"
     },
     {
-      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-      "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 16:50:18 GMT"
+      "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
+      "link": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 16 Oct 2026 08:45:54 GMT"
+    },
+    {
+      "title": "Dad fined after son, 2, died in Cyprus hotel fall",
+      "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 16 Oct 2026 10:28:56 GMT"
     },
     {
       "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
@@ -32,31 +37,26 @@
       "published": "Thu, 15 Oct 2026 22:37:21 GMT"
     },
     {
-      "title": "Maduro pleads not guilty to new torture-related charges in New York",
-      "link": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 16:52:44 GMT"
-    },
-    {
       "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
       "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 15 Oct 2026 15:26:16 GMT"
     },
     {
+      "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+      "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 15 Oct 2026 17:47:22 GMT"
+    },
+    {
       "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
       "link": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 15 Oct 2026 23:27:21 GMT"
-    },
-    {
-      "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
-      "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 23:38:46 GMT"
     }
   ],
   "finance": [
     {
-      "title": "Banks say Healey is planning Budget tax raid on their profits",
+      "title": "Banks expect to be hit with higher taxes in Budget",
       "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 17:14:36 GMT"
+      "published": "Fri, 16 Oct 2026 10:16:27 GMT"
     },
     {
       "title": "I find it quite demoralising in store - why I do all my shopping online",
@@ -64,14 +64,14 @@
       "published": "Thu, 15 Oct 2026 23:16:12 GMT"
     },
     {
+      "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+      "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 16 Oct 2026 05:00:17 GMT"
+    },
+    {
       "title": "Nandy 'minded to intervene' in Sky's \u00a31.6bn takeover of ITV entertainment arm",
       "link": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 15 Oct 2026 14:55:21 GMT"
-    },
-    {
-      "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 11:34:55 GMT"
     },
     {
       "title": "'I paid thousands to a company for jobs that never came'",
@@ -89,6 +89,11 @@
       "published": "Wed, 14 Oct 2026 23:02:57 GMT"
     },
     {
+      "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 15 Oct 2026 11:34:55 GMT"
+    },
+    {
       "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
       "link": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 15 Oct 2026 13:25:17 GMT"
@@ -97,11 +102,6 @@
       "title": "How much is the minimum wage?",
       "link": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 14 Oct 2026 23:01:11 GMT"
-    },
-    {
-      "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
-      "link": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 14 Oct 2026 17:46:30 GMT"
     }
   ],
   "markets": []
