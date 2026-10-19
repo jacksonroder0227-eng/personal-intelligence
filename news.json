@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T22:14:52.268408+00:00",
+  "updated": "2026-10-19T00:50:51.639153+00:00",
   "world": [
     {
       "title": "Macron calls for 'calm and order' after riots across France",
@@ -7,9 +7,24 @@
       "published": "Sun, 18 Oct 2026 20:33:21 GMT"
     },
     {
-      "title": "What we know so far about deadly fire at Canadian military base",
-      "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 21:37:56 GMT"
+      "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
+      "link": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 22:22:51 GMT"
+    },
+    {
+      "title": "Major fire at Canada military base leaves four dead, dozens injured",
+      "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 23:06:09 GMT"
+    },
+    {
+      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 23:20:15 GMT"
+    },
+    {
+      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+      "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 00:06:25 GMT"
     },
     {
       "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
@@ -17,29 +32,14 @@
       "published": "Sun, 18 Oct 2026 21:00:22 GMT"
     },
     {
+      "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+      "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 23:28:45 GMT"
+    },
+    {
       "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
       "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 18 Oct 2026 15:46:10 GMT"
-    },
-    {
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 12:16:14 GMT"
-    },
-    {
-      "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
-      "link": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 19:53:27 GMT"
-    },
-    {
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 01:10:25 GMT"
-    },
-    {
-      "title": "Anti-government protesters battle with police in Albania",
-      "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Oct 2026 20:53:00 GMT"
     },
     {
       "title": "Search for Amelia Earhart's plane resumes after stormy weather",
@@ -47,12 +47,37 @@
       "published": "Sun, 18 Oct 2026 13:47:07 GMT"
     },
     {
-      "title": "At least 17 dead in crush at Hindu festival event in India",
-      "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Oct 2026 19:19:16 GMT"
+      "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+      "link": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 19:53:27 GMT"
     }
   ],
   "finance": [
+    {
+      "title": "Microsoft pulls out of UK's largest AI data centre",
+      "link": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 16:46:42 GMT"
+    },
+    {
+      "title": "Home sellers cut asking prices on 3,000 properties a day",
+      "link": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 23:00:45 GMT"
+    },
+    {
+      "title": "People playing loud music on buses could face \u00a3100 fine",
+      "link": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 00:22:20 GMT"
+    },
+    {
+      "title": "Don't fall for this - how to protect yourself from AI scams",
+      "link": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 23:24:59 GMT"
+    },
+    {
+      "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+      "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 23:28:45 GMT"
+    },
     {
       "title": "There's a crackdown on sports piracy - but is it already out of control?",
       "link": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss",
@@ -77,31 +102,6 @@
       "title": "Turning the tides: Could hidden sea power energise our coastal towns?",
       "link": "https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 18 Oct 2026 08:12:24 GMT"
-    },
-    {
-      "title": "Living with a stink? Technology might help",
-      "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 23:18:21 GMT"
-    },
-    {
-      "title": "'I took a chance on the whisky industry and I haven't looked back'",
-      "link": "https://www.bbc.co.uk/news/articles/c6y8ln9831v3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 08:12:17 GMT"
-    },
-    {
-      "title": "Banks expect to be hit with higher taxes in Budget",
-      "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Oct 2026 10:16:27 GMT"
-    },
-    {
-      "title": "Watch: Did Tesla really just unveil a flying car?",
-      "link": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Oct 2026 12:32:31 GMT"
-    },
-    {
-      "title": "I find it quite demoralising in store - why I do all my shopping online",
-      "link": "https://www.bbc.co.uk/news/articles/c36lk280kd1o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 23:16:12 GMT"
     }
   ],
   "markets": []
