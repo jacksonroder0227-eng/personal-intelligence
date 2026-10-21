@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T22:10:21.315247+00:00",
+  "updated": "2026-10-21T01:19:25.185547+00:00",
   "world": [
     {
       "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
@@ -12,6 +12,11 @@
       "published": "Tue, 20 Oct 2026 12:08:06 GMT"
     },
     {
+      "title": "Elon Musk says Tesla-SpaceX merger being considered",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 20 Oct 2026 23:24:47 GMT"
+    },
+    {
       "title": "Man charged with attack on Australia MP to face court",
       "link": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 20 Oct 2026 11:25:35 GMT"
@@ -22,9 +27,19 @@
       "published": "Tue, 20 Oct 2026 20:00:57 GMT"
     },
     {
-      "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 16:59:06 GMT"
+      "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+      "link": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 20 Oct 2026 22:22:17 GMT"
+    },
+    {
+      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+      "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 20 Oct 2026 17:30:15 GMT"
+    },
+    {
+      "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
+      "link": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 20 Oct 2026 15:58:57 GMT"
     },
     {
       "title": "Trump sued over Canadian tariffs in latest legal challenge",
@@ -35,33 +50,18 @@
       "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
       "link": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 20 Oct 2026 11:45:49 GMT"
-    },
-    {
-      "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
-      "link": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 15:58:57 GMT"
-    },
-    {
-      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
-      "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 17:30:15 GMT"
-    },
-    {
-      "title": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
-      "link": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 03:10:39 GMT"
     }
   ],
   "finance": [
     {
+      "title": "Elon Musk says Tesla-SpaceX merger being considered",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 20 Oct 2026 23:24:47 GMT"
+    },
+    {
       "title": "Google resolves cloud outage affecting UK banks and websites",
       "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 20 Oct 2026 18:03:19 GMT"
-    },
-    {
-      "title": "Elon Musk says Tesla-SpaceX merger would be a 'good idea'",
-      "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 22:06:48 GMT"
     },
     {
       "title": "UK government to make Jackdaw gas field announcement",
@@ -77,6 +77,11 @@
       "title": "Audit regulator looking into Manchester City accounting",
       "link": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 20 Oct 2026 20:56:53 GMT"
+    },
+    {
+      "title": "The tech helping crack decades-old cold cases",
+      "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 20 Oct 2026 23:13:24 GMT"
     },
     {
       "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
@@ -97,11 +102,6 @@
       "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
       "link": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 20 Oct 2026 19:42:32 GMT"
-    },
-    {
-      "title": "Jobless rate falls but small firms cut back hiring",
-      "link": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 11:26:48 GMT"
     }
   ],
   "markets": []
