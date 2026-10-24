@@ -1,6 +1,11 @@
 {
-  "updated": "2026-10-24T20:19:07.950738+00:00",
+  "updated": "2026-10-24T22:55:22.164012+00:00",
   "world": [
+    {
+      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 24 Oct 2026 21:09:27 GMT"
+    },
     {
       "title": "Ukraine says Starlink connection 'now stable' after network limits",
       "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
@@ -45,11 +50,6 @@
       "title": "Australian MP's condition improves after alleged car attack",
       "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 24 Oct 2026 01:55:15 GMT"
-    },
-    {
-      "title": "Student movement takes Serbia's Vu\u010di\u0107 to the wire in neck-and-neck election",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 23:08:23 GMT"
     }
   ],
   "finance": [
