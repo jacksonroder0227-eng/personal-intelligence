@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T21:51:46.937696+00:00",
+  "updated": "2026-10-24T00:17:40.004050+00:00",
   "world": [
     {
       "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
@@ -54,19 +54,34 @@
   ],
   "finance": [
     {
+      "title": "How does the UK state pension compare with other countries?",
+      "link": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 24 Oct 2026 00:09:12 GMT"
+    },
+    {
+      "title": "UK to invest \u00a3100m in 'world first' AI Biosecurity Lab",
+      "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 24 Oct 2026 00:05:45 GMT"
+    },
+    {
       "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
       "link": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 23 Oct 2026 15:15:13 GMT"
     },
     {
-      "title": "White House says the US is lifting tariffs on some Canadian goods",
+      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
       "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 20:39:39 GMT"
+      "published": "Fri, 23 Oct 2026 22:54:57 GMT"
     },
     {
       "title": "Earnings limit of up to \u00a3140K for first-time buyers loan scheme",
       "link": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 23 Oct 2026 11:48:04 GMT"
+    },
+    {
+      "title": "The Indian workers filming their work to train AI",
+      "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 08:04:17 GMT"
     },
     {
       "title": "Lights will stay on this winter, grid operator says after concerns",
@@ -79,11 +94,6 @@
       "published": "Thu, 22 Oct 2026 23:20:38 GMT"
     },
     {
-      "title": "The Indian workers filming their work to train AI",
-      "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 08:04:17 GMT"
-    },
-    {
       "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
       "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 18:26:56 GMT"
@@ -92,16 +102,6 @@
       "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
       "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 22:27:53 GMT"
-    },
-    {
-      "title": "'I wasn't thinking straight' says five jobs civil servant",
-      "link": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 15:05:47 GMT"
-    },
-    {
-      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 14:28:59 GMT"
     }
   ],
   "markets": []
