@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-25T00:52:51.221130+00:00",
+  "updated": "2026-10-25T05:44:29.068071+00:00",
   "world": [
     {
       "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
       "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 24 Oct 2026 21:09:27 GMT"
+      "published": "Sun, 25 Oct 2026 04:16:52 GMT"
     },
     {
       "title": "Ukraine says Starlink connection 'now stable' after network limits",
@@ -54,6 +54,11 @@
   ],
   "finance": [
     {
+      "title": "Budget to include \u00a31bn for social and affordable housing",
+      "link": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 25 Oct 2026 02:57:30 GMT"
+    },
+    {
       "title": "Rosebank: Life on the oil field at the centre of a political storm",
       "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 24 Oct 2026 23:15:18 GMT"
@@ -74,14 +79,14 @@
       "published": "Fri, 23 Oct 2026 15:15:13 GMT"
     },
     {
-      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 24 Oct 2026 00:36:47 GMT"
-    },
-    {
       "title": "The Indian workers filming their work to train AI",
       "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 23 Oct 2026 08:04:17 GMT"
+    },
+    {
+      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 24 Oct 2026 00:36:47 GMT"
     },
     {
       "title": "Earnings limit of up to \u00a3140K for first-time buyers loan scheme",
@@ -97,11 +102,6 @@
       "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
       "link": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 23:20:38 GMT"
-    },
-    {
-      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-      "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 18:26:56 GMT"
     }
   ],
   "markets": []
