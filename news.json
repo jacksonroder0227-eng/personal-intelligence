@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T22:15:20.421312+00:00",
+  "updated": "2026-10-29T02:08:27.723331+00:00",
   "world": [
     {
       "title": "High-speed train crash kills at least 68 people in Spain",
@@ -14,7 +14,7 @@
     {
       "title": "Fl\u00e1vio Bolsonaro denies fleeing Brazil after landing in Miami",
       "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 22:13:35 GMT"
+      "published": "Thu, 29 Oct 2026 01:14:01 GMT"
     },
     {
       "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
@@ -54,6 +54,11 @@
   ],
   "finance": [
     {
+      "title": "I earn \u00a330,000. I'm angry there was no fuel duty cut in the Budget",
+      "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 00:00:25 GMT"
+    },
+    {
       "title": "Healey unveils \u00a3100 for energy bills and bank tax in first Budget",
       "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 28 Oct 2026 18:45:09 GMT"
@@ -74,14 +79,19 @@
       "published": "Wed, 28 Oct 2026 16:43:35 GMT"
     },
     {
+      "title": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 00:00:15 GMT"
+    },
+    {
       "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
       "link": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 28 Oct 2026 19:51:01 GMT"
     },
     {
-      "title": "Will I get the \u00a3100 energy payment and when will I receive it?",
-      "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 17:47:37 GMT"
+      "title": "Microsoft profits soar days after announcing thousands of layoffs",
+      "link": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 01:27:40 GMT"
     },
     {
       "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
@@ -89,19 +99,9 @@
       "published": "Wed, 28 Oct 2026 19:15:58 GMT"
     },
     {
-      "title": "Tax thresholds remain unchanged - here's what it means for your pay",
-      "link": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 18:12:24 GMT"
-    },
-    {
-      "title": "Budget 2026: Key points at a glance",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 16:55:27 GMT"
-    },
-    {
-      "title": "Healey tells departments to make 1% cuts to fund defence",
-      "link": "https://www.bbc.co.uk/news/articles/c65ynl0px107o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 19:01:34 GMT"
+      "title": "Will I get the \u00a3100 energy payment and when will I receive it?",
+      "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 28 Oct 2026 17:47:37 GMT"
     }
   ],
   "markets": []
