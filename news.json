@@ -1,10 +1,20 @@
 {
-  "updated": "2026-10-29T21:33:29.805322+00:00",
+  "updated": "2026-10-30T01:35:25.823524+00:00",
   "world": [
+    {
+      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 20:21:54 GMT"
+    },
     {
       "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
       "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 29 Oct 2026 11:07:35 GMT"
+    },
+    {
+      "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 20:05:57 GMT"
     },
     {
       "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
@@ -22,19 +32,9 @@
       "published": "Thu, 29 Oct 2026 13:25:07 GMT"
     },
     {
-      "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 29 Oct 2026 20:05:57 GMT"
-    },
-    {
       "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
       "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 29 Oct 2026 17:02:59 GMT"
-    },
-    {
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 29 Oct 2026 15:47:20 GMT"
     },
     {
       "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
@@ -54,9 +54,14 @@
   ],
   "finance": [
     {
-      "title": "Wall Street's AI fears slash Google value by $500bn",
+      "title": "Crypto worth billions frozen after suspected Binance hack",
+      "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 30 Oct 2026 01:20:57 GMT"
+    },
+    {
+      "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
       "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 29 Oct 2026 21:29:51 GMT"
+      "published": "Thu, 29 Oct 2026 22:17:52 GMT"
     },
     {
       "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
@@ -74,14 +79,14 @@
       "published": "Thu, 29 Oct 2026 13:19:24 GMT"
     },
     {
+      "title": "From workshops to the catwalk - why mended clothes are going mainstream",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 30 Oct 2026 00:00:35 GMT"
+    },
+    {
       "title": "Faisal Islam: This Budget was micro and that was deliberate",
       "link": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 29 Oct 2026 15:48:44 GMT"
-    },
-    {
-      "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-      "link": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 29 Oct 2026 09:30:03 GMT"
     },
     {
       "title": "Bereaved families will not face tax bill over pension delays under new rules",
@@ -97,11 +102,6 @@
       "title": "DoorDash to buy Instacart in $17bn deal it says will expand customer options",
       "link": "https://www.bbc.co.uk/news/articles/cm79pjg2l57yo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 29 Oct 2026 15:05:15 GMT"
-    },
-    {
-      "title": "What we now know about the UK economy in four charts",
-      "link": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 20:08:45 GMT"
     }
   ],
   "markets": []
