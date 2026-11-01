@@ -1,6 +1,11 @@
 {
-  "updated": "2026-11-01T01:53:30.443406+00:00",
+  "updated": "2026-11-01T08:47:28.925576+00:00",
   "world": [
+    {
+      "title": "Shops looted as German cost of living protests turn violent",
+      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 08:43:00 GMT"
+    },
     {
       "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
       "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
@@ -12,19 +17,14 @@
       "published": "Sat, 31 Oct 2026 17:53:35 GMT"
     },
     {
-      "title": "Thousands demonstrate in Paris as protests spread across Europe",
-      "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 21:29:01 GMT"
-    },
-    {
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
       "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 31 Oct 2026 22:11:45 GMT"
     },
     {
-      "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
       "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 00:12:07 GMT"
+      "published": "Sun, 01 Nov 2026 07:00:55 GMT"
     },
     {
       "title": "How the downfall of Serbia's Vu\u010di\u010b mirrored that of Hungary's Orb\u00e1n",
@@ -37,6 +37,11 @@
       "published": "Sat, 31 Oct 2026 14:28:15 GMT"
     },
     {
+      "title": "Thousands demonstrate in Paris as protests spread across Europe",
+      "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 31 Oct 2026 21:29:01 GMT"
+    },
+    {
       "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
       "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 31 Oct 2026 15:16:20 GMT"
@@ -45,11 +50,6 @@
       "title": "Spain train disaster clouds S\u00e1nchez chances of re-election",
       "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 31 Oct 2026 05:44:21 GMT"
-    },
-    {
-      "title": "Global nature talks reach deal but money remains an issue",
-      "link": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 01:27:05 GMT"
     }
   ],
   "finance": [
