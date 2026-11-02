@@ -1,10 +1,20 @@
 {
-  "updated": "2026-11-01T20:15:01.463582+00:00",
+  "updated": "2026-11-02T00:18:09.921705+00:00",
   "world": [
     {
-      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end",
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 22:38:24 GMT"
+    },
+    {
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
       "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 19:48:17 GMT"
+      "published": "Sun, 01 Nov 2026 21:55:01 GMT"
+    },
+    {
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 00:02:15 GMT"
     },
     {
       "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
@@ -27,11 +37,6 @@
       "published": "Sun, 01 Nov 2026 17:56:47 GMT"
     },
     {
-      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
-      "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 20:11:26 GMT"
-    },
-    {
       "title": "India's opposition holds mega rally seeking election chief's resignation",
       "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 01 Nov 2026 07:00:55 GMT"
@@ -45,14 +50,14 @@
       "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
       "link": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 01 Nov 2026 00:41:24 GMT"
-    },
-    {
-      "title": "Judge orders Trump administration to stop threatening US election officials",
-      "link": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 00:27:33 GMT"
     }
   ],
   "finance": [
+    {
+      "title": "Don't get caught out by new Buy Now Pay Later rules",
+      "link": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 23:34:49 GMT"
+    },
     {
       "title": "Thousands of jobs at Virgin Media O2 to be cut",
       "link": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
@@ -97,11 +102,6 @@
       "title": "From Levi's to Primark - the fashion chains selling mended clothes",
       "link": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 30 Oct 2026 00:00:35 GMT"
-    },
-    {
-      "title": "Yorkshire Water boss resigns after firm downgraded",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 16:04:55 GMT"
     }
   ],
   "markets": []
