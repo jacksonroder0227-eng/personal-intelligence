@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T22:26:18.515671+00:00",
+  "updated": "2026-11-05T03:12:32.211507+00:00",
   "world": [
     {
       "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
@@ -14,7 +14,7 @@
     {
       "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
       "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 20:22:40 GMT"
+      "published": "Wed, 04 Nov 2026 22:48:43 GMT"
     },
     {
       "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
@@ -54,9 +54,14 @@
   ],
   "finance": [
     {
+      "title": "Interest rates expected to rise for first time in over three years",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 00:00:09 GMT"
+    },
+    {
       "title": "Pound rises to its highest level since the Brexit referendum",
       "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 21:35:50 GMT"
+      "published": "Wed, 04 Nov 2026 23:30:28 GMT"
     },
     {
       "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
@@ -69,19 +74,9 @@
       "published": "Wed, 04 Nov 2026 19:44:46 GMT"
     },
     {
-      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 20:53:03 GMT"
-    },
-    {
       "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
       "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 04 Nov 2026 19:38:53 GMT"
-    },
-    {
-      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 16:19:29 GMT"
     },
     {
       "title": "Graduates are managing AI - but are they learning much else?",
@@ -89,19 +84,24 @@
       "published": "Wed, 04 Nov 2026 00:04:35 GMT"
     },
     {
+      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+      "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Nov 2026 20:53:03 GMT"
+    },
+    {
+      "title": "Australia's oldest department store David Jones folds after 188 years",
+      "link": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 00:59:22 GMT"
+    },
+    {
+      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Nov 2026 16:19:29 GMT"
+    },
+    {
       "title": "Canva announces major job cuts after 'our hardest year yet'",
       "link": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 04 Nov 2026 00:09:35 GMT"
-    },
-    {
-      "title": "Drivers may get compensation offers before car finance saga ends",
-      "link": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 11:56:31 GMT"
-    },
-    {
-      "title": "Asda hires ex-Morrisons boss in bid to grow firm",
-      "link": "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 15:12:35 GMT"
     }
   ],
   "markets": []
