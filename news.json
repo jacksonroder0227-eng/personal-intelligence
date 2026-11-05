@@ -1,82 +1,77 @@
 {
-  "updated": "2026-11-05T03:12:32.211507+00:00",
+  "updated": "2026-11-05T11:54:28.263134+00:00",
   "world": [
     {
-      "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
-      "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 13:33:30 GMT"
+      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 03:47:56 GMT"
     },
     {
-      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-      "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 18:01:31 GMT"
+      "title": "What Democrats can and can't do with their new power after taking Congress",
+      "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Nov 2026 18:01:27 GMT"
+    },
+    {
+      "title": "France gears up for strikes and protests as unions promise national mobilisation",
+      "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 10:26:03 GMT"
+    },
+    {
+      "title": "Ronaldo retires from Portugal duty",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 11:17:03 GMT"
+    },
+    {
+      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 08:07:22 GMT"
+    },
+    {
+      "title": "Typhoons batter East Asia as El Ni\u00f1o makes Pacific 'burn with fever'",
+      "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Nov 2026 23:12:47 GMT"
+    },
+    {
+      "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
+      "link": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 02:09:23 GMT"
+    },
+    {
+      "title": "India's costliest film retells a beloved Hindu epic - but divides critics",
+      "link": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 09:04:42 GMT"
+    },
+    {
+      "title": "Mother and daughter die after suspected grizzly bear attack in Canada",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Nov 2026 23:50:40 GMT"
     },
     {
       "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
       "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 04 Nov 2026 22:48:43 GMT"
-    },
-    {
-      "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 16:26:15 GMT"
-    },
-    {
-      "title": "'Most difficult days of my life' for keeper Owono",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 16:40:38 GMT"
-    },
-    {
-      "title": "Israel's president begins consultations with parties after election deadlock",
-      "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 16:18:21 GMT"
-    },
-    {
-      "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
-      "link": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 07:39:38 GMT"
-    },
-    {
-      "title": "Secret police files released in Hungary, 37 years after fall of communism",
-      "link": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 15:28:18 GMT"
-    },
-    {
-      "title": "Iran's chief negotiator says Americans voted 'no to war'",
-      "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 16:59:15 GMT"
-    },
-    {
-      "title": "ANC under pressure to reverse South Africa decline",
-      "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 11:47:44 GMT"
     }
   ],
   "finance": [
+    {
+      "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
+      "link": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 10:04:51 GMT"
+    },
+    {
+      "title": "Second buyer makes rescue bid for Poundland as retailer faces collapse",
+      "link": "https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 09:46:32 GMT"
+    },
     {
       "title": "Interest rates expected to rise for first time in over three years",
       "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 05 Nov 2026 00:00:09 GMT"
     },
     {
-      "title": "Pound rises to its highest level since the Brexit referendum",
-      "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 23:30:28 GMT"
-    },
-    {
-      "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
-      "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 21:41:15 GMT"
-    },
-    {
-      "title": "Poundland owner in crunch talks as retailer's collapse looms",
-      "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 19:44:46 GMT"
-    },
-    {
-      "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 19:38:53 GMT"
+      "title": "Welsh aviation firm AerFin bought in \u00a3475m deal",
+      "link": "https://www.bbc.co.uk/news/articles/cq203vjxnln7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 11:01:06 GMT"
     },
     {
       "title": "Graduates are managing AI - but are they learning much else?",
@@ -84,24 +79,29 @@
       "published": "Wed, 04 Nov 2026 00:04:35 GMT"
     },
     {
+      "title": "Pound rises to its highest level since the Brexit referendum",
+      "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 04:21:35 GMT"
+    },
+    {
+      "title": "Food, fuel and taxes \u2013 can the Democrats do anything to ease cost of living pressures?",
+      "link": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 06:01:05 GMT"
+    },
+    {
+      "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+      "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Nov 2026 21:41:15 GMT"
+    },
+    {
+      "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Nov 2026 19:38:53 GMT"
+    },
+    {
       "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
       "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 03 Nov 2026 20:53:03 GMT"
-    },
-    {
-      "title": "Australia's oldest department store David Jones folds after 188 years",
-      "link": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 00:59:22 GMT"
-    },
-    {
-      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 16:19:29 GMT"
-    },
-    {
-      "title": "Canva announces major job cuts after 'our hardest year yet'",
-      "link": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 00:09:35 GMT"
     }
   ],
   "markets": []
