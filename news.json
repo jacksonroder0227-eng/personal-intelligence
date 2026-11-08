@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-07T23:27:26.803754+00:00",
+  "updated": "2026-11-08T04:44:47.174354+00:00",
   "world": [
     {
       "title": "What we know so far after Krakow gun attack",
       "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 22:58:49 GMT"
+      "published": "Sun, 08 Nov 2026 01:47:41 GMT"
     },
     {
       "title": "Israel's president tasks opposition leader Eisenkot with forming government",
@@ -22,9 +22,9 @@
       "published": "Sat, 07 Nov 2026 18:14:38 GMT"
     },
     {
-      "title": "Houthis say at least 25 killed in Saudi air strike",
+      "title": "Houthis say at least 33 killed in Saudi air strike",
       "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 17:09:24 GMT"
+      "published": "Sun, 08 Nov 2026 04:03:12 GMT"
     },
     {
       "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
@@ -54,6 +54,11 @@
   ],
   "finance": [
     {
+      "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 23:02:35 GMT"
+    },
+    {
       "title": "AI stocks climb after trillions wiped from market values",
       "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Nov 2026 21:06:25 GMT"
@@ -74,14 +79,14 @@
       "published": "Fri, 06 Nov 2026 17:19:38 GMT"
     },
     {
-      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 21:49:50 GMT"
-    },
-    {
       "title": "The engine parts that 'fight the laws of the universe'",
       "link": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Nov 2026 00:06:06 GMT"
+    },
+    {
+      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+      "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 21:49:50 GMT"
     },
     {
       "title": "PM tells firms to publish salaries in job adverts ahead of new law",
@@ -97,11 +102,6 @@
       "title": "Interest rates hiked to 4% in first increase in over three years",
       "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 05 Nov 2026 17:09:55 GMT"
-    },
-    {
-      "title": "Faisal Islam: How high will interest rates go?",
-      "link": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 13:17:10 GMT"
     }
   ],
   "markets": []
