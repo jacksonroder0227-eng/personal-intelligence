@@ -1,62 +1,82 @@
 {
-  "updated": "2026-11-09T09:13:09.057966+00:00",
+  "updated": "2026-11-09T20:27:06.952763+00:00",
   "world": [
+    {
+      "title": "France accuses Iran of supermarket fridge hacking",
+      "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 20:20:08 GMT"
+    },
+    {
+      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+      "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 19:58:01 GMT"
+    },
+    {
+      "title": "Trump questions midterm elections integrity after previously accepting results",
+      "link": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 17:47:29 GMT"
+    },
+    {
+      "title": "Turkey steel factory blast kills at least 16 people",
+      "link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 18:04:01 GMT"
+    },
+    {
+      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 20:23:14 GMT"
+    },
+    {
+      "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 17:06:18 GMT"
+    },
+    {
+      "title": "Russia's leading independent newspaper closes after eviction",
+      "link": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 18:08:07 GMT"
+    },
+    {
+      "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
+      "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 16:33:55 GMT"
+    },
     {
       "title": "Krakow shooting suspect has died in hospital, police say",
       "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 07:26:09 GMT"
+      "published": "Mon, 09 Nov 2026 11:56:25 GMT"
     },
     {
-      "title": "Inside the French drug gangs recruiting children to kill",
-      "link": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 06:00:26 GMT"
-    },
-    {
-      "title": "Trump says he was 'kidding' about Dana White press secretary offer",
-      "link": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 08:49:17 GMT"
-    },
-    {
-      "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
-      "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 08:16:57 GMT"
-    },
-    {
-      "title": "Pope delivers veiled rebuke of Milei's austerity measures",
-      "link": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 05:30:37 GMT"
-    },
-    {
-      "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 02:50:13 GMT"
-    },
-    {
-      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 19:58:02 GMT"
-    },
-    {
-      "title": "'Devastating message' as ANC records worst-ever result in South Africa election",
-      "link": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 17:51:03 GMT"
-    },
-    {
-      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 23:34:18 GMT"
-    },
-    {
-      "title": "Homes and temples glow across India to mark Diwali",
-      "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 14:42:09 GMT"
+      "title": "Thirteen migrants die after boat sinks off Crete",
+      "link": "https://www.bbc.co.uk/news/articles/c65ynyxrjdyeo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 13:50:01 GMT"
     }
   ],
   "finance": [
     {
-      "title": "Jensen Huang: Why a personal scandal for the face of the AI boom has provoked a national security scare",
+      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+      "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 19:58:01 GMT"
+    },
+    {
+      "title": "Civil servant who secretly held five jobs found guilty of fraud",
+      "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 17:17:16 GMT"
+    },
+    {
+      "title": "How a civil servant got away with juggling five jobs for so long",
+      "link": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 18:40:31 GMT"
+    },
+    {
+      "title": "Poundland unable to buy new stock as fears over collapse grow",
+      "link": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 16:46:40 GMT"
+    },
+    {
+      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
       "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 06:01:52 GMT"
+      "published": "Mon, 09 Nov 2026 15:46:20 GMT"
     },
     {
       "title": "What do we know about Nvidia CEO\u2019s affair with a suspected Chinese spy?",
@@ -71,17 +91,7 @@
     {
       "title": "Government's EV targets expected to be reduced this week",
       "link": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 09:01:19 GMT"
-    },
-    {
-      "title": "'My mortgage is going up \u00a3200 a month': How rising interest rates are hitting people's pockets",
-      "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 01:41:36 GMT"
-    },
-    {
-      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-      "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 08:10:25 GMT"
+      "published": "Mon, 09 Nov 2026 12:06:22 GMT"
     },
     {
       "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
@@ -89,19 +99,9 @@
       "published": "Sun, 08 Nov 2026 15:37:25 GMT"
     },
     {
-      "title": "He spent $50,000 on Labubus but now the craze is dying",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 23:02:35 GMT"
-    },
-    {
-      "title": "Why the US midterms sparked an AI stock selloff",
-      "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 18:32:16 GMT"
-    },
-    {
-      "title": "How does it affect me if share prices fall?",
-      "link": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 09:21:50 GMT"
+      "title": "'My mortgage is going up \u00a3200 a month': How rising interest rates are hitting people's pockets",
+      "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 01:41:36 GMT"
     }
   ],
   "markets": []
