@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-08T21:43:59.758471+00:00",
+  "updated": "2026-11-09T01:27:18.681281+00:00",
   "world": [
     {
       "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
       "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 18:22:53 GMT"
+      "published": "Sun, 08 Nov 2026 23:34:18 GMT"
     },
     {
       "title": "Seven dead and more than 100 injured after trains collide in Egypt",
@@ -22,9 +22,9 @@
       "published": "Sun, 08 Nov 2026 13:37:50 GMT"
     },
     {
-      "title": "Houthis say at least 33 killed in Saudi air strike",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 04:03:12 GMT"
+      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 08 Nov 2026 21:37:36 GMT"
     },
     {
       "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
@@ -53,6 +53,16 @@
     }
   ],
   "finance": [
+    {
+      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+      "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 00:50:06 GMT"
+    },
+    {
+      "title": "Doing these things now will help you save money at Christmas",
+      "link": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 00:09:14 GMT"
+    },
     {
       "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
       "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
@@ -92,16 +102,6 @@
       "title": "Elon Musk appears to signal the end of the road for Cybertruck",
       "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Nov 2026 21:49:50 GMT"
-    },
-    {
-      "title": "PM tells firms to publish salaries in job adverts ahead of new law",
-      "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 15:25:43 GMT"
-    },
-    {
-      "title": "'I was asked if I was a crier': Your worst job interviews revealed",
-      "link": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 00:02:52 GMT"
     }
   ],
   "markets": []
