@@ -1,29 +1,29 @@
 {
-  "updated": "2026-11-10T20:32:32.099152+00:00",
+  "updated": "2026-11-11T01:03:51.882022+00:00",
   "indices": {
     "sp500": {
-      "value": 7515.18,
+      "value": 7520.93,
       "previousClose": 7568.92,
-      "change": -53.73999999999978,
-      "changePercent": -0.7100088255655995
+      "change": -47.98999999999978,
+      "changePercent": -0.6340402593765
     },
     "nasdaq": {
-      "value": 25043.877,
+      "value": 25065.875,
       "previousClose": 25372.01,
-      "change": -328.132999999998,
-      "changePercent": -1.2932873666690106
+      "change": -306.1349999999984,
+      "changePercent": -1.2065855247573938
     },
     "dow": {
-      "value": 52200.21,
+      "value": 52231.89,
       "previousClose": 51786.72,
-      "change": 413.48999999999796,
-      "changePercent": 0.7984479418661733
+      "change": 445.16999999999825,
+      "changePercent": 0.8596219262390015
     },
     "russell2000": {
-      "value": 2817.1838,
+      "value": 2821.3755,
       "previousClose": 2812.45,
-      "change": 4.733799999999974,
-      "changePercent": 0.1683158811712199
+      "change": 8.925500000000284,
+      "changePercent": 0.3173567530089525
     }
   },
   "rates": {
@@ -36,24 +36,24 @@
   },
   "commodities": {
     "oil": {
-      "value": 86.4,
+      "value": 86.43,
       "previousClose": 90.52,
-      "change": -4.11999999999999,
-      "changePercent": -4.551480335837374
+      "change": -4.089999999999989,
+      "changePercent": -4.51833848873176
     },
     "gold": {
-      "value": 4041.3,
+      "value": 4041.1,
       "previousClose": 4113.5,
-      "change": -72.19999999999982,
-      "changePercent": -1.7551963048498802
+      "change": -72.40000000000009,
+      "changePercent": -1.7600583444755098
     }
   },
   "volatility": {
     "vix": {
-      "value": 19.96,
+      "value": 19.46,
       "previousClose": 16.61,
-      "change": 3.3500000000000014,
-      "changePercent": 20.168573148705608
+      "change": 2.8500000000000014,
+      "changePercent": 17.15833835039134
     }
   }
 }
