@@ -1,29 +1,29 @@
 {
-  "updated": "2026-11-11T16:29:54.822707+00:00",
+  "updated": "2026-11-11T22:56:44.498917+00:00",
   "indices": {
     "sp500": {
-      "value": 7615.48,
+      "value": 7619.38,
       "previousClose": 7688.62,
-      "change": -73.14000000000033,
-      "changePercent": -0.9512760417344118
+      "change": -69.23999999999978,
+      "changePercent": -0.9005517244967209
     },
     "nasdaq": {
-      "value": 25552.81,
+      "value": 25466.19,
       "previousClose": 25736.51,
-      "change": -183.6999999999971,
-      "changePercent": -0.7137719916181219
+      "change": -270.3199999999997,
+      "changePercent": -1.050336661808457
     },
     "dow": {
-      "value": 52247.43,
+      "value": 52486.49,
       "previousClose": 53356.12,
-      "change": -1108.6900000000023,
-      "changePercent": -2.0779059646765963
+      "change": -869.6300000000047,
+      "changePercent": -1.6298598923609975
     },
     "russell2000": {
-      "value": 2843.588,
+      "value": 2846.2625,
       "previousClose": 2856.95,
-      "change": -13.361999999999625,
-      "changePercent": -0.4677015698559521
+      "change": -10.6875,
+      "changePercent": -0.37408775092318736
     }
   },
   "rates": {
@@ -36,24 +36,24 @@
   },
   "commodities": {
     "oil": {
-      "value": 88.21,
+      "value": 86.42,
       "previousClose": 90.83,
-      "change": -2.6200000000000045,
-      "changePercent": -2.884509523285263
+      "change": -4.409999999999997,
+      "changePercent": -4.855224044919075
     },
     "gold": {
-      "value": 4013.5,
+      "value": 3994.3,
       "previousClose": 4074.9,
-      "change": -61.40000000000009,
-      "changePercent": -1.5067854425875504
+      "change": -80.59999999999991,
+      "changePercent": -1.9779626493901667
     }
   },
   "volatility": {
     "vix": {
-      "value": 17.7,
+      "value": 17.49,
       "previousClose": 28.18,
-      "change": -10.48,
-      "changePercent": -37.189496096522355
+      "change": -10.690000000000001,
+      "changePercent": -37.934705464868706
     }
   }
 }
