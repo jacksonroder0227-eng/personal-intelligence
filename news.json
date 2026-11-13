@@ -1,10 +1,20 @@
 {
-  "updated": "2026-11-12T21:48:17.094745+00:00",
+  "updated": "2026-11-13T02:25:44.927486+00:00",
   "world": [
     {
-      "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
-      "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 21:00:42 GMT"
+      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 23:34:05 GMT"
+    },
+    {
+      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 02:01:35 GMT"
+    },
+    {
+      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+      "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 00:20:24 GMT"
     },
     {
       "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
@@ -17,14 +27,19 @@
       "published": "Thu, 12 Nov 2026 19:23:02 GMT"
     },
     {
-      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 12:56:55 GMT"
+      "title": "Australian footballers will not be charged after hotel incident, police say",
+      "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 01:03:59 GMT"
     },
     {
       "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
       "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 12 Nov 2026 18:47:35 GMT"
+    },
+    {
+      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 12:56:55 GMT"
     },
     {
       "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
@@ -35,28 +50,23 @@
       "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
       "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 12 Nov 2026 16:54:12 GMT"
-    },
-    {
-      "title": "Five new miniature frog species found in eastern Himalayas",
-      "link": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 11:07:19 GMT"
-    },
-    {
-      "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
-      "link": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 07:45:52 GMT"
-    },
-    {
-      "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
-      "link": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 13:58:49 GMT"
     }
   ],
   "finance": [
     {
-      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-      "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 17:11:48 GMT"
+      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 23:34:05 GMT"
+    },
+    {
+      "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+      "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 01:53:55 GMT"
+    },
+    {
+      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+      "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 00:13:35 GMT"
     },
     {
       "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
@@ -81,7 +91,7 @@
     {
       "title": "Some under-25s should get fewer benefits, Milburn review to say",
       "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 17:32:14 GMT"
+      "published": "Thu, 12 Nov 2026 22:51:18 GMT"
     },
     {
       "title": "Christmas toy rush being driven by squishies and building sets",
@@ -92,16 +102,6 @@
       "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
       "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 10 Nov 2026 22:52:15 GMT"
-    },
-    {
-      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-      "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 17:56:12 GMT"
-    },
-    {
-      "title": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
-      "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 15:10:20 GMT"
     }
   ],
   "markets": []
