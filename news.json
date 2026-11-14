@@ -1,15 +1,25 @@
 {
-  "updated": "2026-11-13T18:24:36.599381+00:00",
+  "updated": "2026-11-14T00:12:34.444927+00:00",
   "world": [
+    {
+      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 21:14:22 GMT"
+    },
     {
       "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
       "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 17:12:46 GMT"
+      "published": "Fri, 13 Nov 2026 18:36:57 GMT"
     },
     {
       "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
       "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 11:43:27 GMT"
+    },
+    {
+      "title": "Setback for SpaceX Starship rocket's double-catch test",
+      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 00:01:01 GMT"
     },
     {
       "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
@@ -19,7 +29,12 @@
     {
       "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
       "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 15:40:08 GMT"
+      "published": "Fri, 13 Nov 2026 19:53:57 GMT"
+    },
+    {
+      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
+      "link": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 18:34:45 GMT"
     },
     {
       "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
@@ -27,36 +42,26 @@
       "published": "Fri, 13 Nov 2026 15:42:52 GMT"
     },
     {
-      "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
-      "link": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 07:01:43 GMT"
-    },
-    {
       "title": "Democratic Senate leader Schumer set to face leadership challenge",
       "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 15:48:07 GMT"
+      "published": "Fri, 13 Nov 2026 19:03:10 GMT"
     },
     {
-      "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
-      "link": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 12:28:28 GMT"
-    },
-    {
-      "title": "Rosal\u00eda scoops historic third best album award at Latin Grammys",
-      "link": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 11:38:54 GMT"
-    },
-    {
-      "title": "Nigerian university in mourning after four students die at post-exam party",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 11:37:08 GMT"
+      "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+      "link": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 13:11:23 GMT"
     }
   ],
   "finance": [
     {
+      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 21:14:22 GMT"
+    },
+    {
       "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
       "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 17:12:46 GMT"
+      "published": "Fri, 13 Nov 2026 18:36:57 GMT"
     },
     {
       "title": "How a sex scandal at Nvidia is putting pressure on the White House",
@@ -66,7 +71,7 @@
     {
       "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
       "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 15:40:08 GMT"
+      "published": "Fri, 13 Nov 2026 19:53:57 GMT"
     },
     {
       "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
@@ -97,11 +102,6 @@
       "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
       "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 12 Nov 2026 13:27:09 GMT"
-    },
-    {
-      "title": "UK economy grows at fastest rate for more than two years",
-      "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 11:20:25 GMT"
     }
   ],
   "markets": []
