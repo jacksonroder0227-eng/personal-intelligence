@@ -1,15 +1,25 @@
 {
-  "updated": "2026-11-14T23:39:51.069035+00:00",
+  "updated": "2026-11-15T05:03:37.622340+00:00",
   "world": [
+    {
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 22:37:25 GMT"
+    },
     {
       "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
       "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 14 Nov 2026 19:12:25 GMT"
     },
     {
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 22:37:25 GMT"
+      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Nov 2026 02:49:45 GMT"
+    },
+    {
+      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+      "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Nov 2026 03:21:04 GMT"
     },
     {
       "title": "Italy fines Meta \u20ac805m over accessing users' photos",
@@ -40,19 +50,19 @@
       "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
       "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 14 Nov 2026 00:03:52 GMT"
-    },
-    {
-      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
-      "link": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 15:42:54 GMT"
-    },
-    {
-      "title": "Hungarian authorities uncover $20m during probe of Orb\u00e1n-era minister",
-      "link": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 10:42:20 GMT"
     }
   ],
   "finance": [
+    {
+      "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+      "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Nov 2026 00:01:07 GMT"
+    },
+    {
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 23:00:31 GMT"
+    },
     {
       "title": "Microsoft says services fully restored after day-long global outage",
       "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
@@ -62,11 +72,6 @@
       "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
       "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 18:36:57 GMT"
-    },
-    {
-      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
-      "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 12:22:30 GMT"
     },
     {
       "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
@@ -97,11 +102,6 @@
       "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
       "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 12 Nov 2026 15:10:32 GMT"
-    },
-    {
-      "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
-      "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 13:27:09 GMT"
     }
   ],
   "markets": []
