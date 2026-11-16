@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T23:46:10.912100+00:00",
+  "updated": "2026-11-16T05:01:17.331418+00:00",
   "world": [
     {
       "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
@@ -7,9 +7,34 @@
       "published": "Sun, 15 Nov 2026 19:32:39 GMT"
     },
     {
+      "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 03:08:31 GMT"
+    },
+    {
       "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
       "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 22:24:20 GMT"
+      "published": "Mon, 16 Nov 2026 01:47:57 GMT"
+    },
+    {
+      "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+      "link": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 03:09:49 GMT"
+    },
+    {
+      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 03:21:56 GMT"
+    },
+    {
+      "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Nov 2026 22:00:13 GMT"
+    },
+    {
+      "title": "Canada bars Russia from Junior World Championships",
+      "link": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Nov 2026 22:01:16 GMT"
     },
     {
       "title": "South Korea's top scorer in tax accountancy exam admits cheating",
@@ -22,34 +47,9 @@
       "published": "Sun, 15 Nov 2026 18:38:11 GMT"
     },
     {
-      "title": "'Steering casualty' preceded New Orleans cruise ship collision, says NTSB",
+      "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
       "link": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 15 Nov 2026 22:57:27 GMT"
-    },
-    {
-      "title": "Czechs rally against plan to switch funding of public media",
-      "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 21:03:40 GMT"
-    },
-    {
-      "title": "Police ban protests near 10 schools and five universities in Paris",
-      "link": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 22:28:54 GMT"
-    },
-    {
-      "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
-      "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 11:06:32 GMT"
-    },
-    {
-      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
-      "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 16:15:20 GMT"
-    },
-    {
-      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
-      "link": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 19:20:53 GMT"
     }
   ],
   "finance": [
@@ -66,7 +66,17 @@
     {
       "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
       "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 22:24:20 GMT"
+      "published": "Mon, 16 Nov 2026 01:47:57 GMT"
+    },
+    {
+      "title": "Investors sue chip giant Intel after 29% stock plunge",
+      "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 03:04:01 GMT"
+    },
+    {
+      "title": "Black Friday and tax return scams  - don't fall for these",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 00:50:39 GMT"
     },
     {
       "title": "Minister backs legal right to job support for young people",
@@ -92,16 +102,6 @@
       "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
       "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 18:36:57 GMT"
-    },
-    {
-      "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 19:53:57 GMT"
-    },
-    {
-      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 03:57:01 GMT"
     }
   ],
   "markets": []
