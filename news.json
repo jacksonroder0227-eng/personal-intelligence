@@ -1,20 +1,45 @@
 {
-  "updated": "2026-11-19T16:20:15.313717+00:00",
+  "updated": "2026-11-19T23:24:43.346072+00:00",
   "world": [
+    {
+      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 21:38:42 GMT"
+    },
+    {
+      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 20:07:02 GMT"
+    },
     {
       "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
       "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Nov 2026 15:23:34 GMT"
+      "published": "Thu, 19 Nov 2026 17:38:22 GMT"
+    },
+    {
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 21:21:43 GMT"
+    },
+    {
+      "title": "California probing whether China improperly acquired Nvidia technology",
+      "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 23:04:30 GMT"
+    },
+    {
+      "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+      "link": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 22:48:22 GMT"
+    },
+    {
+      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 22:09:04 GMT"
     },
     {
       "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
       "link": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 19 Nov 2026 15:52:26 GMT"
-    },
-    {
-      "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Nov 2026 13:31:23 GMT"
     },
     {
       "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
@@ -25,34 +50,14 @@
       "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
       "link": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 19 Nov 2026 00:49:19 GMT"
-    },
-    {
-      "title": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
-      "link": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Nov 2026 12:56:30 GMT"
-    },
-    {
-      "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
-      "link": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Nov 2026 09:21:54 GMT"
-    },
-    {
-      "title": "Florida pastor found guilty over role in assassination of Haitian president",
-      "link": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Nov 2026 11:44:57 GMT"
-    },
-    {
-      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-      "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Nov 2026 11:07:37 GMT"
-    },
-    {
-      "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
-      "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Nov 2026 02:59:06 GMT"
     }
   ],
   "finance": [
+    {
+      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 21:38:42 GMT"
+    },
     {
       "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
       "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
@@ -97,11 +102,6 @@
       "title": "Why has Waymo pulled all its driverless cars from US freeways?",
       "link": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 18 Nov 2026 23:47:46 GMT"
-    },
-    {
-      "title": "Typical energy bill forecast to go up by \u00a3443 a year from January as inflation rate rises again",
-      "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 13:17:06 GMT"
     }
   ],
   "markets": []
