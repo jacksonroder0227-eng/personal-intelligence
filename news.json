@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-18T23:16:50.013585+00:00",
+  "updated": "2026-11-19T06:09:53.011941+00:00",
   "world": [
+    {
+      "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+      "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 04:42:52 GMT"
+    },
     {
       "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
       "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 18 Nov 2026 17:00:40 GMT"
-    },
-    {
-      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-      "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 17:00:04 GMT"
     },
     {
       "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
@@ -17,9 +17,19 @@
       "published": "Wed, 18 Nov 2026 23:04:06 GMT"
     },
     {
-      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-      "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 16:10:44 GMT"
+      "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 02:20:15 GMT"
+    },
+    {
+      "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+      "link": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 00:49:19 GMT"
+    },
+    {
+      "title": "Crimean Bridge attacked again, Russian official says",
+      "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 04:37:17 GMT"
     },
     {
       "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
@@ -27,36 +37,61 @@
       "published": "Wed, 18 Nov 2026 22:34:56 GMT"
     },
     {
-      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-      "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 17:34:25 GMT"
+      "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+      "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 02:59:06 GMT"
+    },
+    {
+      "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+      "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 23:28:03 GMT"
     },
     {
       "title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
       "link": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 18 Nov 2026 15:39:57 GMT"
-    },
-    {
-      "title": "William and Kate meet PM Modi as they wrap up India tour",
-      "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 20:07:08 GMT"
-    },
-    {
-      "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 13:04:48 GMT"
-    },
-    {
-      "title": "Ghana's new $60m presidential jet sparks public outrage",
-      "link": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 09:27:51 GMT"
     }
   ],
   "finance": [
     {
-      "title": "Can Anthropic's record breaking IPO stop the AI bubble bursting?",
+      "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 02:20:15 GMT"
+    },
+    {
+      "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
       "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 18 Nov 2026 21:28:08 GMT"
+    },
+    {
+      "title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 23:42:07 GMT"
+    },
+    {
+      "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+      "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 02:59:06 GMT"
+    },
+    {
+      "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 00:00:59 GMT"
+    },
+    {
+      "title": "Europe plans to catch the next computer chip wave",
+      "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 00:00:24 GMT"
+    },
+    {
+      "title": "Gilts v kilts: What is happening with Scottish government bonds?",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 23:01:09 GMT"
+    },
+    {
+      "title": "Why has Waymo pulled all its driverless cars from US freeways?",
+      "link": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 23:47:46 GMT"
     },
     {
       "title": "Typical energy bill forecast to go up by \u00a3443 a year from January as inflation rate rises again",
@@ -67,41 +102,6 @@
       "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
       "link": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 18 Nov 2026 13:10:01 GMT"
-    },
-    {
-      "title": "The seven Anthropic founders who are about to become multi-billionaires",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 13:55:14 GMT"
-    },
-    {
-      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 01:18:18 GMT"
-    },
-    {
-      "title": "Europe plans to catch the next computer chip wave",
-      "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 00:00:24 GMT"
-    },
-    {
-      "title": "How important are Nvidia and Jensen Huang to the US economy?",
-      "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 06:04:21 GMT"
-    },
-    {
-      "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bond",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 04:00:54 GMT"
-    },
-    {
-      "title": "Government backs welfare shake-up to prevent 'lost generation'",
-      "link": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 18:43:05 GMT"
-    },
-    {
-      "title": "Speed camera fault may have allowed drivers to escape fines",
-      "link": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 20:04:54 GMT"
     }
   ],
   "markets": []
